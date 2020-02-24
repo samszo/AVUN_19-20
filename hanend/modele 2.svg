@@ -1347,7 +1347,8 @@
        x="86.656372"
        y="65.280273"
        id="text1357"
-       transform="scale(0.86184552,1.1603007)"><tspan
+       transform="scale(0.86184552,1.1603007)"
+       onclick="window.open('https://intlekt.io/?comments=l.-a.-%27','_blanck');"><tspan
          sodipodi:role="line"
          x="86.656372"
          y="65.280273"
