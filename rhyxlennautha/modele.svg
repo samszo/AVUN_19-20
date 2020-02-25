@@ -17,6 +17,15 @@
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="modele.svg.svg">
+
+<style type="text/css">
+  <![CDATA[
+  .doigt {
+     cursor:pointer;
+  }
+  ]]>
+  </style>
+
   <defs
      id="defs2">
     <pattern
