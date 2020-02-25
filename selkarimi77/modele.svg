@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
-<svg
+<svg:svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -17,9 +16,14 @@
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="modele.svg">
-  <defs
+<style type="text/css"><![CDATA[
+      .doigt{
+        cursor: pointer;
+      }
+    ]]></style>
+  <svg:defs
      id="defs2">
-    <marker
+    <svg:marker
        inkscape:isstock="true"
        style="overflow:visible;"
        id="marker9822"
@@ -27,13 +31,13 @@
        refY="0.0"
        orient="auto"
        inkscape:stockid="Arrow2Mend">
-      <path
+      <svg:path
          transform="scale(0.6) rotate(180) translate(0,0)"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
          style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
          id="path9820" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:stockid="Arrow2Mend"
        orient="auto"
        refY="0.0"
@@ -42,13 +46,13 @@
        style="overflow:visible;"
        inkscape:isstock="true"
        inkscape:collect="always">
-      <path
+      <svg:path
          id="path10853"
          style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#ff5246;stroke-opacity:1;fill:#ff5246;fill-opacity:1"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
          transform="scale(0.6) rotate(180) translate(0,0)" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:stockid="Arrow2Mend"
        orient="auto"
        refY="0.0"
@@ -56,13 +60,13 @@
        id="marker9927"
        style="overflow:visible;"
        inkscape:isstock="true">
-      <path
+      <svg:path
          id="path9925"
          style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#ff5246;stroke-opacity:1;fill:#ff5246;fill-opacity:1"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
          transform="scale(0.6) rotate(180) translate(0,0)" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:isstock="true"
        style="overflow:visible;"
        id="marker9531"
@@ -71,13 +75,13 @@
        orient="auto"
        inkscape:stockid="Arrow2Mend"
        inkscape:collect="always">
-      <path
+      <svg:path
          transform="scale(0.6) rotate(180) translate(0,0)"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
          style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#ead0ff;stroke-opacity:1;fill:#ead0ff;fill-opacity:1"
          id="path9529" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:stockid="Arrow2Mend"
        orient="auto"
        refY="0.0"
@@ -86,13 +90,13 @@
        style="overflow:visible;"
        inkscape:isstock="true"
        inkscape:collect="always">
-      <path
+      <svg:path
          id="path9129"
          style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#ffa59f;stroke-opacity:1;fill:#ffa59f;fill-opacity:1"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
          transform="scale(0.6) rotate(180) translate(0,0)" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:isstock="true"
        style="overflow:visible;"
        id="marker8743"
@@ -101,13 +105,13 @@
        orient="auto"
        inkscape:stockid="Arrow2Mend"
        inkscape:collect="always">
-      <path
+      <svg:path
          transform="scale(0.6) rotate(180) translate(0,0)"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
          style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#98e0ff;stroke-opacity:1;fill:#98e0ff;fill-opacity:1"
          id="path8741" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:stockid="Arrow2Mend"
        orient="auto"
        refY="0.0"
@@ -116,13 +120,13 @@
        style="overflow:visible;"
        inkscape:isstock="true"
        inkscape:collect="always">
-      <path
+      <svg:path
          id="path8353"
          style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#ead0ff;stroke-opacity:1;fill:#ead0ff;fill-opacity:1"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
          transform="scale(0.6) rotate(180) translate(0,0)" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:isstock="true"
        style="overflow:visible;"
        id="marker7983"
@@ -131,13 +135,13 @@
        orient="auto"
        inkscape:stockid="Arrow2Mend"
        inkscape:collect="always">
-      <path
+      <svg:path
          transform="scale(0.6) rotate(180) translate(0,0)"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
          style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#98e0ff;stroke-opacity:1;fill:#98e0ff;fill-opacity:1"
          id="path7981" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:stockid="Arrow2Mend"
        orient="auto"
        refY="0.0"
@@ -146,13 +150,13 @@
        style="overflow:visible;"
        inkscape:isstock="true"
        inkscape:collect="always">
-      <path
+      <svg:path
          id="path7627"
          style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#ffa59f;stroke-opacity:1;fill:#ffa59f;fill-opacity:1"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
          transform="scale(0.6) rotate(180) translate(0,0)" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:stockid="Arrow2Mend"
        orient="auto"
        refY="0.0"
@@ -160,13 +164,13 @@
        id="marker7215"
        style="overflow:visible;"
        inkscape:isstock="true">
-      <path
+      <svg:path
          id="path7213"
          style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#d5d1d2;stroke-opacity:1;fill:#d5d1d2;fill-opacity:1"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
          transform="scale(0.6) rotate(180) translate(0,0)" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:isstock="true"
        style="overflow:visible;"
        id="marker6291"
@@ -175,13 +179,13 @@
        orient="auto"
        inkscape:stockid="Arrow2Mend"
        inkscape:collect="always">
-      <path
+      <svg:path
          transform="scale(0.6) rotate(180) translate(0,0)"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
          style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#3a53ff;stroke-opacity:0.99607843;fill:#3a53ff;fill-opacity:0.99607843"
          id="path6289" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:stockid="Arrow2Mend"
        orient="auto"
        refY="0.0"
@@ -190,13 +194,13 @@
        style="overflow:visible;"
        inkscape:isstock="true"
        inkscape:collect="always">
-      <path
+      <svg:path
          id="path5353"
          style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#1bb323;stroke-opacity:1;fill:#1bb323;fill-opacity:1"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
          transform="scale(0.6) rotate(180) translate(0,0)" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:isstock="true"
        style="overflow:visible;"
        id="marker3779"
@@ -205,13 +209,13 @@
        orient="auto"
        inkscape:stockid="Arrow2Mend"
        inkscape:collect="always">
-      <path
+      <svg:path
          transform="scale(0.6) rotate(180) translate(0,0)"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
          style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#ff3453;stroke-opacity:1;fill:#ff3453;fill-opacity:1"
          id="path3777" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:stockid="Arrow2Mend"
        orient="auto"
        refY="0.0"
@@ -220,13 +224,13 @@
        style="overflow:visible;"
        inkscape:isstock="true"
        inkscape:collect="always">
-      <path
+      <svg:path
          id="path3465"
          style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#1bb323;stroke-opacity:1;fill:#1bb323;fill-opacity:1"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
          transform="scale(0.6) rotate(180) translate(0,0)" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:isstock="true"
        style="overflow:visible;"
        id="marker12477"
@@ -234,13 +238,13 @@
        refY="0.0"
        orient="auto"
        inkscape:stockid="Arrow1Lend">
-      <path
+      <svg:path
          transform="scale(0.8) rotate(180) translate(12.5,0)"
          style="fill-rule:evenodd;stroke:#ead0ff;stroke-width:1pt;stroke-opacity:1;fill:#ead0ff;fill-opacity:1"
          d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
          id="path12475" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:stockid="Arrow2Mend"
        orient="auto"
        refY="0.0"
@@ -248,13 +252,13 @@
        id="marker12149"
        style="overflow:visible;"
        inkscape:isstock="true">
-      <path
+      <svg:path
          id="path12147"
          style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#ead0ff;stroke-opacity:1;fill:#ead0ff;fill-opacity:1"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
          transform="scale(0.6) rotate(180) translate(0,0)" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:isstock="true"
        style="overflow:visible;"
        id="marker11839"
@@ -262,13 +266,13 @@
        refY="0.0"
        orient="auto"
        inkscape:stockid="Arrow1Lend">
-      <path
+      <svg:path
          transform="scale(0.8) rotate(180) translate(12.5,0)"
          style="fill-rule:evenodd;stroke:#ead0ff;stroke-width:1pt;stroke-opacity:1;fill:#ead0ff;fill-opacity:1"
          d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
          id="path11837" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:isstock="true"
        style="overflow:visible;"
        id="marker11219"
@@ -276,13 +280,13 @@
        refY="0.0"
        orient="auto"
        inkscape:stockid="Arrow2Mend">
-      <path
+      <svg:path
          transform="scale(0.6) rotate(180) translate(0,0)"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
          style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#ffa59f;stroke-opacity:1;fill:#ffa59f;fill-opacity:1"
          id="path11217" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:stockid="Arrow2Mend"
        orient="auto"
        refY="0.0"
@@ -290,13 +294,13 @@
        id="marker5133"
        style="overflow:visible;"
        inkscape:isstock="true">
-      <path
+      <svg:path
          id="path5131"
          style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#ffa59f;stroke-opacity:0.86666667;fill:#ffa59f;fill-opacity:0.86666667"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
          transform="scale(0.6) rotate(180) translate(0,0)" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:stockid="Arrow2Mend"
        orient="auto"
        refY="0.0"
@@ -304,13 +308,13 @@
        id="marker4455"
        style="overflow:visible;"
        inkscape:isstock="true">
-      <path
+      <svg:path
          id="path1859"
          style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#1bb323;stroke-opacity:1;fill:#1bb323;fill-opacity:1"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
          transform="scale(0.6) rotate(180) translate(0,0)" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:isstock="true"
        style="overflow:visible;"
        id="marker4266"
@@ -319,13 +323,13 @@
        orient="auto"
        inkscape:stockid="Arrow2Mend"
        inkscape:collect="always">
-      <path
+      <svg:path
          transform="scale(0.6) rotate(180) translate(0,0)"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
          style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#3a53ff;stroke-opacity:0.94901961;fill:#3a53ff;fill-opacity:0.94901961"
          id="path4264" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:isstock="true"
        style="overflow:visible;"
        id="marker3908"
@@ -333,13 +337,13 @@
        refY="0.0"
        orient="auto"
        inkscape:stockid="Arrow2Mend">
-      <path
+      <svg:path
          transform="scale(0.6) rotate(180) translate(0,0)"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
          style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#ffa59f;stroke-opacity:1;fill:#ffa59f;fill-opacity:1"
          id="path3906" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:stockid="TriangleInL"
        orient="auto"
        refY="0.0"
@@ -347,13 +351,13 @@
        id="TriangleInL"
        style="overflow:visible"
        inkscape:isstock="true">
-      <path
+      <svg:path
          id="path1965"
          d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
          style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
          transform="scale(-0.8)" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:stockid="Arrow1Mend"
        orient="auto"
        refY="0.0"
@@ -361,13 +365,13 @@
        id="marker2784"
        style="overflow:visible;"
        inkscape:isstock="true">
-      <path
+      <svg:path
          id="path2782"
          d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
          style="fill-rule:evenodd;stroke:#ffa59f;stroke-width:1pt;stroke-opacity:0.86666667;fill:#ffa59f;fill-opacity:0.86666667"
          transform="scale(0.4) rotate(180) translate(10,0)" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:stockid="Arrow1Mstart"
        orient="auto"
        refY="0.0"
@@ -375,13 +379,13 @@
        id="marker2592"
        style="overflow:visible"
        inkscape:isstock="true">
-      <path
+      <svg:path
          id="path1838"
          d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
          style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
          transform="scale(0.4) translate(10,0)" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:stockid="Arrow1Mend"
        orient="auto"
        refY="0.0"
@@ -389,13 +393,13 @@
        id="marker2095"
        style="overflow:visible;"
        inkscape:isstock="true">
-      <path
+      <svg:path
          id="path1841"
          d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
          style="fill-rule:evenodd;stroke:none;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
          transform="scale(0.4) rotate(180) translate(10,0)" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:stockid="TriangleInM"
        orient="auto"
        refY="0.0"
@@ -403,13 +407,13 @@
        id="TriangleInM"
        style="overflow:visible"
        inkscape:isstock="true">
-      <path
+      <svg:path
          id="path2101"
          d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
          style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
          transform="scale(-0.4)" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:stockid="Arrow1Send"
        orient="auto"
        refY="0.0"
@@ -417,13 +421,13 @@
        id="Arrow1Send"
        style="overflow:visible;"
        inkscape:isstock="true">
-      <path
+      <svg:path
          id="path1980"
          d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
          style="fill-rule:evenodd;stroke:none;stroke-width:1pt;stroke-opacity:1;fill:#425aff;fill-opacity:0.98823529"
          transform="scale(0.2) rotate(180) translate(6,0)" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:stockid="Arrow1Lend"
        orient="auto"
        refY="0"
@@ -431,14 +435,14 @@
        id="marker3567"
        style="overflow:visible"
        inkscape:isstock="true">
-      <path
+      <svg:path
          inkscape:connector-curvature="0"
          id="path3565"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          style="fill:#ffa59f;fill-opacity:1;fill-rule:evenodd;stroke:#ffa59f;stroke-width:1.00000003pt;stroke-opacity:1"
          transform="matrix(-0.8,0,0,-0.8,-10,0)" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:stockid="Arrow1Lend"
        orient="auto"
        refY="0"
@@ -446,14 +450,14 @@
        id="marker3449"
        style="overflow:visible"
        inkscape:isstock="true">
-      <path
+      <svg:path
          inkscape:connector-curvature="0"
          id="path3447"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
          transform="matrix(-0.8,0,0,-0.8,-10,0)" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:stockid="Arrow1Lend"
        orient="auto"
        refY="0"
@@ -461,14 +465,14 @@
        id="marker3337"
        style="overflow:visible"
        inkscape:isstock="true">
-      <path
+      <svg:path
          inkscape:connector-curvature="0"
          id="path3335"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
          transform="matrix(-0.8,0,0,-0.8,-10,0)" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:isstock="true"
        style="overflow:visible"
        id="marker2755"
@@ -476,14 +480,14 @@
        refY="0"
        orient="auto"
        inkscape:stockid="Arrow1Lend">
-      <path
+      <svg:path
          inkscape:connector-curvature="0"
          transform="matrix(-0.8,0,0,-0.8,-10,0)"
          style="fill:#d59fff;fill-opacity:1;fill-rule:evenodd;stroke:#d59fff;stroke-width:1.00000003pt;stroke-opacity:1"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path2753" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:stockid="Arrow1Mstart"
        orient="auto"
        refY="0.0"
@@ -491,13 +495,13 @@
        id="Arrow1Mstart"
        style="overflow:visible"
        inkscape:isstock="true">
-      <path
+      <svg:path
          id="path1971"
          d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
          style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
          transform="scale(0.4) translate(10,0)" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:stockid="Arrow1Lend"
        orient="auto"
        refY="0"
@@ -505,14 +509,14 @@
        id="marker4560"
        style="overflow:visible"
        inkscape:isstock="true">
-      <path
+      <svg:path
          id="path4558"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          style="fill:#cc001a;fill-opacity:1;fill-rule:evenodd;stroke:#cc001a;stroke-width:1.00000003pt;stroke-opacity:1"
          transform="matrix(-0.8,0,0,-0.8,-10,0)"
          inkscape:connector-curvature="0" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:stockid="Arrow1Lend"
        orient="auto"
        refY="0"
@@ -520,14 +524,14 @@
        id="marker4414"
        style="overflow:visible"
        inkscape:isstock="true">
-      <path
+      <svg:path
          id="path4412"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          style="fill:#d59fff;fill-opacity:1;fill-rule:evenodd;stroke:#d59fff;stroke-width:1.00000003pt;stroke-opacity:1"
          transform="matrix(-0.8,0,0,-0.8,-10,0)"
          inkscape:connector-curvature="0" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:stockid="Arrow1Lend"
        orient="auto"
        refY="0"
@@ -535,14 +539,14 @@
        id="marker4276"
        style="overflow:visible"
        inkscape:isstock="true">
-      <path
+      <svg:path
          id="path4274"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          style="fill:#3951ff;fill-opacity:1;fill-rule:evenodd;stroke:#3951ff;stroke-width:1.00000003pt;stroke-opacity:1"
          transform="matrix(-0.8,0,0,-0.8,-10,0)"
          inkscape:connector-curvature="0" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:stockid="Arrow1Lend"
        orient="auto"
        refY="0"
@@ -550,13 +554,13 @@
        id="marker4066"
        style="overflow:visible"
        inkscape:isstock="true">
-      <path
+      <svg:path
          id="path4064"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          style="fill:#3952ff;fill-opacity:0.98823529;fill-rule:evenodd;stroke:#3952ff;stroke-width:1.00000003pt;stroke-opacity:0.98823529"
          transform="matrix(-0.8,0,0,-0.8,-10,0)"
          inkscape:connector-curvature="0" />
-    </marker>
+    </svg:marker>
     <inkscape:path-effect
        effect="spiro"
        id="path-effect3604"
@@ -573,7 +577,7 @@
        effect="spiro"
        id="path-effect3205"
        is_visible="true" />
-    <marker
+    <svg:marker
        inkscape:stockid="Arrow1Mend"
        orient="auto"
        refY="0"
@@ -581,18 +585,18 @@
        id="Arrow1Mend"
        style="overflow:visible"
        inkscape:isstock="true">
-      <path
+      <svg:path
          id="path1694"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          style="fill:#ffa59f;fill-opacity:1;fill-rule:evenodd;stroke:#ffa59f;stroke-width:1.00000003pt;stroke-opacity:1"
          transform="matrix(-0.4,0,0,-0.4,-4,0)"
          inkscape:connector-curvature="0" />
-    </marker>
+    </svg:marker>
     <inkscape:path-effect
        effect="spiro"
        id="path-effect3139"
        is_visible="true" />
-    <marker
+    <svg:marker
        inkscape:isstock="true"
        style="overflow:visible"
        id="marker2997"
@@ -600,13 +604,13 @@
        refY="0"
        orient="auto"
        inkscape:stockid="Arrow1Lend">
-      <path
+      <svg:path
          transform="matrix(-0.8,0,0,-0.8,-10,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path2995"
          inkscape:connector-curvature="0" />
-    </marker>
+    </svg:marker>
     <inkscape:path-effect
        effect="spiro"
        id="path-effect2987"
@@ -659,7 +663,7 @@
        effect="spiro"
        id="path-effect2919"
        is_visible="true" />
-    <marker
+    <svg:marker
        inkscape:isstock="true"
        style="overflow:visible"
        id="marker2003-1"
@@ -667,14 +671,14 @@
        refY="0"
        orient="auto"
        inkscape:stockid="Arrow1Lend">
-      <path
+      <svg:path
          inkscape:connector-curvature="0"
          transform="matrix(-0.8,0,0,-0.8,-10,0)"
          style="fill:#cc001a;fill-opacity:1;fill-rule:evenodd;stroke:#cc001a;stroke-width:1.00000003pt;stroke-opacity:1"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path2001-5" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:stockid="Arrow1Mend"
        orient="auto"
        refY="0"
@@ -682,14 +686,14 @@
        id="Arrow1Mend-6"
        style="overflow:visible"
        inkscape:isstock="true">
-      <path
+      <svg:path
          id="path1694-1"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          style="fill:#ffa59f;fill-opacity:1;fill-rule:evenodd;stroke:#ffa59f;stroke-width:1.00000003pt;stroke-opacity:1"
          transform="matrix(-0.4,0,0,-0.4,-4,0)"
          inkscape:connector-curvature="0" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:stockid="Arrow1Mend"
        orient="auto"
        refY="0"
@@ -697,14 +701,14 @@
        id="Arrow1Mend-69"
        style="overflow:visible"
        inkscape:isstock="true">
-      <path
+      <svg:path
          id="path1694-7"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          style="fill:#ffa59f;fill-opacity:1;fill-rule:evenodd;stroke:#ffa59f;stroke-width:1.00000003pt;stroke-opacity:1"
          transform="matrix(-0.4,0,0,-0.4,-4,0)"
          inkscape:connector-curvature="0" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:stockid="Arrow1Mend"
        orient="auto"
        refY="0"
@@ -712,14 +716,14 @@
        id="Arrow1Mend-4"
        style="overflow:visible"
        inkscape:isstock="true">
-      <path
+      <svg:path
          id="path1694-6"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          style="fill:#8cdcff;fill-opacity:1;fill-rule:evenodd;stroke:#8cdcff;stroke-width:1.00000003pt;stroke-opacity:1"
          transform="matrix(-0.4,0,0,-0.4,-4,0)"
          inkscape:connector-curvature="0" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:stockid="Arrow1Mend"
        orient="auto"
        refY="0"
@@ -727,14 +731,14 @@
        id="Arrow1Mend-4-9"
        style="overflow:visible"
        inkscape:isstock="true">
-      <path
+      <svg:path
          id="path1694-6-6"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          style="fill:#8cdcff;fill-opacity:1;fill-rule:evenodd;stroke:#8cdcff;stroke-width:1.00000003pt;stroke-opacity:1"
          transform="matrix(-0.4,0,0,-0.4,-4,0)"
          inkscape:connector-curvature="0" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:stockid="Arrow1Mend"
        orient="auto"
        refY="0"
@@ -742,14 +746,14 @@
        id="Arrow1Mend-4-0"
        style="overflow:visible"
        inkscape:isstock="true">
-      <path
+      <svg:path
          id="path1694-6-0"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          style="fill:#8cdcff;fill-opacity:1;fill-rule:evenodd;stroke:#8cdcff;stroke-width:1.00000003pt;stroke-opacity:1"
          transform="matrix(-0.4,0,0,-0.4,-4,0)"
          inkscape:connector-curvature="0" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:stockid="Arrow2Mend"
        orient="auto"
        refY="0"
@@ -757,14 +761,14 @@
        id="marker5133-1"
        style="overflow:visible"
        inkscape:isstock="true">
-      <path
+      <svg:path
          inkscape:connector-curvature="0"
          id="path5131-1"
          style="fill:#3852ff;fill-opacity:0.81568627;fill-rule:evenodd;stroke:#3852ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:0.81568627"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          transform="scale(-0.6)" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:stockid="Arrow2Mend"
        orient="auto"
        refY="0"
@@ -772,14 +776,14 @@
        id="marker4931-8"
        style="overflow:visible"
        inkscape:isstock="true">
-      <path
+      <svg:path
          inkscape:connector-curvature="0"
          id="path4929-8"
          style="fill:#3852ff;fill-opacity:0.81568627;fill-rule:evenodd;stroke:#3852ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:0.81568627"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          transform="scale(-0.6)" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:stockid="Arrow2Mend"
        orient="auto"
        refY="0"
@@ -787,14 +791,14 @@
        id="marker5133-1-2"
        style="overflow:visible"
        inkscape:isstock="true">
-      <path
+      <svg:path
          inkscape:connector-curvature="0"
          id="path5131-1-1"
          style="fill:#3852ff;fill-opacity:0.81568627;fill-rule:evenodd;stroke:#3852ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:0.81568627"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          transform="scale(-0.6)" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:stockid="Arrow2Mend"
        orient="auto"
        refY="0"
@@ -802,14 +806,14 @@
        id="marker4931-8-1"
        style="overflow:visible"
        inkscape:isstock="true">
-      <path
+      <svg:path
          inkscape:connector-curvature="0"
          id="path4929-8-0"
          style="fill:#3852ff;fill-opacity:0.81568627;fill-rule:evenodd;stroke:#3852ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:0.81568627"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          transform="scale(-0.6)" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:stockid="Arrow2Mend"
        orient="auto"
        refY="0"
@@ -817,14 +821,14 @@
        id="marker5133-8"
        style="overflow:visible"
        inkscape:isstock="true">
-      <path
+      <svg:path
          inkscape:connector-curvature="0"
          id="path5131-5"
          style="fill:#ead0ff;fill-opacity:1;fill-rule:evenodd;stroke:#ead0ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          transform="scale(-0.6)" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:stockid="Arrow2Mend"
        orient="auto"
        refY="0"
@@ -832,14 +836,14 @@
        id="marker4931-2"
        style="overflow:visible"
        inkscape:isstock="true">
-      <path
+      <svg:path
          inkscape:connector-curvature="0"
          id="path4929-3"
          style="fill:#ead0ff;fill-opacity:1;fill-rule:evenodd;stroke:#ead0ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          transform="scale(-0.6)" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:stockid="Arrow2Mend"
        orient="auto"
        refY="0"
@@ -847,14 +851,14 @@
        id="marker5133-8-5"
        style="overflow:visible"
        inkscape:isstock="true">
-      <path
+      <svg:path
          inkscape:connector-curvature="0"
          id="path5131-5-5"
          style="fill:#ead0ff;fill-opacity:1;fill-rule:evenodd;stroke:#ead0ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          transform="scale(-0.6)" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:stockid="Arrow2Mend"
        orient="auto"
        refY="0"
@@ -862,14 +866,14 @@
        id="marker4931-2-4"
        style="overflow:visible"
        inkscape:isstock="true">
-      <path
+      <svg:path
          inkscape:connector-curvature="0"
          id="path4929-3-2"
          style="fill:#ead0ff;fill-opacity:1;fill-rule:evenodd;stroke:#ead0ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          transform="scale(-0.6)" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:stockid="Arrow2Mend"
        orient="auto"
        refY="0"
@@ -877,14 +881,14 @@
        id="marker5133-8-57"
        style="overflow:visible"
        inkscape:isstock="true">
-      <path
+      <svg:path
          inkscape:connector-curvature="0"
          id="path5131-5-0"
          style="fill:#ead0ff;fill-opacity:1;fill-rule:evenodd;stroke:#ead0ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          transform="scale(-0.6)" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:stockid="Arrow2Mend"
        orient="auto"
        refY="0"
@@ -892,14 +896,14 @@
        id="marker4931-2-5"
        style="overflow:visible"
        inkscape:isstock="true">
-      <path
+      <svg:path
          inkscape:connector-curvature="0"
          id="path4929-3-1"
          style="fill:#ead0ff;fill-opacity:1;fill-rule:evenodd;stroke:#ead0ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          transform="scale(-0.6)" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:stockid="Arrow2Mend"
        orient="auto"
        refY="0"
@@ -907,14 +911,14 @@
        id="marker5133-8-2"
        style="overflow:visible"
        inkscape:isstock="true">
-      <path
+      <svg:path
          inkscape:connector-curvature="0"
          id="path5131-5-3"
          style="fill:#8cdcff;fill-opacity:1;fill-rule:evenodd;stroke:#8cdcff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          transform="scale(-0.6)" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:stockid="Arrow2Mend"
        orient="auto"
        refY="0"
@@ -922,14 +926,14 @@
        id="marker4931-2-3"
        style="overflow:visible"
        inkscape:isstock="true">
-      <path
+      <svg:path
          inkscape:connector-curvature="0"
          id="path4929-3-4"
          style="fill:#8cdcff;fill-opacity:1;fill-rule:evenodd;stroke:#8cdcff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          transform="scale(-0.6)" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:stockid="Arrow2Mend"
        orient="auto"
        refY="0"
@@ -937,14 +941,14 @@
        id="marker5133-8-2-6"
        style="overflow:visible"
        inkscape:isstock="true">
-      <path
+      <svg:path
          inkscape:connector-curvature="0"
          id="path5131-5-3-4"
          style="fill:#8cdcff;fill-opacity:1;fill-rule:evenodd;stroke:#8cdcff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          transform="scale(-0.6)" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:stockid="Arrow2Mend"
        orient="auto"
        refY="0"
@@ -952,14 +956,14 @@
        id="marker4931-2-3-4"
        style="overflow:visible"
        inkscape:isstock="true">
-      <path
+      <svg:path
          inkscape:connector-curvature="0"
          id="path4929-3-4-2"
          style="fill:#8cdcff;fill-opacity:1;fill-rule:evenodd;stroke:#8cdcff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          transform="scale(-0.6)" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:stockid="Arrow2Mend"
        orient="auto"
        refY="0"
@@ -968,14 +972,14 @@
        style="overflow:visible"
        inkscape:isstock="true"
        inkscape:collect="always">
-      <path
+      <svg:path
          inkscape:connector-curvature="0"
          id="path3465-2"
          style="fill:#1bb323;fill-opacity:1;fill-rule:evenodd;stroke:#1bb323;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          transform="scale(-0.6)" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:stockid="Arrow2Mend"
        orient="auto"
        refY="0"
@@ -983,14 +987,14 @@
        id="marker4455-3"
        style="overflow:visible"
        inkscape:isstock="true">
-      <path
+      <svg:path
          inkscape:connector-curvature="0"
          id="path1859-1"
          style="fill:#1bb323;fill-opacity:1;fill-rule:evenodd;stroke:#1bb323;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          transform="scale(-0.6)" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:isstock="true"
        style="overflow:visible"
        id="marker3779-3"
@@ -998,14 +1002,14 @@
        refY="0"
        orient="auto"
        inkscape:stockid="Arrow2Mend">
-      <path
+      <svg:path
          inkscape:connector-curvature="0"
          transform="scale(-0.6)"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          style="fill:#ff3453;fill-opacity:1;fill-rule:evenodd;stroke:#ff3453;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          id="path3777-7" />
-    </marker>
-    <marker
+    </svg:marker>
+    <svg:marker
        inkscape:isstock="true"
        style="overflow:visible"
        id="marker4746"
@@ -1013,14 +1017,14 @@
        refY="0"
        orient="auto"
        inkscape:stockid="Arrow2Mend">
-      <path
+      <svg:path
          inkscape:connector-curvature="0"
          transform="scale(-0.6)"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          style="fill:#ff3453;fill-opacity:1;fill-rule:evenodd;stroke:#ff3453;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          id="path4744" />
-    </marker>
-  </defs>
+    </svg:marker>
+  </svg:defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -1029,8 +1033,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4.04"
-     inkscape:cx="111.48863"
-     inkscape:cy="210.12966"
+     inkscape:cx="213.85542"
+     inkscape:cy="151.29293"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1042,7 +1046,7 @@
      showguides="true"
      inkscape:snap-bbox="true"
      inkscape:snap-global="false" />
-  <metadata
+  <svg:metadata
      id="metadata5">
     <rdf:RDF>
       <cc:Work
@@ -1053,58 +1057,58 @@
         <dc:title />
       </cc:Work>
     </rdf:RDF>
-  </metadata>
-  <g
+  </svg:metadata>
+  <svg:g
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,50)">
-    <rect
+    <svg:rect
        style="fill:#ffffff;fill-opacity:1;stroke:#3952ff;stroke-width:0.89700001;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:0.94117647"
        id="rect815"
        width="112.01447"
        height="64.665031"
        x="134.90384"
        y="-35.666759" />
-    <flowRoot
+    <svg:flowRoot
        xml:space="preserve"
        id="flowRoot817"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,0,-50)"><flowRegion
-         id="flowRegion819"><rect
+       transform="matrix(0.26458333,0,0,0.26458333,0,-50)"><svg:flowRegion
+         id="flowRegion819"><svg:rect
            id="rect821"
            width="164.81482"
            height="103.7037"
            x="383.33334"
-           y="139.27386" /></flowRegion><flowPara
-         id="flowPara823">système surveillance espace public</flowPara></flowRoot>    <rect
+           y="139.27386" /></svg:flowRegion><svg:flowPara
+         id="flowPara823">système surveillance espace public</svg:flowPara></svg:flowRoot>    <svg:rect
        style="fill:#ffffff;fill-opacity:1;stroke:#ffe303;stroke-width:0.60606712;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
        id="rect833"
        width="53.724339"
        height="41.183758"
        x="141.09949"
        y="-30.785698" />
-    <text
+    <svg:text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:14.9995203px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37498802;paint-order:stroke fill markers"
        x="161.64668"
        y="6.319232"
        id="text1344"
-       transform="scale(0.95730918,1.0445946)"><tspan
+       transform="scale(0.95730918,1.0445946)"><svg:tspan
          sodipodi:role="line"
          x="189.82381"
          y="0.23695771"
          id="tspan1342"
-         style="stroke-width:0.37498802"><tspan
+         style="stroke-width:0.37498802"><svg:tspan
            x="161.64668"
            y="6.319232"
            style="font-size:6.66666698px;stroke-width:0.37498802"
-           id="tspan1338">rapports</tspan><tspan
+           id="tspan1338">rapports</svg:tspan><svg:tspan
            x="189.82381"
            y="6.319232"
            style="font-size:7.76111126px;stroke-width:0.37498802;paint-order:stroke fill markers"
-           id="tspan1340"> </tspan></tspan></text>
-    <image
+           id="tspan1340"> </svg:tspan></svg:tspan></svg:text>
+    <svg:image
        y="-27.220238"
        x="155.20645"
        id="image867"
@@ -1113,117 +1117,117 @@
        preserveAspectRatio="none"
        height="25.23341"
        width="25.23341" />
-    <text
+    <svg:text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;paint-order:stroke fill markers"
        x="142.23631"
        y="24.439981"
-       id="text1356"><tspan
+       id="text1356"><svg:tspan
          sodipodi:role="line"
          x="142.23631"
          y="24.439981"
          id="tspan1354"
-         style="stroke-width:0.26458332"><tspan
+         style="stroke-width:0.26458332"><svg:tspan
            x="142.23631"
            y="24.439981"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555582px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332;paint-order:stroke fill markers"
-           id="tspan1352">mesures de sécurité publique</tspan></tspan></text>
-    <rect
+           id="tspan1352">mesures de sécurité publique</svg:tspan></svg:tspan></svg:text>
+    <svg:rect
        style="fill:#ffffff;fill-opacity:1;stroke:#ffeb4c;stroke-width:0.55084985;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
        id="rect833-1"
        width="44.380894"
        height="41.183762"
        x="199.58609"
        y="-30.785698" />
-    <flowRoot
+    <svg:flowRoot
        xml:space="preserve"
        id="flowRoot912"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,100.85524,-149.9145)"><flowRegion
-         id="flowRegion914"><rect
+       transform="matrix(0.26458333,0,0,0.26458333,100.85524,-149.9145)"><svg:flowRegion
+         id="flowRegion914"><svg:rect
            id="rect916"
            width="150"
            height="103.7037"
            x="214.81482"
-           y="546.68127" /></flowRegion><flowPara
+           y="546.68127" /></svg:flowRegion><svg:flowPara
          id="flowPara918"
-         style="font-size:29.33333397px">intervention</flowPara></flowRoot>    <ellipse
+         style="font-size:29.33333397px">intervention</svg:flowPara></svg:flowRoot>    <svg:ellipse
        style="fill:#ffffff;fill-opacity:1;stroke:#6e1438;stroke-width:0.80000991;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
        id="path920"
        cx="156.15254"
        cy="173.164"
        rx="151.30627"
        ry="107.90072" />
-    <text
+    <svg:text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58345604px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458639"
        x="156.91257"
        y="267.08466"
        id="text1685"
-       transform="scale(0.9999884,1.0000116)"><tspan
+       transform="scale(0.9999884,1.0000116)"><svg:tspan
          sodipodi:role="line"
          x="158.15282"
          y="267.08466"
          id="tspan1683"
-         style="stroke-width:0.26458639"><tspan
+         style="stroke-width:0.26458639"><svg:tspan
            x="156.91257"
            y="267.08466"
            style="font-size:7.05563784px;text-align:center;text-anchor:middle;stroke-width:0.26458639"
-           id="tspan1681">numérisation de la sécurité publique </tspan></tspan></text>
-    <flowRoot
+           id="tspan1681">numérisation de la sécurité publique </svg:tspan></svg:tspan></svg:text>
+    <svg:flowRoot
        xml:space="preserve"
        id="flowRoot946"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,0,-50)"><flowRegion
-         id="flowRegion948"><rect
+       transform="matrix(0.26458333,0,0,0.26458333,0,-50)"><svg:flowRegion
+         id="flowRegion948"><svg:rect
            id="rect950"
            width="210.6873"
            height="79.502068"
            x="730.05347"
-           y="291.2533" /></flowRegion><flowPara
-         id="flowPara952" /></flowRoot>    <text
+           y="291.2533" /></svg:flowRegion><svg:flowPara
+         id="flowPara952" /></svg:flowRoot>    <svg:text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;paint-order:stroke fill markers"
        x="200.51408"
        y="6.8505068"
-       id="text1350"><tspan
+       id="text1350"><svg:tspan
          sodipodi:role="line"
          x="200.51408"
          y="6.8505068"
          id="tspan1348"
-         style="stroke-width:0.26458332"><tspan
+         style="stroke-width:0.26458332"><svg:tspan
            x="200.51408"
            y="6.8505068"
            style="font-size:7.05555582px;stroke-width:0.26458332;paint-order:stroke fill markers"
-           id="tspan1346">intervention</tspan></tspan></text>
-    <text
+           id="tspan1346">intervention</svg:tspan></svg:tspan></svg:text>
+    <svg:text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="107.30325"
        y="104.44214"
-       id="text1060"><tspan
+       id="text1060"><svg:tspan
          sodipodi:role="line"
          id="tspan1058"
          x="107.30325"
          y="114.09763"
-         style="stroke-width:0.26458332" /><tspan
+         style="stroke-width:0.26458332" /><svg:tspan
          sodipodi:role="line"
          x="107.30325"
          y="127.3268"
          style="stroke-width:0.26458332"
-         id="tspan1062" /></text>
-    <flowRoot
+         id="tspan1062" /></svg:text>
+    <svg:flowRoot
        xml:space="preserve"
        id="flowRoot1184"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,0,-50)"><flowRegion
-         id="flowRegion1186"><rect
+       transform="matrix(0.26458333,0,0,0.26458333,0,-50)"><svg:flowRegion
+         id="flowRegion1186"><svg:rect
            id="rect1188"
            width="238.88889"
            height="62.962963"
            x="366.66666"
-           y="748.53314" /></flowRegion><flowPara
-         id="flowPara1190" /></flowRoot>    <path
+           y="748.53314" /></svg:flowRegion><svg:flowPara
+         id="flowPara1190" /></svg:flowRoot>    <svg:path
        sodipodi:type="star"
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path1249"
@@ -1241,14 +1245,14 @@
        transform="translate(0,-42.062495)"
        inkscape:transform-center-x="0.029813817"
        inkscape:transform-center-y="-0.090145761" />
-    <ellipse
+    <svg:ellipse
        style="fill:none;fill-opacity:1;stroke:#ffa59f;stroke-width:1.19082439;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
        id="path1427"
        cx="97.235664"
        cy="131.89928"
        rx="40.504803"
        ry="35.459496" />
-    <path
+    <svg:path
        sodipodi:type="star"
        style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffa59f;stroke-width:2.36500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path962"
@@ -1266,14 +1270,14 @@
        transform="matrix(0.01380149,0.72156768,-0.77897983,0.01223954,183.62876,52.570771)"
        inkscape:transform-center-x="-0.040378859"
        inkscape:transform-center-y="0.0070784015" />
-    <ellipse
+    <svg:ellipse
        style="fill:none;fill-opacity:1;stroke:#98e0ff;stroke-width:1.39549196;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
        id="path1427-4"
        cx="206.10826"
        cy="143.09389"
        rx="67.495003"
        ry="51.54673" />
-    <ellipse
+    <svg:ellipse
        style="fill:none;fill-opacity:1;stroke:#d6a1ff;stroke-width:0.7873587;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
        id="path1427-2"
        cx="250.08046"
@@ -1281,7 +1285,7 @@
        rx="33.145443"
        ry="18.905888"
        transform="matrix(1,0,-0.0261481,0.99965808,0,0)" />
-    <path
+    <svg:path
        sodipodi:type="star"
        style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ead0ff;stroke-width:2.36500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path962-90-0"
@@ -1299,7 +1303,7 @@
        transform="matrix(0.62487942,0,0,0.6503208,256.27218,30.946303)"
        inkscape:transform-center-x="-0.011900409"
        inkscape:transform-center-y="-0.033819585" />
-    <path
+    <svg:path
        sodipodi:type="star"
        style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#7ad7ff;stroke-width:0.97408015;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.86633666"
        id="path962-90"
@@ -1317,57 +1321,57 @@
        transform="matrix(0.035323,0.87643727,-1.4801721,0.00231409,342.47302,50.520482)"
        inkscape:transform-center-x="-0.076673625"
        inkscape:transform-center-y="0.015936744" />
-    <ellipse
+    <svg:ellipse
        style="fill:none;fill-opacity:1;stroke:#ffa59f;stroke-width:0.43777126;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
        id="path1648"
        cx="99.234062"
        cy="111.06137"
        rx="27.190353"
        ry="8.0260801" />
-    <ellipse
+    <svg:ellipse
        style="fill:none;fill-opacity:1;stroke:#ffa59f;stroke-width:0.33362323;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
        id="path1648-6"
        cx="76.335861"
        cy="134.53653"
        rx="15.71139"
        ry="8.0671797" />
-    <text
+    <svg:text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;paint-order:stroke fill markers"
        x="86.49585"
        y="111.39723"
        id="text1386"
-       onclick="window.open('http://dbpedia.org/ontology/mission','_blank');"><tspan
+       onclick="window.open('http://dbpedia.org/ontology/mission','_blank');"><svg:tspan
          sodipodi:role="line"
          x="86.49585"
          y="111.39723"
          id="tspan1384"
-         style="stroke-width:0.26458332"><tspan
+         style="stroke-width:0.26458332"><svg:tspan
            x="86.49585"
            y="111.39723"
            style="font-size:5.64444447px;stroke-width:0.26458332;paint-order:stroke fill markers"
-           id="tspan1382">missions</tspan></tspan></text>
-    <path
+           id="tspan1382">missions</svg:tspan></svg:tspan></svg:text>
+    <svg:path
        style="fill:none;stroke:#ffa59f;stroke-width:0.8233484;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
        d="m 116.16525,117.18524 1.15499,10.50596"
        id="path1993"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
-    <ellipse
+    <svg:ellipse
        style="fill:none;fill-opacity:1;stroke:#d59fff;stroke-width:0.35668176;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
        id="path2354"
        cx="228.88675"
        cy="227.0535"
        rx="14.223305"
        ry="10.04932" />
-    <ellipse
+    <svg:ellipse
        style="fill:none;fill-opacity:1;stroke:#d59fff;stroke-width:0.34106684;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
        id="path2354-9"
        cx="260.23511"
        cy="229.53911"
        rx="12.722491"
        ry="10.272645" />
-    <image
+    <svg:image
        y="-26.023193"
        x="208.05264"
        id="image2810"
@@ -1376,7 +1380,7 @@
        preserveAspectRatio="none"
        height="24.400461"
        width="24.331869" />
-    <path
+    <svg:path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 298.88116,226.93442 v 0 z"
        id="path3203"
@@ -1384,21 +1388,21 @@
        inkscape:path-effect="#path-effect3205"
        inkscape:original-d="m 298.88116,226.93442 c -2.6e-4,2.7e-4 2.7e-4,-2.6e-4 0,0 -2.6e-4,2.7e-4 2.7e-4,-2.6e-4 0,0 z"
        transform="translate(0,7.9375004)" />
-    <flowRoot
+    <svg:flowRoot
        xml:space="preserve"
        id="flowRoot1485"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(-69.396552,-143.96552)"><flowRegion
-         id="flowRegion1487"><rect
+       transform="translate(-69.396552,-143.96552)"><svg:flowRegion
+         id="flowRegion1487"><svg:rect
            id="rect1489"
            width="219.39656"
            height="141.37932"
            x="109.05173"
-           y="200.8793" /></flowRegion><flowPara
+           y="200.8793" /></svg:flowRegion><svg:flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333349px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
-         id="flowPara1493" /></flowRoot>    <g
+         id="flowPara1493" /></svg:flowRoot>    <svg:g
        id="g6172" />
-    <path
+    <svg:path
        sodipodi:type="star"
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path4287"
@@ -1416,47 +1420,47 @@
        transform="translate(20,-42)"
        inkscape:transform-center-x="-0.00045355376"
        inkscape:transform-center-y="0.0014674228" />
-    <flowRoot
+    <svg:flowRoot
        xml:space="preserve"
        id="flowRoot4289"
-       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:8px;line-height:1.25;letter-spacing:0px;word-spacing:0px;"><flowRegion
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:8px;line-height:1.25;letter-spacing:0px;word-spacing:0px;"><svg:flowRegion
          id="flowRegion4291"
-         style="font-size:8px;"><rect
+         style="font-size:8px;"><svg:rect
            id="rect4293"
            width="109.05173"
            height="44.396553"
            x="164.65517"
            y="106.05173"
-           style="font-size:8px;" /></flowRegion><flowPara
-         id="flowPara4295" /></flowRoot>    <text
+           style="font-size:8px;" /></svg:flowRegion><svg:flowPara
+         id="flowPara4295" /></svg:flowRoot>    <svg:text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:0;font-family:sans-serif;text-align:start;letter-spacing:-0.04px;word-spacing:-0.03px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        x="243.78992"
        y="96.614304"
-       id="text1546"><tspan
+       id="text1546"><svg:tspan
          sodipodi:role="line"
          x="260.70294"
          y="96.614304"
-         id="tspan1540"><tspan
+         id="tspan1540"><svg:tspan
            dx="0 0 0 0 0 0 0 0 0 0 0 0 0.02999646"
            x="260.70294"
            y="96.614304"
            style="font-size:5.33333349px;line-height:0;text-align:start;letter-spacing:-0.04px;word-spacing:-0.03px;text-anchor:start"
-           id="tspan1536">établisement </tspan><tspan
+           id="tspan1536">établisement </svg:tspan><svg:tspan
            dx="0"
            x="296.58002"
            y="96.614304"
            style="font-size:5.33333349px;line-height:0;text-align:start;letter-spacing:-0.04px;word-spacing:-0.03px;text-anchor:start"
-           id="tspan1538" /></tspan><tspan
+           id="tspan1538" /></svg:tspan><svg:tspan
          sodipodi:role="line"
          x="269.76526"
          y="106.57509"
-         id="tspan1544"><tspan
+         id="tspan1544"><svg:tspan
            x="269.76526"
            y="106.57509"
            style="font-size:5.33333349px;line-height:0;text-align:start;letter-spacing:-0.04px;word-spacing:-0.03px;text-anchor:start"
-           id="tspan1542">privés</tspan></tspan></text>
-    <path
+           id="tspan1542">privés</svg:tspan></svg:tspan></svg:text>
+    <svg:path
        sodipodi:type="star"
        style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#006998;stroke-width:0.58696306;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path962-7-6"
@@ -1474,7 +1478,7 @@
        transform="matrix(0.57504672,0,0,0.54989526,191.06146,25.116055)"
        inkscape:transform-center-x="-0.01094338"
        inkscape:transform-center-y="-0.02859603" />
-    <path
+    <svg:path
        sodipodi:type="star"
        style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#006998;stroke-width:0.58696306;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path962-7-6-0"
@@ -1492,157 +1496,158 @@
        transform="matrix(0.57504672,0,0,0.54989526,152.3287,24.469503)"
        inkscape:transform-center-x="-0.01094338"
        inkscape:transform-center-y="-0.02859603" />
-    <flowRoot
+    <svg:flowRoot
        xml:space="preserve"
        id="flowRoot4670"
-       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
-         id="flowRegion4672"><rect
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><svg:flowRegion
+         id="flowRegion4672"><svg:rect
            id="rect4674"
            width="98.275864"
            height="44.396553"
            x="87.068962"
-           y="147.86208" /></flowRegion><flowPara
-         id="flowPara4676" /></flowRoot>    <text
+           y="147.86208" /></svg:flowRegion><svg:flowPara
+         id="flowPara4676" /></svg:flowRoot>    <svg:text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40.00072479px;line-height:0;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:-0.02px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00001812"
        x="162.24739"
        y="72.631973"
        id="text1422"
        transform="scale(1.0000297,0.99997031)"
-       onclick="window.open('https://www.interieur.gouv.fr/Le-ministre','_blank');"><tspan
+       onclick="window.open('https://www.interieur.gouv.fr/Le-ministre','_blank');"><svg:tspan
          sodipodi:role="line"
          x="162.24739"
          y="72.631973"
          id="tspan1410"
-         style="text-align:start;text-anchor:start;stroke-width:1.00001812"><tspan
+         style="text-align:start;text-anchor:start;stroke-width:1.00001812"><svg:tspan
            dx="0 0 0 0 0 0 0 0 0.019999295"
            x="162.24739"
            y="72.631973"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333302px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:start;letter-spacing:-0.01000018px;word-spacing:-0.02px;text-anchor:start;stroke-width:1.00001812"
-           id="tspan1406">ministre </tspan><tspan
+           id="tspan1406">ministre </svg:tspan><svg:tspan
            dx="0"
            x="182.30405"
            y="72.631973"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333302px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:start;letter-spacing:-0.01000018px;word-spacing:-0.02px;text-anchor:start;stroke-width:1.00001812"
-           id="tspan1408" /></tspan><tspan
+           id="tspan1408" /></svg:tspan><svg:tspan
          sodipodi:role="line"
          x="168.59238"
          y="82.65255"
          id="tspan1416"
-         style="text-align:start;text-anchor:start;stroke-width:1.00001812"><tspan
+         style="text-align:start;text-anchor:start;stroke-width:1.00001812"><svg:tspan
            dx="0 0 0.020000011"
            x="168.59238"
            y="82.65255"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333302px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:start;letter-spacing:-0.01000018px;word-spacing:-0.02px;text-anchor:start;stroke-width:1.00001812"
-           id="tspan1412">de </tspan><tspan
+           id="tspan1412">de </svg:tspan><svg:tspan
            dx="0"
            x="175.95906"
            y="82.65255"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333302px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:start;letter-spacing:-0.01000018px;word-spacing:-0.02px;text-anchor:start;stroke-width:1.00001812"
-           id="tspan1414" /></tspan><tspan
+           id="tspan1414" /></svg:tspan><svg:tspan
          sodipodi:role="line"
          x="160.85612"
          y="92.673126"
          id="tspan1420"
-         style="text-align:start;text-anchor:start;stroke-width:1.00001812"><tspan
+         style="text-align:start;text-anchor:start;stroke-width:1.00001812"><svg:tspan
            x="160.85612"
            y="92.673126"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333302px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:start;letter-spacing:-0.01000018px;word-spacing:-0.02px;text-anchor:start;stroke-width:1.00001812"
-           id="tspan1418">l'intérieur</tspan></tspan></text>
-    <flowRoot
+           id="tspan1418">l'intérieur</svg:tspan></svg:tspan></svg:text>
+    <svg:flowRoot
        xml:space="preserve"
        id="flowRoot4690"
-       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
-         id="flowRegion4692"><rect
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><svg:flowRegion
+         id="flowRegion4692"><svg:rect
            id="rect4694"
            width="1.2931035"
            height="43.103447"
            x="164.65517"
-           y="51.741379" /></flowRegion><flowPara
-         id="flowPara4696" /></flowRoot>    <text
+           y="51.741379" /></svg:flowRegion><svg:flowPara
+         id="flowPara4696" /></svg:flowRoot>    <svg:text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40.00072479px;line-height:0;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:-0.02px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00001812"
        x="200.76715"
        y="72.7202"
        id="text1440"
        transform="scale(1.0000297,0.99997031)"
-       onclick="window.open('https://www.defense.gouv.fr/ministre','_blank');"><tspan
+       onclick="window.open('https://www.defense.gouv.fr/ministre','_blank');"><svg:tspan
          sodipodi:role="line"
          x="200.76715"
          y="72.7202"
          id="tspan1428"
-         style="text-align:start;text-anchor:start;stroke-width:1.00001812"><tspan
+         style="text-align:start;text-anchor:start;stroke-width:1.00001812"><svg:tspan
            dx="0 0 0 0 0 0 0 0 0.019999295"
            x="200.76715"
            y="72.7202"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333302px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:start;letter-spacing:-0.01000018px;word-spacing:-0.02px;text-anchor:start;stroke-width:1.00001812"
-           id="tspan1424">ministre </tspan><tspan
+           id="tspan1424">ministre </svg:tspan><svg:tspan
            dx="0"
            x="220.82382"
            y="72.7202"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333302px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:start;letter-spacing:-0.01000018px;word-spacing:-0.02px;text-anchor:start;stroke-width:1.00001812"
-           id="tspan1426" /></tspan><tspan
+           id="tspan1426" /></svg:tspan><svg:tspan
          sodipodi:role="line"
          x="207.11214"
          y="82.740776"
          id="tspan1434"
-         style="text-align:start;text-anchor:start;stroke-width:1.00001812"><tspan
+         style="text-align:start;text-anchor:start;stroke-width:1.00001812"><svg:tspan
            dx="0 0 0.020000011"
            x="207.11214"
            y="82.740776"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333302px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:start;letter-spacing:-0.01000018px;word-spacing:-0.02px;text-anchor:start;stroke-width:1.00001812"
-           id="tspan1430">de </tspan><tspan
+           id="tspan1430">de </svg:tspan><svg:tspan
            dx="0"
            x="214.47882"
            y="82.740776"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333302px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:start;letter-spacing:-0.01000018px;word-spacing:-0.02px;text-anchor:start;stroke-width:1.00001812"
-           id="tspan1432" /></tspan><tspan
+           id="tspan1432" /></svg:tspan><svg:tspan
          sodipodi:role="line"
          x="197.81839"
          y="92.761353"
          id="tspan1438"
-         style="text-align:start;text-anchor:start;stroke-width:1.00001812"><tspan
+         style="text-align:start;text-anchor:start;stroke-width:1.00001812"><svg:tspan
            dx="0 0 0.020000011 -0.020000095"
            x="197.81839"
            y="92.761353"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333302px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:start;letter-spacing:-0.01000018px;word-spacing:-0.02px;text-anchor:start;stroke-width:1.00001812"
-           id="tspan1436">la défense</tspan></tspan></text>
-    <text
+           id="tspan1436">la défense</svg:tspan></svg:tspan></svg:text>
+    <svg:text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40.00072479px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:-0.02px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00001812"
        x="105.47117"
        y="63.530258"
        id="text1368"
        transform="scale(1.0000297,0.99997031)"
-       onclick="window.open('https://www.collectivites-locales.gouv.fr/','_blank');"><tspan
+       onclick="window.open('https://www.collectivites-locales.gouv.fr/','_blank');"><svg:tspan
          sodipodi:role="line"
          x="105.46617"
          y="63.530258"
          id="tspan1366"
-         style="stroke-width:1.00001812"><tspan
+         style="stroke-width:1.00001812"><svg:tspan
            dx="0 0 0.020000011 -0.020000095"
            x="105.47117"
            y="63.530258"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333302px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:center;letter-spacing:-0.01000018px;word-spacing:-0.02px;text-anchor:middle;stroke-width:1.00001812"
-           id="tspan1364">la mairie</tspan></tspan></text>
-    <text
+           id="tspan1364">la mairie</svg:tspan></svg:tspan></svg:text>
+    <svg:text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40.00072479px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:-0.02px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00001812"
        x="189.43364"
        y="60.791847"
        id="text1362"
        transform="scale(1.0000297,0.99997031)"
-       onclick="window.open('https://www.gouvernement.fr/','_blank');"><tspan
+       onclick="window.open('https://www.gouvernement.fr/','_blank');"
+       class="doigt"><svg:tspan
          sodipodi:role="line"
          x="189.42863"
          y="60.791847"
          id="tspan1360"
-         style="stroke-width:1.00001812;font-size:5.33333331px"><tspan
+         style="font-size:5.33333349px;stroke-width:1.00001812"><svg:tspan
            x="189.43364"
            y="60.791847"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333331px;line-height:0px;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:center;letter-spacing:-0.01000018px;word-spacing:-0.02px;text-anchor:middle;stroke-width:1.00001812"
-           id="tspan1358">gouvernement</tspan></tspan></text>
-    <path
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333349px;line-height:0px;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:center;letter-spacing:-0.01000018px;word-spacing:-0.02px;text-anchor:middle;stroke-width:1.00001812"
+           id="tspan1358">gouvernement</svg:tspan></svg:tspan>< /></svg:text>
+    <svg:path
        sodipodi:type="star"
        style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ff1a0a;stroke-width:0.9012177;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path962-5"
@@ -1660,458 +1665,458 @@
        transform="matrix(0.53578469,0,0,0.49663298,86.546001,30.560942)"
        inkscape:transform-center-x="-0.010203336"
        inkscape:transform-center-y="-0.025826912" />
-    <text
+    <svg:text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;paint-order:stroke fill markers"
        x="81.838058"
        y="74.944656"
-       id="text1380"><tspan
+       id="text1380"><svg:tspan
          sodipodi:role="line"
          x="96.840759"
          y="74.944656"
          id="tspan1374"
-         style="text-align:start;text-anchor:start;stroke-width:0.26458332"><tspan
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332"><svg:tspan
            x="96.840759"
            y="74.944656"
            style="font-size:5.64444447px;text-align:start;text-anchor:start;stroke-width:0.26458332;paint-order:stroke fill markers"
-           id="tspan1370">police </tspan><tspan
+           id="tspan1370">police </svg:tspan><svg:tspan
            dx="0"
            x="115.18521"
            y="74.944656"
            style="font-size:5.64444447px;text-align:start;text-anchor:start;stroke-width:0.26458332;paint-order:stroke fill markers"
-           id="tspan1372" /></tspan><tspan
+           id="tspan1372" /></svg:tspan><svg:tspan
          sodipodi:role="line"
          x="89.763153"
          y="88.17382"
          id="tspan1378"
-         style="text-align:start;text-anchor:start;stroke-width:0.26458332"><tspan
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332"><svg:tspan
            x="89.763153"
            y="88.17382"
            style="font-size:5.64444447px;text-align:start;text-anchor:start;stroke-width:0.26458332;paint-order:stroke fill markers"
-           id="tspan1376">municipale</tspan></tspan></text>
-    <path
+           id="tspan1376">municipale</svg:tspan></svg:tspan></svg:text>
+    <svg:path
        style="fill:none;stroke:#ffafa9;stroke-width:0.68845206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 104.27586,100.77298 c 0,2.24726 0,2.24726 0,2.24726"
        id="path5064"
        inkscape:connector-curvature="0" />
-    <ellipse
+    <svg:ellipse
        style="fill:none;fill-opacity:1;stroke:#ffa59f;stroke-width:0.37191665;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
        id="path1648-6-3"
        cx="97.93103"
        cy="153.3793"
        rx="19.571554"
        ry="8.0480328" />
-    <ellipse
+    <svg:ellipse
        style="fill:none;fill-opacity:1;stroke:#ffa59f;stroke-width:0.34687087;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
        id="path1648-6-1"
        cx="119.24138"
        cy="135.58621"
        rx="16.997869"
        ry="8.0605555" />
-    <text
+    <svg:text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40.00072479px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:-0.02px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00001812"
        x="119.64161"
        y="136.32857"
        id="text1398"
-       transform="scale(1.0000297,0.99997031)"><tspan
+       transform="scale(1.0000297,0.99997031)"><svg:tspan
          sodipodi:role="line"
          x="119.63661"
          y="136.32857"
          id="tspan1396"
-         style="stroke-width:1.00001812"><tspan
+         style="stroke-width:1.00001812"><svg:tspan
            x="119.64161"
            y="136.32857"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333302px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:center;letter-spacing:-0.01000018px;word-spacing:-0.02px;text-anchor:middle;stroke-width:1.00001812"
-           id="tspan1394">tranquilité</tspan></tspan></text>
-    <text
+           id="tspan1394">tranquilité</svg:tspan></svg:tspan></svg:text>
+    <svg:text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40.00072479px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:-0.02px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00001812"
        x="76.673157"
        y="136.69002"
        id="text1392"
-       transform="scale(1.0000297,0.99997031)"><tspan
+       transform="scale(1.0000297,0.99997031)"><svg:tspan
          sodipodi:role="line"
          x="76.668159"
          y="136.69002"
          id="tspan1390"
-         style="stroke-width:1.00001812"><tspan
+         style="stroke-width:1.00001812"><svg:tspan
            x="76.673157"
            y="136.69002"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333302px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:center;letter-spacing:-0.01000018px;word-spacing:-0.02px;text-anchor:middle;stroke-width:1.00001812"
-           id="tspan1388">prévention</tspan></tspan></text>
-    <text
+           id="tspan1388">prévention</svg:tspan></svg:tspan></svg:text>
+    <svg:text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40.00072479px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:-0.02px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00001812"
        x="97.000565"
        y="154.82851"
        id="text1404"
-       transform="scale(1.0000297,0.99997031)"><tspan
+       transform="scale(1.0000297,0.99997031)"><svg:tspan
          sodipodi:role="line"
          x="96.995567"
          y="154.82851"
          id="tspan1402"
-         style="stroke-width:1.00001812"><tspan
+         style="stroke-width:1.00001812"><svg:tspan
            x="97.000565"
            y="154.82851"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333302px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:center;letter-spacing:-0.01000018px;word-spacing:-0.02px;text-anchor:middle;stroke-width:1.00001812"
-           id="tspan1400">surveillance</tspan></tspan></text>
-    <path
+           id="tspan1400">surveillance</svg:tspan></svg:tspan></svg:text>
+    <svg:path
        style="fill:none;stroke:#ffa59f;stroke-width:0.89952755;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend-6)"
        d="m 98.403166,118.94153 2.155174,26.28685"
        id="path1993-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
-    <path
+    <svg:path
        style="fill:none;stroke:#ffa59f;stroke-width:0.89952755;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend-69)"
        d="m 86.77405,118.10786 -6.474333,9.4481"
        id="path1993-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
-    <ellipse
+    <svg:ellipse
        style="fill:none;fill-opacity:1;stroke:#85daff;stroke-width:0.69417238;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
        id="path1648-3"
        cx="170.84482"
        cy="136.55171"
        rx="30.079395"
        ry="18.242706" />
-    <ellipse
+    <svg:ellipse
        style="fill:none;fill-opacity:1;stroke:#85daff;stroke-width:0.61228347;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
        id="path1648-3-3"
        cx="151.23276"
        cy="134.70688"
        rx="10.051003"
        ry="6.1884532" />
-    <ellipse
+    <svg:ellipse
        style="fill:none;fill-opacity:1;stroke:#98e0ff;stroke-width:0.66897637;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
        id="path1648-3-3-4"
        cx="180.94827"
        cy="134.33621"
        rx="14.76309"
        ry="6.5901957" />
-    <text
+    <svg:text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40.00072479px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:-0.02px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00001812"
        x="152.09666"
        y="136.39693"
        id="text1468"
-       transform="scale(1.0000297,0.99997031)"><tspan
+       transform="scale(1.0000297,0.99997031)"><svg:tspan
          sodipodi:role="line"
          x="152.09166"
          y="136.39693"
          id="tspan1466"
-         style="stroke-width:1.00001812"><tspan
+         style="stroke-width:1.00001812"><svg:tspan
            x="152.09666"
            y="136.39693"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333302px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:center;letter-spacing:-0.01000018px;word-spacing:-0.02px;text-anchor:middle;stroke-width:1.00001812"
-           id="tspan1464">biens</tspan></tspan></text>
-    <text
+           id="tspan1464">biens</svg:tspan></svg:tspan></svg:text>
+    <svg:text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40.00072479px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:-0.02px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00001812"
        x="180.01372"
        y="136.86308"
        id="text1474"
-       transform="scale(1.0000297,0.99997031)"><tspan
+       transform="scale(1.0000297,0.99997031)"><svg:tspan
          sodipodi:role="line"
          x="180.00871"
          y="136.86308"
          id="tspan1472"
-         style="stroke-width:1.00001812"><tspan
+         style="stroke-width:1.00001812"><svg:tspan
            x="180.01372"
            y="136.86308"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333302px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:center;letter-spacing:-0.01000018px;word-spacing:-0.02px;text-anchor:middle;stroke-width:1.00001812"
-           id="tspan1470">personnes</tspan></tspan></text>
-    <text
+           id="tspan1470">personnes</svg:tspan></svg:tspan></svg:text>
+    <svg:text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40.00072479px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:-0.02px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00001812"
        x="167.49022"
        y="148.34619"
        id="text1480"
-       transform="scale(1.0000297,0.99997031)"><tspan
+       transform="scale(1.0000297,0.99997031)"><svg:tspan
          sodipodi:role="line"
          x="167.48521"
          y="148.34619"
          id="tspan1478"
-         style="stroke-width:1.00001812"><tspan
+         style="stroke-width:1.00001812"><svg:tspan
            dx="0 0 0 0 0 0 0 0 0.020000726 -0.020001525"
            x="167.49022"
            y="148.34619"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333302px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:center;letter-spacing:-0.01000018px;word-spacing:-0.02px;text-anchor:middle;stroke-width:1.00001812"
-           id="tspan1476">intérêts vitaux</tspan></tspan></text>
-    <ellipse
+           id="tspan1476">intérêts vitaux</svg:tspan></svg:tspan></svg:text>
+    <svg:ellipse
        style="fill:none;fill-opacity:1;stroke:#7ed8ff;stroke-width:0.71501559;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
        id="path1648-3-3-4-5"
        cx="168.84483"
        cy="146.89656"
        rx="19.481451"
        ry="5.7051067" />
-    <ellipse
+    <svg:ellipse
        style="fill:none;fill-opacity:1;stroke:#8bdbff;stroke-width:0.7833845;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
        id="path1648-3-5"
        cx="236.57758"
        cy="134.72762"
        rx="32.405479"
        ry="21.565292" />
-    <text
+    <svg:text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;paint-order:stroke fill markers"
        x="154.80704"
        y="126.25656"
        id="text1450"
-       onclick="window.open('https://intlekt.io/?comments=n.e.-f.a.-%27','_blank');"><tspan
+       onclick="window.open('https://intlekt.io/?comments=n.e.-f.a.-%27','_blank');"><svg:tspan
          sodipodi:role="line"
          x="154.80704"
          y="126.25656"
          id="tspan1448"
-         style="stroke-width:0.26458332"><tspan
+         style="stroke-width:0.26458332"><svg:tspan
            x="154.80704"
            y="126.25656"
            style="font-size:5.64444447px;stroke-width:0.26458332;paint-order:stroke fill markers"
-           id="tspan1446">protection</tspan></tspan></text>
-    <ellipse
+           id="tspan1446">protection</svg:tspan></svg:tspan></svg:text>
+    <svg:ellipse
        style="fill:none;fill-opacity:1;stroke:#7ed8ff;stroke-width:0.68323517;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
        id="path1648-3-3-4-8"
        cx="219.49138"
        cy="140.64655"
        rx="13.24734"
        ry="7.6606526" />
-    <ellipse
+    <svg:ellipse
        style="fill:none;fill-opacity:1;stroke:#98e0ff;stroke-width:0.75795168;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
        id="path1648-3-3-4-80"
        cx="252.15517"
        cy="140.21552"
        rx="14.718602"
        ry="8.485363" />
-    <text
+    <svg:text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40.00072479px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:-0.02px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00001812"
        x="251.72456"
        y="141.74776"
        id="text1492"
-       transform="scale(1.0000297,0.99997031)"><tspan
+       transform="scale(1.0000297,0.99997031)"><svg:tspan
          sodipodi:role="line"
          x="251.71956"
          y="141.74776"
          id="tspan1490"
-         style="stroke-width:1.00001812"><tspan
+         style="stroke-width:1.00001812"><svg:tspan
            x="251.72456"
            y="141.74776"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333302px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:center;letter-spacing:-0.01000018px;word-spacing:-0.02px;text-anchor:middle;stroke-width:1.00001812"
-           id="tspan1488">délinquance</tspan></tspan></text>
-    <text
+           id="tspan1488">délinquance</svg:tspan></svg:tspan></svg:text>
+    <svg:text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40.00072479px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:-0.02px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00001812"
        x="219.65752"
        y="142.17882"
        id="text1486"
-       transform="scale(1.0000297,0.99997031)"><tspan
+       transform="scale(1.0000297,0.99997031)"><svg:tspan
          sodipodi:role="line"
          x="219.65251"
          y="142.17882"
          id="tspan1484"
-         style="stroke-width:1.00001812"><tspan
+         style="stroke-width:1.00001812"><svg:tspan
            x="219.65752"
            y="142.17882"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333302px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:center;letter-spacing:-0.01000018px;word-spacing:-0.02px;text-anchor:middle;stroke-width:1.00001812"
-           id="tspan1482">criminalité</tspan></tspan></text>
-    <path
+           id="tspan1482">criminalité</svg:tspan></svg:tspan></svg:text>
+    <svg:path
        style="fill:none;stroke:#8adcff;stroke-width:1.47617316;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 201.01071,136.98276 h 3.45481 v 0"
        id="path7022"
        inkscape:connector-curvature="0" />
-    <ellipse
+    <svg:ellipse
        style="fill:none;fill-opacity:1;stroke:#85daff;stroke-width:0.42543548;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
        id="path1648-3-7"
        cx="198.80171"
        cy="161.3362"
        rx="23.748243"
        ry="8.6787987" />
-    <text
+    <svg:text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40.00072479px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:-0.02px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00001812"
        x="199.29984"
        y="162.86909"
        id="text1498"
        transform="scale(1.0000297,0.99997031)"
-       onclick=" window.open('http://wlode.disit.org/WLODE/extract?url=http://www.disit.org/km4city/schema#Emergency');"><tspan
+       onclick=" window.open('http://wlode.disit.org/WLODE/extract?url=http://www.disit.org/km4city/schema#Emergency');"><svg:tspan
          sodipodi:role="line"
          x="199.29483"
          y="162.86909"
          id="tspan1496"
-         style="stroke-width:1.00001812"><tspan
+         style="stroke-width:1.00001812"><svg:tspan
            dx="0 0 0 0 0 0 0 0.019999772 -0.019999618"
            x="199.29984"
            y="162.86909"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333302px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:center;letter-spacing:-0.01000018px;word-spacing:-0.02px;text-anchor:middle;stroke-width:1.00001812"
-           id="tspan1494">secours d'urgence</tspan></tspan></text>
-    <ellipse
+           id="tspan1494">secours d'urgence</svg:tspan></svg:tspan></svg:text>
+    <svg:ellipse
        style="fill:none;fill-opacity:1;stroke:#85daff;stroke-width:0.25941402;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
        id="path1648-3-7-4"
        cx="169.49139"
        cy="175.06897"
        rx="12.40884"
        ry="6.1756029" />
-    <ellipse
+    <svg:ellipse
        style="fill:none;fill-opacity:1;stroke:#85daff;stroke-width:0.32165933;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
        id="path1648-3-7-4-2"
        cx="204.40518"
        cy="184.82759"
        rx="15.394958"
        ry="7.653101" />
-    <ellipse
+    <svg:ellipse
        style="fill:none;fill-opacity:1;stroke:#85daff;stroke-width:0.32824007;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
        id="path1648-3-7-4-4"
        cx="234.79311"
        cy="174.75862"
        rx="16.038219"
        ry="7.6498103" />
-    <text
+    <svg:text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40.00072479px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:-0.02px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00001812"
        x="235.42325"
        y="175.64534"
        id="text1522"
-       transform="scale(1.0000297,0.99997031)"><tspan
+       transform="scale(1.0000297,0.99997031)"><svg:tspan
          sodipodi:role="line"
          x="235.41824"
          y="175.64534"
          id="tspan1520"
-         style="stroke-width:1.00001812"><tspan
+         style="stroke-width:1.00001812"><svg:tspan
            x="235.42325"
            y="175.64534"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333302px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:center;letter-spacing:-0.01000018px;word-spacing:-0.02px;text-anchor:middle;stroke-width:1.00001812"
-           id="tspan1518">personnes</tspan></tspan></text>
-    <text
+           id="tspan1518">personnes</svg:tspan></svg:tspan></svg:text>
+    <svg:text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40.00072479px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:-0.02px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00001812"
        x="204.59447"
        y="186.69739"
        id="text1516"
-       transform="scale(1.0000297,0.99997031)"><tspan
+       transform="scale(1.0000297,0.99997031)"><svg:tspan
          sodipodi:role="line"
          x="204.58946"
          y="186.69739"
          id="tspan1514"
-         style="stroke-width:1.00001812"><tspan
+         style="stroke-width:1.00001812"><svg:tspan
            x="204.59447"
            y="186.69739"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333302px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:center;letter-spacing:-0.01000018px;word-spacing:-0.02px;text-anchor:middle;stroke-width:1.00001812"
-           id="tspan1512">incendies</tspan></tspan></text>
-    <text
+           id="tspan1512">incendies</svg:tspan></svg:tspan></svg:text>
+    <svg:text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40.00072479px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:-0.02px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00001812"
        x="170.51157"
        y="177.22635"
        id="text1510"
-       transform="scale(1.0000297,0.99997031)"><tspan
+       transform="scale(1.0000297,0.99997031)"><svg:tspan
          sodipodi:role="line"
          x="170.50656"
          y="177.22635"
          id="tspan1508"
-         style="stroke-width:1.00001812"><tspan
+         style="stroke-width:1.00001812"><svg:tspan
            x="170.51157"
            y="177.22635"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333302px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:center;letter-spacing:-0.01000018px;word-spacing:-0.02px;text-anchor:middle;stroke-width:1.00001812"
-           id="tspan1506">autres</tspan></tspan></text>
-    <path
+           id="tspan1506">autres</svg:tspan></svg:tspan></svg:text>
+    <svg:path
        style="fill:none;stroke:#8cdcff;stroke-width:0.8233484;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend-4)"
        d="m 199.77764,169.30792 1.58602,8.35079"
        id="path1993-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
-    <path
+    <svg:path
        style="fill:none;stroke:#8cdcff;stroke-width:0.8233484;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend-4-9)"
        d="m 179.95927,166.5315 -7.03467,2.74734"
        id="path1993-0-2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
-    <path
+    <svg:path
        style="fill:none;stroke:#8cdcff;stroke-width:0.8233484;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend-4-0)"
        d="m 215.3041,166.96253 7.6205,3.60941"
        id="path1993-0-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
-    <text
+    <svg:text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40.00072479px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:-0.02px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00001812"
        x="228.28894"
        y="228.79491"
        id="text1528"
        transform="scale(1.0000297,0.99997031)"
-       onclick="window.open('https://intlekt.io/?comments=n.e.-l.a.-%27');"><tspan
+       onclick="window.open('https://intlekt.io/?comments=n.e.-l.a.-%27');"><svg:tspan
          sodipodi:role="line"
          x="228.28394"
          y="228.79491"
          id="tspan1526"
-         style="stroke-width:1.00001812"><tspan
+         style="stroke-width:1.00001812"><svg:tspan
            x="228.28894"
            y="228.79491"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333302px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:center;letter-spacing:-0.01000018px;word-spacing:-0.02px;text-anchor:middle;stroke-width:1.00001812"
-           id="tspan1524">sécurité</tspan></tspan></text>
-    <text
+           id="tspan1524">sécurité</svg:tspan></svg:tspan></svg:text>
+    <svg:text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40.00072479px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:-0.02px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00001812"
        x="259.00949"
        y="230.96738"
        id="text1534"
        transform="scale(1.0000297,0.99997031)"
-       onclick="window.open('https://intlekt.io/?comments=s.o.-k.o.-%27x.-%27%2CB%3A.-%27%2C_','_blank');"><tspan
+       onclick="window.open('https://intlekt.io/?comments=s.o.-k.o.-%27x.-%27%2CB%3A.-%27%2C_','_blank');"><svg:tspan
          sodipodi:role="line"
          x="259.00449"
          y="230.96738"
          id="tspan1532"
-         style="stroke-width:1.00001812"><tspan
+         style="stroke-width:1.00001812"><svg:tspan
            x="259.00949"
            y="230.96738"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333302px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:center;letter-spacing:-0.01000018px;word-spacing:-0.02px;text-anchor:middle;stroke-width:1.00001812"
-           id="tspan1530">santé</tspan></tspan></text>
-    <g
+           id="tspan1530">santé</svg:tspan></svg:tspan></svg:text>
+    <svg:g
        id="g2744" />
-    <path
+    <svg:path
        style="fill:none;stroke:#3a53ff;stroke-width:0.99380213;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.94901961;marker-end:url(#marker4266)"
        d="M 227.16941,29.263694 211.08348,53.754698"
        id="path7188"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
        onclick="window.open('https://intlekt.io/?comments=wa.j.s.-','_blank');" />
-    <path
+    <svg:path
        style="fill:none;stroke:#3852ff;stroke-width:0.84597039;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.81568627;marker-mid:url(#marker5133-1-2);marker-end:url(#marker4931-8-1)"
        d="m 244.47923,29.00859 3.69801,11.472402 19.64351,39.452129"
        id="path2750-8-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc"
        onclick="window.open('https://intlekt.io/?comments=wa.j.s.-','_blank');" />
-    <path
+    <svg:path
        style="fill:none;stroke:#ead0ff;stroke-width:1.16741967;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#marker5133-8);marker-end:url(#marker4931-2)"
        d="M 286.24522,79.287492 267.60725,37.894873 C 255.47865,20.548293 252.09342,11.945074 244.3365,-1.0298255"
        id="path2750-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc"
        onclick="window.open('https://intlekt.io/?comments=O%3AM%3A.','_blank');" />
-    <path
+    <svg:path
        style="fill:none;stroke:#8cdcff;stroke-width:1.00157475;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#marker5133-8-2);marker-end:url(#marker4931-2-3)"
        d="m 236.09293,75.844994 3.3724,-33.43946 1.14566,-30.277706"
        id="path2750-9-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc"
        onclick="window.open('https://intlekt.io/?comments=O%3AM%3A.','_blank');" />
-    <path
+    <svg:path
        style="fill:none;stroke:#ead0ff;stroke-width:0.97102916px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 278.01484,119.42254 c 2.00758,32.43073 -5.15672,64.54009 -32.7618,109.48249"
        id="path1808"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
-    <path
+    <svg:path
        style="fill:none;stroke:#d6a1ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 242.91379,228.75862 4.74138,0.86207"
        id="path1812"
        inkscape:connector-curvature="0" />
-    <path
+    <svg:path
        style="fill:none;stroke:#7bd7ff;stroke-width:1.37952756;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.81960785;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 201.2931,106.91379 1.29311,30.60345"
        id="path2914"
        inkscape:connector-curvature="0" />
-    <path
+    <svg:path
        sodipodi:type="star"
        style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ff3453;stroke-width:2.36500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path962-90-0-0"
@@ -2129,26 +2134,26 @@
        transform="matrix(0.62487942,0,0,0.6503208,14.343668,31.17072)"
        inkscape:transform-center-x="-0.011900409"
        inkscape:transform-center-y="-0.033819585" />
-    <text
+    <svg:text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="21.862068"
        y="100.56897"
        id="text3227"
-       onclick="window.open('http://dini-ag-kim.github.io/service-ontology/service.html#service','_blank');"><tspan
+       onclick="window.open('http://dini-ag-kim.github.io/service-ontology/service.html#service','_blank');"><svg:tspan
          sodipodi:role="line"
          id="tspan3225"
          x="21.862068"
          y="100.56897"
-         style="font-size:8px">service</tspan></text>
-    <rect
+         style="font-size:8px">service</svg:tspan></svg:text>
+    <svg:rect
        style="fill:#fcfffd;fill-opacity:1;stroke:#1bb323;stroke-width:1.06553936;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        id="rect3241"
        width="38.784439"
        height="41.050652"
        x="55.025383"
        y="-8.0911808" />
-    <image
+    <svg:image
        y="-4.0862169"
        x="59.55172"
        id="image3284"
@@ -2156,139 +2161,139 @@
        preserveAspectRatio="none"
        height="28.275856"
        width="30.241379" />
-    <text
+    <svg:text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="63.741379"
        y="31.172417"
-       id="text3289"><tspan
+       id="text3289"><svg:tspan
          sodipodi:role="line"
          id="tspan3287"
          x="63.741379"
          y="31.172417"
-         style="font-size:8px">drone</tspan></text>
-    <ellipse
+         style="font-size:8px">drone</svg:tspan></svg:text>
+    <svg:ellipse
        style="fill:#fcfffd;fill-opacity:1;stroke:#ff3453;stroke-width:1.55857575;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        id="path3293"
        ry="41.289787"
        rx="59.824268"
        cy="215.53448"
        cx="99.137932" />
-    <ellipse
+    <svg:ellipse
        style="fill:none;fill-opacity:1;stroke:#ff3453;stroke-width:0.52094531;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
        id="path1648-6-7"
        cx="98.275848"
        cy="192.68965"
        rx="28.117727"
        ry="10.990761" />
-    <ellipse
+    <svg:ellipse
        style="fill:none;fill-opacity:1;stroke:#ff3453;stroke-width:0.49809474;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
        id="path1648-6-7-8"
        cx="130.60344"
        cy="213.3793"
        rx="23.387774"
        ry="12.079772" />
-    <ellipse
+    <svg:ellipse
        style="fill:none;fill-opacity:1;stroke:#ff3453;stroke-width:0.46535796;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
        id="path1648-6-7-7"
        cx="102.15518"
        cy="239.67241"
        rx="20.3869"
        ry="12.09614" />
-    <ellipse
+    <svg:ellipse
        style="fill:none;fill-opacity:1;stroke:#ff3453;stroke-width:0.46535796;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
        id="path1648-6-7-0"
        cx="64.224152"
        cy="218.1207"
        rx="20.3869"
        ry="12.09614" />
-    <text
+    <svg:text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="77.706902"
        y="194.4138"
        id="text3341"
-       onclick="window.open('https://schema.org/serviceOperator','_blank');"><tspan
+       onclick="window.open('https://schema.org/serviceOperator','_blank');"><svg:tspan
          sodipodi:role="line"
          id="tspan3339"
          x="77.706902"
          y="194.4138"
-         style="font-size:6px">sous traitants</tspan></text>
-    <text
+         style="font-size:6px">sous traitants</svg:tspan></svg:text>
+    <svg:text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="112.24045"
        y="214.66763"
        id="text3341-2"
-       onclick="window.open('https://dictionary.cambridge.org/fr/dictionnaire/anglais/subscribe','_blank');"><tspan
+       onclick="window.open('https://dictionary.cambridge.org/fr/dictionnaire/anglais/subscribe','_blank');"><svg:tspan
          sodipodi:role="line"
          id="tspan3339-5"
          x="112.24045"
          y="214.66763"
-         style="font-size:6px">abonnement</tspan></text>
-    <text
+         style="font-size:6px">abonnement</svg:tspan></svg:text>
+    <svg:text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="48.405533"
        y="220.35457"
        id="text3341-2-3"
-       onclick="window.open('http://id.loc.gov/vocabulary/relators/anl.html','_blank');"><tspan
+       onclick="window.open('http://id.loc.gov/vocabulary/relators/anl.html','_blank');"><svg:tspan
          sodipodi:role="line"
          id="tspan3339-5-6"
          x="48.405533"
          y="220.35457"
-         style="font-size:6px">analystes</tspan></text>
-    <text
+         style="font-size:6px">analystes</svg:tspan></svg:text>
+    <svg:text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="92.05629"
        y="242.22751"
        id="text3341-2-3-5"
-       onclick="window.open('https://schema.org/tool','_blank');"><tspan
+       onclick="window.open('https://schema.org/tool','_blank');"><svg:tspan
          sodipodi:role="line"
          id="tspan3339-5-6-2"
          x="92.05629"
          y="242.22751"
-         style="font-size:6px">outils</tspan></text>
-    <path
+         style="font-size:6px">outils</svg:tspan></svg:text>
+    <svg:path
        style="fill:none;stroke:#ff3453;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 37.65284,119.03542 c 12.933272,39.9006 24.28161,59.77011 31.034484,83.18965 l 0.590006,0.36702"
        id="path3291"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
-    <path
+    <svg:path
        style="fill:none;stroke:#fda9b5;stroke-width:1.00339723px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 84.653395,218.97147 c 23.103045,-2.3075 22.697725,-2.3075 22.697725,-2.3075"
        id="path3414"
        inkscape:connector-curvature="0" />
-    <path
+    <svg:path
        style="fill:none;stroke:#fda9b5;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 126.2931,191.39655 c 12.06897,10.77586 12.06897,10.77586 12.06897,10.77586"
        id="path3416"
        inkscape:connector-curvature="0" />
-    <path
+    <svg:path
        style="fill:none;stroke:#fda9b5;stroke-width:0.83340436px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 79.694869,226.20905 c 5.68537,6.35528 5.68537,6.35528 5.68537,6.35528"
        id="path3418"
        inkscape:connector-curvature="0" />
-    <path
+    <svg:path
        style="fill:none;stroke:#fda9b5;stroke-width:0.778714px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 117.76856,223.43082 c -4.09971,6.04575 -4.09971,6.04575 -4.09971,6.04575"
        id="path3420"
        inkscape:connector-curvature="0" />
-    <path
+    <svg:path
        style="fill:none;stroke:#fda9b5;stroke-width:0.99497986px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 97.849541,203.95528 c 2.189499,23.52152 2.189499,23.52152 2.189499,23.52152"
        id="path3422"
        inkscape:connector-curvature="0" />
-    <rect
+    <svg:rect
        style="fill:#fcfffd;fill-opacity:1;stroke:#d5d1d2;stroke-width:1.33599854;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        id="rect3424"
        width="25.424086"
        height="32.98077"
        x="98.754768"
        y="-24.063131" />
-    <image
+    <svg:image
        y="-22.263577"
        x="101.20435"
        id="image3434"
@@ -2296,94 +2301,94 @@
        preserveAspectRatio="none"
        height="24.3549"
        width="19.6591" />
-    <path
+    <svg:path
        style="fill:none;stroke:#1bb323;stroke-width:1.00157475;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#marker3467);marker-end:url(#marker4455)"
        d="M 70.483348,33.510539 C 61.064275,43.191212 69.780784,32.499786 48.702108,53.840063 42.479951,61.347246 34.913663,67.09672 30.603448,77.104134"
        id="path3439"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc"
        onclick=" window.open('https://fr.wiktionary.org/wiki/enregistrer','_blank');" />
-    <path
+    <svg:path
        style="fill:none;stroke:#ff3453;stroke-width:1.00157475;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#marker3779);marker-end:url(#marker3779)"
        d="M 44.827586,81.05172 78.158088,55.580976 121.24351,10.824435"
        id="path3769"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc"
        onclick="window.open('https://intlekt.io/?comments=l.e.-s.i.-%27','_blank');" />
-    <path
+    <svg:path
        style="fill:none;stroke:#1bb323;stroke-width:1.00157475;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#marker3467-5);marker-end:url(#marker4455-3)"
        d="M 82.890456,33.458438 53.670591,61.406541 40.965093,76.599801"
        id="path3439-8"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
-    <path
+    <svg:path
        style="fill:none;stroke:#ff3453;stroke-width:1.00157475;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#marker3779-3);marker-end:url(#marker3779-3)"
        d="M 51.013725,84.754317 78.029948,66.697761 140.97981,11.747531"
        id="path3769-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc"
        onclick="window.open('https://intlekt.io/?comments=wa.c.s.-','_blank');" />
-    <path
+    <svg:path
        style="fill:none;stroke:#1bb323;stroke-width:1.00157475;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#marker5355);marker-end:url(#marker5355)"
        d="M 82.250077,-8.4370578 C 94.435067,-30.613738 115.6086,-40.421373 137.28141,-42.665189 c 31.15071,-3.225075 64.23686,7.187091 76.64962,11.251396"
        id="path5351"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csc"
        onclick="window.open('https://intlekt.io/?comments=f.e.-f.i.-%27','_blank');" />
-    <path
+    <svg:path
        style="fill:none;stroke:#3a53ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.99607843;marker-end:url(#marker6291)"
        d="m 143.57893,28.630082 -30.6479,23.111299 -2.15517,5.172414"
        id="path6287"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc"
        onclick="window.open('https://intlekt.io/?comments=wa.j.s.-','_blank');" />
-    <path
+    <svg:path
        style="fill:none;stroke:#d5d1d2;stroke-width:1.00157475;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7215)"
        d="m 124.68077,-8.4879839 15.9744,-0.9430501"
        id="path7205"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
        onclick="window.open('https://intlekt.io/?comments=t.-x.-s.y.-%27wa.e.-b.-%27%2CA%3A.-%27%2C_','_blank');" />
-    <path
+    <svg:path
        style="fill:none;stroke:#ffa59f;stroke-width:1.00157475;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#marker9131);marker-end:url(#marker7629)"
        d="M 81.418577,86.010758 62.060427,69.298561 36.514168,52.338849"
        id="path7619"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc"
        onclick="window.open('https://dictionary.cambridge.org/fr/dictionnaire/anglais/subscribe','_blank');" />
-    <path
+    <svg:path
        style="fill:none;stroke:#98e0ff;stroke-width:1.00157475;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#marker8743);marker-end:url(#marker7983)"
        d="M 152.09969,68.671216 C 141.90804,63.447306 146.01045,61.35315 121.52474,52.999487 103.22084,45.322244 66.628407,42.861923 42.247785,43.084419"
        id="path7973"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc"
        onclick="window.open('https://dictionary.cambridge.org/fr/dictionnaire/anglais/subscribe','_blank');" />
-    <path
+    <svg:path
        style="fill:none;stroke:#ead0ff;stroke-width:1.00157475;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#marker9531);marker-end:url(#marker8355)"
        d="M 263.99368,82.818536 C 242.3806,50.089175 212.36351,39.52904 169.53803,40.694941 126.78139,38.341488 81.086093,38.825814 41.942646,35.814443"
        id="path8345"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc"
        onclick="window.open('https://dictionary.cambridge.org/fr/dictionnaire/anglais/subscribe','_blank');" />
-    <path
+    <svg:path
        style="fill:none;stroke:#ff5246;stroke-width:1.0015748;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#marker10855);marker-end:url(#marker9927)"
        d="m 119.39656,72.431039 c 28.04199,-21.881296 65.64976,-23.772613 95.26972,-35.783234 68.03893,-4.231866 122.61856,-64.060253 31.89856,-56.638432"
        id="path9917"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc"
        onclick="window.open('https://intlekt.io/?comments=O%3AM%3A.','_blank');" />
-    <text
+    <svg:text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="208.93564"
        y="129.23764"
-       id="text398"><tspan
+       id="text398"><svg:tspan
          sodipodi:role="line"
          id="tspan396"
          x="208.93564"
          y="129.23764"
-         style="font-size:5.33333349px">missions présenvtion</tspan></text>
-    <rect
+         style="font-size:5.33333349px">missions présenvtion</svg:tspan></svg:text>
+    <svg:rect
        id="rect400"
        width="30.455713"
        height="35.006401"
@@ -2391,18 +2396,18 @@
        y="15.819479"
        ry="3.1208103"
        style="fill:none;stroke:#040001;stroke-width:1.00045979;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <text
+    <svg:text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="12.92983"
        y="47.505463"
-       id="text3289-7"><tspan
+       id="text3289-7"><svg:tspan
          sodipodi:role="line"
          id="tspan3287-0"
          x="12.92983"
          y="47.505463"
-         style="font-size:6.66666651px">contrat</tspan></text>
-    <image
+         style="font-size:6.66666651px">contrat</svg:tspan></svg:text>
+    <svg:image
        y="22.169485"
        x="18.608341"
        id="image5501"
@@ -2410,28 +2415,29 @@
        preserveAspectRatio="none"
        height="15.871288"
        width="16.090754" />
-    <path
+    <svg:path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker9822)"
        d="m 20.544554,51.20792 2.227723,31.43564"
        id="path9440"
        inkscape:connector-curvature="0"
        onclick="window.open('https://dictionary.cambridge.org/fr/dictionnaire/anglais/subscribe','_blank');" />
-    <path
+    <svg:path
        style="fill:none;stroke:#fda9b5;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 72.957921,197.86634 -6.77599,8.04455"
        id="path10214"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
-    <text
+    <svg:text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="103.37062"
        y="7.2108316"
-       id="text3289-7-8"><tspan
+       id="text3289-7-8"><svg:tspan
          sodipodi:role="line"
          id="tspan3287-0-4"
          x="103.37062"
          y="7.2108316"
-         style="font-size:6.66666651px">BDD</tspan></text>
-  </g>
-</svg>
+         style="font-size:6.66666651px">BDD</svg:tspan></svg:text>
+  </svg:g>
+  <style />
+</svg:svg>
