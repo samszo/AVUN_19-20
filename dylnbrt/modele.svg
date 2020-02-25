@@ -18,9 +18,21 @@
   <style
      id="style833"
      type="text/css"><![CDATA[
-  .doigt {
-     cursor:pointer;
-     }
+   .doigt {
+      cursor:pointer;
+      }
+
+      @font-face {
+            font-family: "Quantify";
+            src: url("fonts/quantify/Quantify.ttf");
+        }
+
+      .logoTxt {
+         vertical-align: sub;
+         font-family: "Quantify";
+      }
+
+
   ]]></style>
   <defs
      id="defs2">
@@ -342,7 +354,7 @@
        x="56.001816"
        style="font-style:normal;font-weight:normal;font-size:5.0127px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.125317"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;stroke-width:0.125317"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quantify;-inkscape-font-specification:Bahnschrift;stroke-width:0.125317"
          y="208.07257"
          x="56.001816"
          id="tspan1768"
