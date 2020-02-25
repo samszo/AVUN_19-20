@@ -62,7 +62,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col4">
+            <div id='calculPA' class="col4">
               Pour le calcule
             </div>
         </div>      
@@ -108,6 +108,10 @@
     function afficheEco(d){
 
         d3.select("#contSVG").html("");
+        d3.select("#contRef").html("");
+        d3.select("#calculPA").html("");
+        
+        
         var urlSVG = "../"+d['Votre compte GitHub']+"/modele.svg";
 
         d3.xml(urlSVG)
@@ -124,6 +128,10 @@
                 }
             })
             console.log(dimensions);
+
+            d3.select("#calculPA").html(JSON.stringify(dimensions));
+
+
         });        
             
 
