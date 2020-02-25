@@ -9,7 +9,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="modele.svg"
-   inkscape:version="1.1-dev (ddb55ca, 2020-02-02)"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    id="svg8"
    version="1.1"
    viewBox="0 0 211.66666 158.75"
@@ -258,16 +258,16 @@
      inkscape:object-paths="true"
      inkscape:snap-smooth-nodes="false"
      inkscape:window-maximized="1"
-     inkscape:window-y="23"
-     inkscape:window-x="0"
-     inkscape:window-height="955"
+     inkscape:window-y="-9"
+     inkscape:window-x="-9"
+     inkscape:window-height="1001"
      inkscape:window-width="1920"
      units="px"
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
      inkscape:cy="290.35314"
-     inkscape:cx="348.63554"
+     inkscape:cx="319.50613"
      inkscape:zoom="1.26"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -302,14 +302,14 @@
            height="73.741135"
            width="239.40616"
            id="rect821" /></flowRegion><flowPara
-         id="flowPara823" /></flowRoot>
-    <text
+         id="flowPara823" /></flowRoot>    <text
        id="text827"
        y="211.20647"
        x="118.93494"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve" />
     <ellipse
+
        ry="47.45129"
        rx="75.38221"
        cy="246.96788"
@@ -341,6 +341,7 @@
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve" />
     <rect
+      class="doigt"
        onclick="window.open('https://schema.org/VideoGame');"
        y="144.03429"
        x="45.974628"
@@ -363,6 +364,7 @@
        transform="translate(74.612541)"
        id="g1708">
       <ellipse
+        class="doigt"
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#f01141;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path1700"
          cx="67.076088"
@@ -387,16 +389,18 @@
        id="flowRoot1826"
        xml:space="preserve"><flowRegion
          id="flowRegion1828"><rect
+
            y="-74.603172"
            x="-417.46033"
            height="525.39685"
            width="868.25397"
            id="rect1830" /></flowRegion><flowPara
-         id="flowPara1832" /></flowRoot>
-    <g
+         id="flowPara1832" /></flowRoot>    <g
        transform="translate(-38.100018)"
-       id="g1713">
+       id="g1713"
+       onclick="window.open('https://intlekt.io/?comments=d.o.-m.o.-%27');">
       <ellipse
+        class="doigt"
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#f01141;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path1700-2"
          cx="104.84573"
@@ -406,7 +410,7 @@
          onclick="window.open('https://intlekt.io/?comments=d.o.-m.o.-%27');" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:5.0127px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.125317"
+         style="font-style:normal;font-weight:normal;font-size:5.01270008px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12531701"
          x="93.383575"
          y="257.8056"
          id="text1770-5-5"><tspan
@@ -414,12 +418,13 @@
            id="tspan1768-9-8"
            x="93.383575"
            y="257.8056"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;stroke-width:0.125317">INTUITION</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;stroke-width:0.12531701">INTUITION</tspan></text>
     </g>
     <g
        transform="translate(-38.100018)"
        id="g1723">
       <ellipse
+        class="doigt"
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#f01141;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path1700-3"
          cx="142.50049"
@@ -465,15 +470,17 @@
            y="161.1402"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;stroke-width:0.255411">JEU-VIDÉO</tspan></text>
       <image
+         sodipodi:absref="C:\Users\dylan\Documents\GitHub\AVUN_19-20\dylnbrt\jv.png"
          xlink:href="jv.png"
-         y="152.59755"
-         x="92.026756"
-         id="image1900"
-         preserveAspectRatio="none"
+         width="9.9459763"
          height="10.894501"
-         width="9.9459763" />
+         preserveAspectRatio="none"
+         id="image1900"
+         x="92.026756"
+         y="152.59755" />
     </g>
     <path
+       
        transform="matrix(0.66678371,0,0,0.5278025,90.289208,99.591557)"
        d="m 125.61668,230.44987 -49.159596,29.02031 -49.712131,-28.0633 -0.552535,-57.08361 49.159596,-29.02032 49.712126,28.0633 z"
        inkscape:randomized="0"
@@ -501,6 +508,7 @@
          id="tspan1768-6-0"
          sodipodi:role="line">ÉQUIPE DE DÉVELOPPEMENT</tspan></text>
     <path
+      
        transform="matrix(0.27866745,0,0,0.18401064,120.15216,153.42141)"
        d="m 125.61668,230.44987 -49.159596,29.02031 -49.712131,-28.0633 -0.552535,-57.08361 49.159596,-29.02032 49.712126,28.0633 z"
        inkscape:randomized="0"
@@ -570,6 +578,7 @@
        transform="translate(73.02504)"
        id="g2894">
       <rect
+        class="doigt"
          style="fill:#ffffff;fill-rule:evenodd;stroke:#5d11f0;stroke-width:0.26708776;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect5129-3"
          width="33.200989"
@@ -617,6 +626,7 @@
          id="tspan1768-6-2-0"
          sodipodi:role="line">UX DESIGNER</tspan></text>
     <path
+
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path1995"
