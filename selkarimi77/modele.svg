@@ -1,785 +1,840 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg:svg
+<svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-
    xmlns="http://www.w3.org/2000/svg"
-
-
-
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg8"
    version="1.1"
    viewBox="0 0 310 347"
    height="100%"
-   width="100%">
-  <style   type="text/css">
+   width="100%"
+   sodipodi:docname="modele.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     id="namedview364"
+     showgrid="false"
+     inkscape:zoom="2.7204611"
+     inkscape:cx="110.42568"
+     inkscape:cy="194.55565"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8"
+     units="px" />
+  <style
+     type="text/css"
+     id="style2">
   .doigt {
      cursor:pointer;
      }
   </style>
-  <svg:defs
+  <defs
      id="defs2">
-    <svg:marker
+    <marker
        orient="auto"
        refY="0.0"
        refX="0.0"
        id="marker9822"
        style="overflow:visible;">
-      <svg:path
+      <path
          id="path9820"
          style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
          transform="scale(0.6) rotate(180) translate(0,0)" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        style="overflow:visible;"
        id="marker10855"
        refX="0.0"
        refY="0.0"
        orient="auto">
-      <svg:path
+      <path
          transform="scale(0.6) rotate(180) translate(0,0)"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
          style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#ff5246;stroke-opacity:1;fill:#ff5246;fill-opacity:1"
          id="path10853" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        style="overflow:visible;"
        id="marker9927"
        refX="0.0"
        refY="0.0"
        orient="auto">
-      <svg:path
+      <path
          transform="scale(0.6) rotate(180) translate(0,0)"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
          style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#ff5246;stroke-opacity:1;fill:#ff5246;fill-opacity:1"
          id="path9925" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        orient="auto"
        refY="0.0"
        refX="0.0"
        id="marker9531"
        style="overflow:visible;">
-      <svg:path
+      <path
          id="path9529"
          style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#ead0ff;stroke-opacity:1;fill:#ead0ff;fill-opacity:1"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
          transform="scale(0.6) rotate(180) translate(0,0)" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        style="overflow:visible;"
        id="marker9131"
        refX="0.0"
        refY="0.0"
        orient="auto">
-      <svg:path
+      <path
          transform="scale(0.6) rotate(180) translate(0,0)"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
          style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#ffa59f;stroke-opacity:1;fill:#ffa59f;fill-opacity:1"
          id="path9129" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        orient="auto"
        refY="0.0"
        refX="0.0"
        id="marker8743"
        style="overflow:visible;">
-      <svg:path
+      <path
          id="path8741"
          style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#98e0ff;stroke-opacity:1;fill:#98e0ff;fill-opacity:1"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
          transform="scale(0.6) rotate(180) translate(0,0)" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        style="overflow:visible;"
        id="marker8355"
        refX="0.0"
        refY="0.0"
        orient="auto">
-      <svg:path
+      <path
          transform="scale(0.6) rotate(180) translate(0,0)"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
          style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#ead0ff;stroke-opacity:1;fill:#ead0ff;fill-opacity:1"
          id="path8353" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        orient="auto"
        refY="0.0"
        refX="0.0"
        id="marker7983"
        style="overflow:visible;">
-      <svg:path
+      <path
          id="path7981"
          style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#98e0ff;stroke-opacity:1;fill:#98e0ff;fill-opacity:1"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
          transform="scale(0.6) rotate(180) translate(0,0)" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        style="overflow:visible;"
        id="marker7629"
        refX="0.0"
        refY="0.0"
        orient="auto">
-      <svg:path
+      <path
          transform="scale(0.6) rotate(180) translate(0,0)"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
          style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#ffa59f;stroke-opacity:1;fill:#ffa59f;fill-opacity:1"
          id="path7627" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        style="overflow:visible;"
        id="marker7215"
        refX="0.0"
        refY="0.0"
        orient="auto">
-      <svg:path
+      <path
          transform="scale(0.6) rotate(180) translate(0,0)"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
          style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#d5d1d2;stroke-opacity:1;fill:#d5d1d2;fill-opacity:1"
          id="path7213" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        orient="auto"
        refY="0.0"
        refX="0.0"
        id="marker6291"
        style="overflow:visible;">
-      <svg:path
+      <path
          id="path6289"
          style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#3a53ff;stroke-opacity:0.996078;fill:#3a53ff;fill-opacity:0.996078"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
          transform="scale(0.6) rotate(180) translate(0,0)" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        style="overflow:visible;"
        id="marker5355"
        refX="0.0"
        refY="0.0"
        orient="auto">
-      <svg:path
+      <path
          transform="scale(0.6) rotate(180) translate(0,0)"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
          style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#1bb323;stroke-opacity:1;fill:#1bb323;fill-opacity:1"
          id="path5353" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        orient="auto"
        refY="0.0"
        refX="0.0"
        id="marker3779"
        style="overflow:visible;">
-      <svg:path
+      <path
          id="path3777"
          style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#ff3453;stroke-opacity:1;fill:#ff3453;fill-opacity:1"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
          transform="scale(0.6) rotate(180) translate(0,0)" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        style="overflow:visible;"
        id="marker3467"
        refX="0.0"
        refY="0.0"
        orient="auto">
-      <svg:path
+      <path
          transform="scale(0.6) rotate(180) translate(0,0)"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
          style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#1bb323;stroke-opacity:1;fill:#1bb323;fill-opacity:1"
          id="path3465" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        orient="auto"
        refY="0.0"
        refX="0.0"
        id="marker12477"
        style="overflow:visible;">
-      <svg:path
+      <path
          id="path12475"
          d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
          style="fill-rule:evenodd;stroke:#ead0ff;stroke-width:1pt;stroke-opacity:1;fill:#ead0ff;fill-opacity:1"
          transform="scale(0.8) rotate(180) translate(12.5,0)" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        style="overflow:visible;"
        id="marker12149"
        refX="0.0"
        refY="0.0"
        orient="auto">
-      <svg:path
+      <path
          transform="scale(0.6) rotate(180) translate(0,0)"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
          style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#ead0ff;stroke-opacity:1;fill:#ead0ff;fill-opacity:1"
          id="path12147" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        orient="auto"
        refY="0.0"
        refX="0.0"
        id="marker11839"
        style="overflow:visible;">
-      <svg:path
+      <path
          id="path11837"
          d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
          style="fill-rule:evenodd;stroke:#ead0ff;stroke-width:1pt;stroke-opacity:1;fill:#ead0ff;fill-opacity:1"
          transform="scale(0.8) rotate(180) translate(12.5,0)" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        orient="auto"
        refY="0.0"
        refX="0.0"
        id="marker11219"
        style="overflow:visible;">
-      <svg:path
+      <path
          id="path11217"
          style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#ffa59f;stroke-opacity:1;fill:#ffa59f;fill-opacity:1"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
          transform="scale(0.6) rotate(180) translate(0,0)" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        style="overflow:visible;"
        id="marker5133"
        refX="0.0"
        refY="0.0"
        orient="auto">
-      <svg:path
+      <path
          transform="scale(0.6) rotate(180) translate(0,0)"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
          style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#ffa59f;stroke-opacity:0.86666667;fill:#ffa59f;fill-opacity:0.86666667"
          id="path5131" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        style="overflow:visible;"
        id="marker4455"
        refX="0.0"
        refY="0.0"
        orient="auto">
-      <svg:path
+      <path
          transform="scale(0.6) rotate(180) translate(0,0)"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
          style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#1bb323;stroke-opacity:1;fill:#1bb323;fill-opacity:1"
          id="path1859" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        orient="auto"
        refY="0.0"
        refX="0.0"
        id="marker4266"
        style="overflow:visible;">
-      <svg:path
+      <path
          id="path4264"
          style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#3a53ff;stroke-opacity:0.94902;fill:#3a53ff;fill-opacity:0.94902"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
          transform="scale(0.6) rotate(180) translate(0,0)" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        orient="auto"
        refY="0.0"
        refX="0.0"
        id="marker3908"
        style="overflow:visible;">
-      <svg:path
+      <path
          id="path3906"
          style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#ffa59f;stroke-opacity:1;fill:#ffa59f;fill-opacity:1"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
          transform="scale(0.6) rotate(180) translate(0,0)" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        style="overflow:visible"
        id="TriangleInL"
        refX="0.0"
        refY="0.0"
        orient="auto">
-      <svg:path
+      <path
          transform="scale(-0.8)"
          style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
          d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
          id="path1965" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        style="overflow:visible;"
        id="marker2784"
        refX="0.0"
        refY="0.0"
        orient="auto">
-      <svg:path
+      <path
          transform="scale(0.4) rotate(180) translate(10,0)"
          style="fill-rule:evenodd;stroke:#ffa59f;stroke-width:1pt;stroke-opacity:0.86666667;fill:#ffa59f;fill-opacity:0.86666667"
          d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
          id="path2782" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        style="overflow:visible"
        id="marker2592"
        refX="0.0"
        refY="0.0"
        orient="auto">
-      <svg:path
+      <path
          transform="scale(0.4) translate(10,0)"
          style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
          d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
          id="path1838" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        style="overflow:visible;"
        id="marker2095"
        refX="0.0"
        refY="0.0"
        orient="auto">
-      <svg:path
+      <path
          transform="scale(0.4) rotate(180) translate(10,0)"
          style="fill-rule:evenodd;stroke:none;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
          d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
          id="path1841" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        style="overflow:visible"
        id="TriangleInM"
        refX="0.0"
        refY="0.0"
        orient="auto">
-      <svg:path
+      <path
          transform="scale(-0.4)"
          style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
          d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
          id="path2101" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        style="overflow:visible;"
        id="Arrow1Send"
        refX="0.0"
        refY="0.0"
        orient="auto">
-      <svg:path
+      <path
          transform="scale(0.2) rotate(180) translate(6,0)"
          style="fill-rule:evenodd;stroke:none;stroke-width:1pt;stroke-opacity:1;fill:#425aff;fill-opacity:0.98823529"
          d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
          id="path1980" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        style="overflow:visible"
        id="marker3567"
        refX="0"
        refY="0"
        orient="auto">
-      <svg:path
+      <path
          transform="matrix(-0.8,0,0,-0.8,-10,0)"
          style="fill:#ffa59f;fill-opacity:1;fill-rule:evenodd;stroke:#ffa59f;stroke-width:1.00000003pt;stroke-opacity:1"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path3565" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        style="overflow:visible"
        id="marker3449"
        refX="0"
        refY="0"
        orient="auto">
-      <svg:path
+      <path
          transform="matrix(-0.8,0,0,-0.8,-10,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path3447" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        style="overflow:visible"
        id="marker3337"
        refX="0"
        refY="0"
        orient="auto">
-      <svg:path
+      <path
          transform="matrix(-0.8,0,0,-0.8,-10,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path3335" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        orient="auto"
        refY="0"
        refX="0"
        id="marker2755"
        style="overflow:visible">
-      <svg:path
+      <path
          id="path2753"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          style="fill:#d59fff;fill-opacity:1;fill-rule:evenodd;stroke:#d59fff;stroke-width:1.00000003pt;stroke-opacity:1"
          transform="matrix(-0.8,0,0,-0.8,-10,0)" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        style="overflow:visible"
        id="Arrow1Mstart"
        refX="0.0"
        refY="0.0"
        orient="auto">
-      <svg:path
+      <path
          transform="scale(0.4) translate(10,0)"
          style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
          d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
          id="path1971" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        style="overflow:visible"
        id="marker4560"
        refX="0"
        refY="0"
        orient="auto">
-      <svg:path
+      <path
          transform="matrix(-0.8,0,0,-0.8,-10,0)"
          style="fill:#cc001a;fill-opacity:1;fill-rule:evenodd;stroke:#cc001a;stroke-width:1.00000003pt;stroke-opacity:1"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path4558" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        style="overflow:visible"
        id="marker4414"
        refX="0"
        refY="0"
        orient="auto">
-      <svg:path
+      <path
          transform="matrix(-0.8,0,0,-0.8,-10,0)"
          style="fill:#d59fff;fill-opacity:1;fill-rule:evenodd;stroke:#d59fff;stroke-width:1.00000003pt;stroke-opacity:1"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path4412" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        style="overflow:visible"
        id="marker4276"
        refX="0"
        refY="0"
        orient="auto">
-      <svg:path
+      <path
          transform="matrix(-0.8,0,0,-0.8,-10,0)"
          style="fill:#3951ff;fill-opacity:1;fill-rule:evenodd;stroke:#3951ff;stroke-width:1.00000003pt;stroke-opacity:1"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path4274" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        style="overflow:visible"
        id="marker4066"
        refX="0"
        refY="0"
        orient="auto">
-      <svg:path
+      <path
          transform="matrix(-0.8,0,0,-0.8,-10,0)"
          style="fill:#3952ff;fill-opacity:0.98823529;fill-rule:evenodd;stroke:#3952ff;stroke-width:1.00000003pt;stroke-opacity:0.98823529"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path4064" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        style="overflow:visible"
        id="Arrow1Mend"
        refX="0"
        refY="0"
        orient="auto">
-      <svg:path
+      <path
          transform="matrix(-0.4,0,0,-0.4,-4,0)"
          style="fill:#ffa59f;fill-opacity:1;fill-rule:evenodd;stroke:#ffa59f;stroke-width:1.00000003000000004pt;stroke-opacity:1"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path1694" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        orient="auto"
        refY="0"
        refX="0"
        id="marker2997"
        style="overflow:visible">
-      <svg:path
+      <path
          id="path2995"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
          transform="matrix(-0.8,0,0,-0.8,-10,0)" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        orient="auto"
        refY="0"
        refX="0"
        id="marker2003-1"
        style="overflow:visible">
-      <svg:path
+      <path
          id="path2001-5"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          style="fill:#cc001a;fill-opacity:1;fill-rule:evenodd;stroke:#cc001a;stroke-width:1.00000003pt;stroke-opacity:1"
          transform="matrix(-0.8,0,0,-0.8,-10,0)" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        style="overflow:visible"
        id="Arrow1Mend-6"
        refX="0"
        refY="0"
        orient="auto">
-      <svg:path
+      <path
          transform="matrix(-0.4,0,0,-0.4,-4,0)"
          style="fill:#ffa59f;fill-opacity:1;fill-rule:evenodd;stroke:#ffa59f;stroke-width:1.00000003000000004pt;stroke-opacity:1"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path1694-1" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        style="overflow:visible"
        id="Arrow1Mend-69"
        refX="0"
        refY="0"
        orient="auto">
-      <svg:path
+      <path
          transform="matrix(-0.4,0,0,-0.4,-4,0)"
          style="fill:#ffa59f;fill-opacity:1;fill-rule:evenodd;stroke:#ffa59f;stroke-width:1.00000003000000004pt;stroke-opacity:1"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path1694-7" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        style="overflow:visible"
        id="Arrow1Mend-4"
        refX="0"
        refY="0"
        orient="auto">
-      <svg:path
+      <path
          transform="matrix(-0.4,0,0,-0.4,-4,0)"
          style="fill:#8cdcff;fill-opacity:1;fill-rule:evenodd;stroke:#8cdcff;stroke-width:1.00000003000000004pt;stroke-opacity:1"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path1694-6" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        style="overflow:visible"
        id="Arrow1Mend-4-9"
        refX="0"
        refY="0"
        orient="auto">
-      <svg:path
+      <path
          transform="matrix(-0.4,0,0,-0.4,-4,0)"
          style="fill:#8cdcff;fill-opacity:1;fill-rule:evenodd;stroke:#8cdcff;stroke-width:1.00000003000000004pt;stroke-opacity:1"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path1694-6-6" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        style="overflow:visible"
        id="Arrow1Mend-4-0"
        refX="0"
        refY="0"
        orient="auto">
-      <svg:path
+      <path
          transform="matrix(-0.4,0,0,-0.4,-4,0)"
          style="fill:#8cdcff;fill-opacity:1;fill-rule:evenodd;stroke:#8cdcff;stroke-width:1.00000003000000004pt;stroke-opacity:1"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path1694-6-0" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        style="overflow:visible"
        id="marker5133-1"
        refX="0"
        refY="0"
        orient="auto">
-      <svg:path
+      <path
          transform="scale(-0.6)"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          style="fill:#3852ff;fill-opacity:0.81568627;fill-rule:evenodd;stroke:#3852ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:0.81568627"
          id="path5131-1" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        style="overflow:visible"
        id="marker4931-8"
        refX="0"
        refY="0"
        orient="auto">
-      <svg:path
+      <path
          transform="scale(-0.6)"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          style="fill:#3852ff;fill-opacity:0.81568627;fill-rule:evenodd;stroke:#3852ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:0.81568627"
          id="path4929-8" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        style="overflow:visible"
        id="marker5133-1-2"
        refX="0"
        refY="0"
        orient="auto">
-      <svg:path
+      <path
          transform="scale(-0.6)"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          style="fill:#3852ff;fill-opacity:0.815686;fill-rule:evenodd;stroke:#3852ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:0.815686"
          id="path5131-1-1" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        style="overflow:visible"
        id="marker4931-8-1"
        refX="0"
        refY="0"
        orient="auto">
-      <svg:path
+      <path
          transform="scale(-0.6)"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          style="fill:#3852ff;fill-opacity:0.815686;fill-rule:evenodd;stroke:#3852ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:0.815686"
          id="path4929-8-0" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        style="overflow:visible"
        id="marker5133-8"
        refX="0"
        refY="0"
        orient="auto">
-      <svg:path
+      <path
          transform="scale(-0.6)"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          style="fill:#ead0ff;fill-opacity:1;fill-rule:evenodd;stroke:#ead0ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          id="path5131-5" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        style="overflow:visible"
        id="marker4931-2"
        refX="0"
        refY="0"
        orient="auto">
-      <svg:path
+      <path
          transform="scale(-0.6)"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          style="fill:#ead0ff;fill-opacity:1;fill-rule:evenodd;stroke:#ead0ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          id="path4929-3" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        style="overflow:visible"
        id="marker5133-8-5"
        refX="0"
        refY="0"
        orient="auto">
-      <svg:path
+      <path
          transform="scale(-0.6)"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          style="fill:#ead0ff;fill-opacity:1;fill-rule:evenodd;stroke:#ead0ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          id="path5131-5-5" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        style="overflow:visible"
        id="marker4931-2-4"
        refX="0"
        refY="0"
        orient="auto">
-      <svg:path
+      <path
          transform="scale(-0.6)"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          style="fill:#ead0ff;fill-opacity:1;fill-rule:evenodd;stroke:#ead0ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          id="path4929-3-2" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        style="overflow:visible"
        id="marker5133-8-57"
        refX="0"
        refY="0"
        orient="auto">
-      <svg:path
+      <path
          transform="scale(-0.6)"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          style="fill:#ead0ff;fill-opacity:1;fill-rule:evenodd;stroke:#ead0ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          id="path5131-5-0" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        style="overflow:visible"
        id="marker4931-2-5"
        refX="0"
        refY="0"
        orient="auto">
-      <svg:path
+      <path
          transform="scale(-0.6)"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          style="fill:#ead0ff;fill-opacity:1;fill-rule:evenodd;stroke:#ead0ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          id="path4929-3-1" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        style="overflow:visible"
        id="marker5133-8-2"
        refX="0"
        refY="0"
        orient="auto">
-      <svg:path
+      <path
          transform="scale(-0.6)"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          style="fill:#8cdcff;fill-opacity:1;fill-rule:evenodd;stroke:#8cdcff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          id="path5131-5-3" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        style="overflow:visible"
        id="marker4931-2-3"
        refX="0"
        refY="0"
        orient="auto">
-      <svg:path
+      <path
          transform="scale(-0.6)"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          style="fill:#8cdcff;fill-opacity:1;fill-rule:evenodd;stroke:#8cdcff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          id="path4929-3-4" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        style="overflow:visible"
        id="marker5133-8-2-6"
        refX="0"
        refY="0"
        orient="auto">
-      <svg:path
+      <path
          transform="scale(-0.6)"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          style="fill:#8cdcff;fill-opacity:1;fill-rule:evenodd;stroke:#8cdcff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          id="path5131-5-3-4" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        style="overflow:visible"
        id="marker4931-2-3-4"
        refX="0"
        refY="0"
        orient="auto">
-      <svg:path
+      <path
          transform="scale(-0.6)"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          style="fill:#8cdcff;fill-opacity:1;fill-rule:evenodd;stroke:#8cdcff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          id="path4929-3-4-2" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        style="overflow:visible"
        id="marker3467-5"
        refX="0"
        refY="0"
        orient="auto">
-      <svg:path
+      <path
          transform="scale(-0.6)"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          style="fill:#1bb323;fill-opacity:1;fill-rule:evenodd;stroke:#1bb323;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          id="path3465-2" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        style="overflow:visible"
        id="marker4455-3"
        refX="0"
        refY="0"
        orient="auto">
-      <svg:path
+      <path
          transform="scale(-0.6)"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          style="fill:#1bb323;fill-opacity:1;fill-rule:evenodd;stroke:#1bb323;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          id="path1859-1" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        orient="auto"
        refY="0"
        refX="0"
        id="marker3779-3"
        style="overflow:visible">
-      <svg:path
+      <path
          id="path3777-7"
          style="fill:#ff3453;fill-opacity:1;fill-rule:evenodd;stroke:#ff3453;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          transform="scale(-0.6)" />
-    </svg:marker>
-    <svg:marker
+    </marker>
+    <marker
        orient="auto"
        refY="0"
        refX="0"
        id="marker4746"
        style="overflow:visible">
-      <svg:path
+      <path
          id="path4744"
          style="fill:#ff3453;fill-opacity:1;fill-rule:evenodd;stroke:#ff3453;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          transform="scale(-0.6)" />
-    </svg:marker>
-  </svg:defs>
-  <svg:metadata
+    </marker>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath369">
+      <g
+         style="fill:none;stroke:#2e0000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="use371"
+         inkscape:label="Clip">
+        <ellipse
+           style="fill:none;fill-opacity:1;stroke:#2e0000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="ellipse1937"
+           cx="156.15254"
+           cy="223.164"
+           rx="151.30627"
+           ry="107.90072" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath369-3">
+      <g
+         style="fill:none"
+         id="use371-7"
+         inkscape:label="Clip">
+        <ellipse
+           style="fill:none;fill-opacity:1;stroke:#6e1438;stroke-width:0.80001003;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="ellipse5682"
+           cx="156.15254"
+           cy="223.164"
+           rx="151.30627"
+           ry="107.90072" />
+      </g>
+    </clipPath>
+  </defs>
+  <metadata
      id="metadata5">
     <rdf:RDF>
       <cc:Work
@@ -787,59 +842,65 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
-  </svg:metadata>
-  <svg:rect
-     style="fill:#ffffff;fill-opacity:1;stroke:#3952ff;stroke-width:0.897;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:0.941176"
-     id="rect815"
+  </metadata>
+  <ellipse
+     style="fill:none;fill-opacity:1;stroke:#4b3f51;stroke-width:0.52426535;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+     id="C_1-6"
+     cx="154.93697"
+     cy="225.69705"
+     rx="151.4554"
+     ry="103.71104" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:#3952ff;stroke-width:0.89700001;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:0.94117599"
+     id="P_1"
      width="112.01447"
      height="64.665031"
      x="134.90384"
      y="14.333241"
      class="doigt" />
-  <svg:flowRoot
+  <flowRoot
      xml:space="preserve"
      id="flowRoot817"
-     style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"><svg:flowRegion
+     style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"><flowRegion
        style="stroke-width:0.264583"
-       id="flowRegion819"><svg:rect
+       id="flowRegion819"><rect
          style="stroke-width:0.0700042"
          id="rect821"
          width="43.607254"
          height="27.438269"
          x="101.42361"
-         y="36.849545" /></svg:flowRegion><svg:flowPara
+         y="36.849545" /></flowRegion><flowPara
        style="stroke-width:0.264583"
-       id="flowPara823">système surveillance espace public</svg:flowPara></svg:flowRoot>
-  <svg:rect
+       id="flowPara823">système surveillance espace public</flowPara></flowRoot>  <rect
      style="fill:#ffffff;fill-opacity:1;stroke:#ffe303;stroke-width:0.606067;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-     id="rect833"
+     id="P_1_1"
      width="53.724339"
      height="41.183758"
      x="141.09949"
      y="19.214302" />
-  <svg:text
+  <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:14.9995px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.374988;paint-order:stroke fill markers"
      x="161.64668"
      y="48.102417"
      id="text1344"
-     transform="scale(0.95730918,1.0445946)"><svg:tspan
+     transform="scale(0.95730918,1.0445946)"><tspan
        x="189.82381"
        y="54.184692"
        id="tspan1342"
-       style="stroke-width:0.374988"><svg:tspan
+       style="stroke-width:0.374988"><tspan
          x="161.64668"
          y="54.184692"
          style="font-size:6.66667px;stroke-width:0.374988"
-         id="tspan1338">rapports</svg:tspan><svg:tspan
+         id="tspan1338">rapports</tspan><tspan
          x="189.82381"
          y="54.184692"
          style="font-size:7.76111px;stroke-width:0.374988;paint-order:stroke fill markers"
-         id="tspan1340"> </svg:tspan></svg:tspan></svg:text>
-  <svg:image
+         id="tspan1340"> </tspan></tspan></text>
+  <image
      y="22.779762"
      x="155.20645"
      id="image867"
@@ -848,200 +909,190 @@
      preserveAspectRatio="none"
      height="25.23341"
      width="25.23341" />
-  <svg:text
+  <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;paint-order:stroke fill markers"
      x="142.23631"
      y="74.43998"
-     id="text1356"><svg:tspan
+     id="text1356"><tspan
        x="142.23631"
        y="74.43998"
        id="tspan1354"
-       style="stroke-width:0.264583"><svg:tspan
+       style="stroke-width:0.264583"><tspan
          x="142.23631"
          y="74.43998"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583;paint-order:stroke fill markers"
-         id="tspan1352">mesures de sécurité publique</svg:tspan></svg:tspan></svg:text>
-  <svg:rect
-     style="fill:#ffffff;fill-opacity:1;stroke:#ffeb4c;stroke-width:0.55085;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-     id="rect833-1"
+         id="tspan1352">mesures de sécurité publique</tspan></tspan></text>
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:#ffeb4c;stroke-width:0.55084997;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+     id="P_1_2"
      width="44.380894"
      height="41.183762"
      x="199.58609"
      y="19.214302" />
-  <svg:flowRoot
+  <flowRoot
      xml:space="preserve"
      id="flowRoot912"
      style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     transform="matrix(0.26458333,0,0,0.26458333,100.85524,-99.9145)"><svg:flowRegion
-       id="flowRegion914"><svg:rect
+     transform="matrix(0.26458333,0,0,0.26458333,100.85524,-99.9145)"><flowRegion
+       id="flowRegion914"><rect
          id="rect916"
          width="150"
          height="103.7037"
          x="214.81482"
-         y="546.68127" /></svg:flowRegion><svg:flowPara
+         y="546.68127" /></flowRegion><flowPara
        id="flowPara918"
-       style="font-size:29.3333px">intervention</svg:flowPara></svg:flowRoot>
-  <svg:ellipse
-     style="fill:#ffffff;fill-opacity:1;stroke:#6e1438;stroke-width:0.80001;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-     id="path920"
-     cx="156.15254"
-     cy="223.164"
-     rx="151.30627"
-     ry="107.90072" />
-  <svg:text
+       style="font-size:29.3333px">intervention</flowPara></flowRoot>  <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:10.5835px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264586"
      x="156.91257"
      y="317.08408"
      id="text1685"
-     transform="scale(0.9999884,1.0000116)"><svg:tspan
+     transform="scale(0.9999884,1.0000116)"><tspan
        x="158.15282"
        y="317.08408"
        id="tspan1683"
-       style="stroke-width:0.264586"><svg:tspan
+       style="stroke-width:0.264586"><tspan
          x="156.91257"
          y="317.08408"
          style="font-size:7.05564px;text-align:center;text-anchor:middle;stroke-width:0.264586"
-         id="tspan1681">numérisation de la sécurité publique </svg:tspan></svg:tspan></svg:text>
-  <svg:flowRoot
+         id="tspan1681">numérisation de la sécurité publique </tspan></tspan></text>
+  <flowRoot
      xml:space="preserve"
      id="flowRoot946"
-     style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"><svg:flowRegion
+     style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"><flowRegion
        style="stroke-width:0.264583"
-       id="flowRegion948"><svg:rect
+       id="flowRegion948"><rect
          style="stroke-width:0.0700042"
          id="rect950"
          width="55.744347"
          height="21.034922"
          x="193.15997"
-         y="77.060768" /></svg:flowRegion><svg:flowPara
+         y="77.060768" /></flowRegion><flowPara
        style="stroke-width:0.264583"
-       id="flowPara952" /></svg:flowRoot>
-  <svg:text
+       id="flowPara952" /></flowRoot>  <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;paint-order:stroke fill markers"
      x="200.51408"
      y="56.850506"
-     id="text1350"><svg:tspan
+     id="text1350"><tspan
        x="200.51408"
        y="56.850506"
        id="tspan1348"
-       style="stroke-width:0.264583"><svg:tspan
+       style="stroke-width:0.264583"><tspan
          x="200.51408"
          y="56.850506"
          style="font-size:7.05556px;stroke-width:0.264583;paint-order:stroke fill markers"
-         id="tspan1346">intervention</svg:tspan></svg:tspan></svg:text>
-  <svg:text
+         id="tspan1346">intervention</tspan></tspan></text>
+  <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
      x="107.30325"
      y="154.44214"
      id="text1060" />
-  <svg:flowRoot
+  <flowRoot
      xml:space="preserve"
      id="flowRoot1184"
-     style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"><svg:flowRegion
+     style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"><flowRegion
        style="stroke-width:0.264583"
-       id="flowRegion1186"><svg:rect
+       id="flowRegion1186"><rect
          style="stroke-width:0.0700042"
          id="rect1188"
          width="63.206017"
          height="16.658951"
          x="97.013885"
-         y="198.04939" /></svg:flowRegion><svg:flowPara
+         y="198.04939" /></flowRegion><flowPara
        style="stroke-width:0.264583"
-       id="flowPara1190" /></svg:flowRoot>
-  <svg:path
+       id="flowPara1190" /></flowRoot>  <path
      style="vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="path1249"
      transform="translate(0,7.937505)"
      d="m 152.94829,149.98093 c -1.14817,-1.01656 -24.65002,-71.121424 -24.33916,-72.6236 0.31086,-1.502175 49.59622,-57.103808 51.05224,-57.582663 1.45602,-0.478855 74.07569,14.647708 75.22525,15.663673 1.14957,1.015965 24.43509,71.37504 24.12755,72.87713 -0.30754,1.50209 -49.44724,56.63737 -50.90263,57.12512 -1.45539,0.48776 -74.01507,-14.4431 -75.16325,-15.45966 z" />
-  <svg:ellipse
-     style="fill:none;fill-opacity:1;stroke:#ffa59f;stroke-width:1.19082;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-     id="path1427"
+  <ellipse
+     style="fill:none;fill-opacity:1;stroke:#ffa59f;stroke-width:1.19081998;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+     id="C_3"
      cx="97.235664"
      cy="181.89928"
      rx="40.504803"
      ry="35.459496" />
-  <svg:path
-     style="vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffa59f;stroke-width:2.365;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="path962"
+  <path
+     style="vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffa59f;stroke-width:2.36500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="A_3"
      transform="matrix(0.01380149,0.72156768,-0.77897983,0.01223954,183.62876,102.57077)"
-     d="m 63.570549,119.99996 c -0.349657,0.58579 -29.083221,16.66045 -29.765081,16.6497 C 33.123607,136.63892 4.8938431,119.7332 4.5630578,119.13756 4.2322725,118.54192 4.6481374,85.639761 4.9967764,85.05397 5.3454154,84.468179 34.052658,68.442194 34.734159,68.453275 c 0.681502,0.01108 28.971556,16.857757 29.30366,17.452699 0.332104,0.594943 -0.117614,33.508196 -0.46727,34.093986 z" />
-  <svg:ellipse
-     style="fill:none;fill-opacity:1;stroke:#98e0ff;stroke-width:1.39549;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-     id="path1427-4"
+     d="m 63.570549,119.99996 c -0.349657,0.58579 -29.083221,16.66045 -29.765081,16.6497 C 33.123607,136.63892 4.8938431,119.7332 4.5630578,119.13756 4.2322725,118.54192 4.6481374,85.639761 4.9967764,85.05397 5.3454154,84.468179 34.052658,68.442194 34.734159,68.453275 c 0.681502,0.01108 28.971556,16.857757 29.30366,17.452699 0.332104,0.594943 -0.117614,33.508196 -0.46727,34.093986 z"
+     inkscape:connector-curvature="0" />
+  <ellipse
+     style="fill:none;fill-opacity:1;stroke:#98e0ff;stroke-width:1.39549005;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+     id="C_1"
      cx="206.10826"
      cy="193.09389"
      rx="67.495003"
      ry="51.54673" />
-  <svg:ellipse
+  <ellipse
      style="fill:none;fill-opacity:1;stroke:#d6a1ff;stroke-width:0.787359;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-     id="path1427-2"
+     id="C_2"
      cx="251.38831"
      cy="277.24567"
      rx="33.145443"
      ry="18.905888"
      transform="matrix(1,0,-0.0261481,0.99965808,0,0)" />
-  <svg:path
-     style="vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ead0ff;stroke-width:2.365;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="path962-90-0"
+  <path
+     style="vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ead0ff;stroke-width:2.36500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="A_2"
      transform="matrix(0.62487942,0,0,0.6503208,256.27218,80.946303)"
-     d="m 63.570549,119.99996 c -0.349657,0.58579 -29.083221,16.66045 -29.765081,16.6497 C 33.123607,136.63892 4.8938431,119.7332 4.5630578,119.13756 4.2322725,118.54192 4.6481374,85.639761 4.9967764,85.05397 5.3454154,84.468179 34.052658,68.442194 34.734159,68.453275 c 0.681502,0.01108 28.971556,16.857757 29.30366,17.452699 0.332104,0.594943 -0.117614,33.508196 -0.46727,34.093986 z" />
-  <svg:path
-     style="vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#7ad7ff;stroke-width:0.97408;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.866337"
-     id="path962-90"
+     d="m 63.570549,119.99996 c -0.349657,0.58579 -29.083221,16.66045 -29.765081,16.6497 C 33.123607,136.63892 4.8938431,119.7332 4.5630578,119.13756 4.2322725,118.54192 4.6481374,85.639761 4.9967764,85.05397 5.3454154,84.468179 34.052658,68.442194 34.734159,68.453275 c 0.681502,0.01108 28.971556,16.857757 29.30366,17.452699 0.332104,0.594943 -0.117614,33.508196 -0.46727,34.093986 z"
+     inkscape:connector-curvature="0" />
+  <path
+     style="vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#7ad7ff;stroke-width:0.97408003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.86633702"
+     id="A_1"
      transform="matrix(0.035323,0.87643727,-1.4801721,0.00231409,342.47302,100.52048)"
-     d="m 63.570549,119.99996 c -0.349657,0.58579 -29.083221,16.66045 -29.765081,16.6497 C 33.123607,136.63892 4.8938431,119.7332 4.5630578,119.13756 4.2322725,118.54192 4.6481374,85.639761 4.9967764,85.05397 5.3454154,84.468179 34.052658,68.442194 34.734159,68.453275 c 0.681502,0.01108 28.971556,16.857757 29.30366,17.452699 0.332104,0.594943 -0.117614,33.508196 -0.46727,34.093986 z" />
-  <svg:ellipse
-     style="fill:none;fill-opacity:1;stroke:#ffa59f;stroke-width:0.437771;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-     id="path1648"
+     d="m 63.570549,119.99996 c -0.349657,0.58579 -29.083221,16.66045 -29.765081,16.6497 C 33.123607,136.63892 4.8938431,119.7332 4.5630578,119.13756 4.2322725,118.54192 4.6481374,85.639761 4.9967764,85.05397 5.3454154,84.468179 34.052658,68.442194 34.734159,68.453275 c 0.681502,0.01108 28.971556,16.857757 29.30366,17.452699 0.332104,0.594943 -0.117614,33.508196 -0.46727,34.093986 z"
+     inkscape:connector-curvature="0" />
+  <ellipse
+     style="fill:none;fill-opacity:1;stroke:#ffa59f;stroke-width:0.43777099;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+     id="C_3_1"
      cx="99.234062"
      cy="161.06137"
      rx="27.190353"
      ry="8.0260801" />
-  <svg:ellipse
-     style="fill:none;fill-opacity:1;stroke:#ffa59f;stroke-width:0.333623;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-     id="path1648-6"
+  <ellipse
+     style="fill:none;fill-opacity:1;stroke:#ffa59f;stroke-width:0.33362299;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+     id="C_3_1_1"
      cx="76.335861"
      cy="184.53653"
      rx="15.71139"
      ry="8.0671797" />
-  <svg:text
+  <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;paint-order:stroke fill markers"
+     style="font-style:normal;font-weight:normal;font-size:10.58329964px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458299;paint-order:stroke fill markers"
      x="86.49585"
      y="161.39723"
      id="text1386"
-     onclick="window.open('http://dbpedia.org/ontology/mission','_blank');"><svg:tspan
+     onclick="window.open('http://dbpedia.org/ontology/mission','_blank');"
+     class="doigt"><tspan
        x="86.49585"
        y="161.39723"
        id="tspan1384"
-       style="stroke-width:0.264583"><svg:tspan
+       style="stroke-width:0.26458299"><tspan
          x="86.49585"
          y="161.39723"
-         style="font-size:5.64444px;stroke-width:0.264583;paint-order:stroke fill markers"
-         id="tspan1382">missions</svg:tspan></svg:tspan></svg:text>
-  <svg:path
-     style="fill:none;stroke:#ffa59f;stroke-width:0.823348;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
-     d="m 116.16525,167.18524 1.15499,10.50596"
-     id="path1993" />
-  <svg:ellipse
+         style="font-size:5.64444017px;stroke-width:0.26458299;paint-order:stroke fill markers"
+         id="tspan1382">missions</tspan></tspan></text>
+  <ellipse
      style="fill:none;fill-opacity:1;stroke:#d59fff;stroke-width:0.356682;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-     id="path2354"
+     id="C_2_1"
      cx="228.88675"
      cy="277.0535"
      rx="14.223305"
      ry="10.04932" />
-  <svg:ellipse
-     style="fill:none;fill-opacity:1;stroke:#d59fff;stroke-width:0.341067;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-     id="path2354-9"
+  <ellipse
+     style="fill:none;fill-opacity:1;stroke:#d59fff;stroke-width:0.34106699;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+     id="C_2_2"
      cx="260.23511"
      cy="279.53912"
      rx="12.722491"
      ry="10.272645" />
-  <svg:image
+  <image
      y="23.976807"
      x="208.05264"
      id="image2810"
@@ -1050,209 +1101,210 @@
      preserveAspectRatio="none"
      height="24.400461"
      width="24.331869" />
-  <svg:path
+  <path
      style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="m 298.88116,284.87192 v 0 z"
      id="path3203" />
-  <svg:flowRoot
+  <flowRoot
      xml:space="preserve"
      id="flowRoot1485"
      style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     transform="translate(-69.396552,-93.96552)"><svg:flowRegion
-       id="flowRegion1487"><svg:rect
+     transform="translate(-69.396552,-93.96552)"><flowRegion
+       id="flowRegion1487"><rect
          id="rect1489"
          width="219.39656"
          height="141.37932"
          x="109.05173"
-         y="200.8793" /></svg:flowRegion><svg:flowPara
+         y="200.8793" /></flowRegion><flowPara
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
-       id="flowPara1493" /></svg:flowRoot>
-  <svg:path
+       id="flowPara1493" /></flowRoot>  <path
      style="vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="path4287"
      transform="translate(20,8)"
      d="m 194.3958,125.87991 c 0.0691,-0.0257 3.57501,0.55373 3.63196,0.6005 0.057,0.0468 1.31105,3.38133 1.29875,3.45394 -0.0123,0.0726 -2.27289,2.81811 -2.34185,2.84386 -0.069,0.0257 -3.57506,-0.55413 -3.63194,-0.60087 -0.0569,-0.0467 -1.31105,-3.38533 -1.299,-3.45793 0.0121,-0.0726 2.27304,-2.81382 2.34208,-2.8395 z" />
-  <svg:flowRoot
+  <flowRoot
      transform="translate(0,50)"
      xml:space="preserve"
      id="flowRoot4289"
-     style="font-style:normal;font-weight:normal;font-size:8px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><svg:flowRegion
+     style="font-style:normal;font-weight:normal;font-size:8px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
        id="flowRegion4291"
-       style="font-size:8px"><svg:rect
+       style="font-size:8px"><rect
          id="rect4293"
          width="109.05173"
          height="44.396553"
          x="164.65517"
          y="106.05173"
-         style="font-size:8px;" /></svg:flowRegion><svg:flowPara
-       id="flowPara4295" /></svg:flowRoot>
-  <svg:text
+         style="font-size:8px;" /></flowRegion><flowPara
+       id="flowPara4295" /></flowRoot>  <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:40px;line-height:0;font-family:sans-serif;text-align:start;letter-spacing:-0.04px;word-spacing:-0.03px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
      x="243.78992"
      y="146.6143"
-     id="text1546"><svg:tspan
+     id="text1546"><tspan
        x="260.70294"
        y="146.6143"
-       id="tspan1540"><svg:tspan
+       id="tspan1540"><tspan
          dx="0 0 0 0 0 0 0 0 0 0 0 0 0.02999646"
          x="260.70294"
          y="146.6143"
          style="font-size:5.33333px;line-height:0;text-align:start;letter-spacing:-0.04px;word-spacing:-0.03px;text-anchor:start"
-         id="tspan1536">établisement </svg:tspan><svg:tspan
+         id="tspan1536">établisement </tspan><tspan
          dx="0"
          x="296.58002"
          y="146.6143"
          style="font-size:5.33333px;line-height:0;text-align:start;letter-spacing:-0.04px;word-spacing:-0.03px;text-anchor:start"
-         id="tspan1538" /></svg:tspan><svg:tspan
+         id="tspan1538" /></tspan><tspan
        x="269.76526"
        y="156.57509"
-       id="tspan1544"><svg:tspan
+       id="tspan1544"><tspan
          x="269.76526"
          y="156.57509"
          style="font-size:5.33333px;line-height:0;text-align:start;letter-spacing:-0.04px;word-spacing:-0.03px;text-anchor:start"
-         id="tspan1542">privés</svg:tspan></svg:tspan></svg:text>
-  <svg:path
+         id="tspan1542">privés</tspan></tspan></text>
+  <path
      style="vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#006998;stroke-width:0.586963;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="path962-7-6"
+     id="A_1_2"
      transform="matrix(0.57504672,0,0,0.54989526,191.06146,75.116055)"
-     d="m 63.570549,119.99996 c -0.349657,0.58579 -29.083221,16.66045 -29.765081,16.6497 C 33.123607,136.63892 4.8938431,119.7332 4.5630578,119.13756 4.2322725,118.54192 4.6481374,85.639761 4.9967764,85.05397 5.3454154,84.468179 34.052658,68.442194 34.734159,68.453275 c 0.681502,0.01108 28.971556,16.857757 29.30366,17.452699 0.332104,0.594943 -0.117614,33.508196 -0.46727,34.093986 z" />
-  <svg:path
+     d="m 63.570549,119.99996 c -0.349657,0.58579 -29.083221,16.66045 -29.765081,16.6497 C 33.123607,136.63892 4.8938431,119.7332 4.5630578,119.13756 4.2322725,118.54192 4.6481374,85.639761 4.9967764,85.05397 5.3454154,84.468179 34.052658,68.442194 34.734159,68.453275 c 0.681502,0.01108 28.971556,16.857757 29.30366,17.452699 0.332104,0.594943 -0.117614,33.508196 -0.46727,34.093986 z"
+     inkscape:connector-curvature="0" />
+  <path
      style="vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#006998;stroke-width:0.586963;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="path962-7-6-0"
+     id="A_1_1"
      transform="matrix(0.57504672,0,0,0.54989526,152.3287,74.469503)"
-     d="m 63.570549,119.99996 c -0.349657,0.58579 -29.083221,16.66045 -29.765081,16.6497 C 33.123607,136.63892 4.8938431,119.7332 4.5630578,119.13756 4.2322725,118.54192 4.6481374,85.639761 4.9967764,85.05397 5.3454154,84.468179 34.052658,68.442194 34.734159,68.453275 c 0.681502,0.01108 28.971556,16.857757 29.30366,17.452699 0.332104,0.594943 -0.117614,33.508196 -0.46727,34.093986 z" />
-  <svg:flowRoot
+     d="m 63.570549,119.99996 c -0.349657,0.58579 -29.083221,16.66045 -29.765081,16.6497 C 33.123607,136.63892 4.8938431,119.7332 4.5630578,119.13756 4.2322725,118.54192 4.6481374,85.639761 4.9967764,85.05397 5.3454154,84.468179 34.052658,68.442194 34.734159,68.453275 c 0.681502,0.01108 28.971556,16.857757 29.30366,17.452699 0.332104,0.594943 -0.117614,33.508196 -0.46727,34.093986 z"
+     inkscape:connector-curvature="0" />
+  <flowRoot
      transform="translate(0,50)"
      xml:space="preserve"
      id="flowRoot4670"
-     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><svg:flowRegion
-       id="flowRegion4672"><svg:rect
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+       id="flowRegion4672"><rect
          id="rect4674"
          width="98.275864"
          height="44.396553"
          x="87.068962"
-         y="147.86208" /></svg:flowRegion><svg:flowPara
-       id="flowPara4676" /></svg:flowRoot>
-  <svg:text
+         y="147.86208" /></flowRegion><flowPara
+       id="flowPara4676" /></flowRoot>  <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:40.0007px;line-height:0;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:-0.02px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00002"
+     style="font-style:normal;font-weight:normal;font-size:40.0007019px;line-height:0;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:-0.02px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00002003"
      x="162.24739"
      y="122.63346"
      id="text1422"
      transform="scale(1.0000297,0.99997031)"
-     onclick="window.open('https://www.interieur.gouv.fr/Le-ministre','_blank');"><svg:tspan
+     onclick="window.open('https://www.interieur.gouv.fr/Le-ministre','_blank');"
+     class="doigt"><tspan
        x="162.24739"
        y="122.63346"
        id="tspan1410"
-       style="text-align:start;text-anchor:start;stroke-width:1.00002"><svg:tspan
+       style="text-align:start;text-anchor:start;stroke-width:1.00002003"><tspan
          dx="0 0 0 0 0 0 0 0 0.019999295"
          x="162.24739"
          y="122.63346"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:start;letter-spacing:-0.0100002px;word-spacing:-0.02px;text-anchor:start;stroke-width:1.00002"
-         id="tspan1406">ministre </svg:tspan><svg:tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333015px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:start;letter-spacing:-0.0100002px;word-spacing:-0.02px;text-anchor:start;stroke-width:1.00002003"
+         id="tspan1406">ministre </tspan><tspan
          dx="0"
          x="182.30405"
          y="122.63346"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:start;letter-spacing:-0.0100002px;word-spacing:-0.02px;text-anchor:start;stroke-width:1.00002"
-         id="tspan1408" /></svg:tspan><svg:tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333015px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:start;letter-spacing:-0.0100002px;word-spacing:-0.02px;text-anchor:start;stroke-width:1.00002003"
+         id="tspan1408" /></tspan><tspan
        x="168.59238"
        y="132.65404"
        id="tspan1416"
-       style="text-align:start;text-anchor:start;stroke-width:1.00002"><svg:tspan
+       style="text-align:start;text-anchor:start;stroke-width:1.00002003"><tspan
          dx="0 0 0.020000011"
          x="168.59238"
          y="132.65404"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:start;letter-spacing:-0.0100002px;word-spacing:-0.02px;text-anchor:start;stroke-width:1.00002"
-         id="tspan1412">de </svg:tspan><svg:tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333015px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:start;letter-spacing:-0.0100002px;word-spacing:-0.02px;text-anchor:start;stroke-width:1.00002003"
+         id="tspan1412">de </tspan><tspan
          dx="0"
          x="175.95906"
          y="132.65404"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:start;letter-spacing:-0.0100002px;word-spacing:-0.02px;text-anchor:start;stroke-width:1.00002"
-         id="tspan1414" /></svg:tspan><svg:tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333015px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:start;letter-spacing:-0.0100002px;word-spacing:-0.02px;text-anchor:start;stroke-width:1.00002003"
+         id="tspan1414" /></tspan><tspan
        x="160.85612"
        y="142.67461"
        id="tspan1420"
-       style="text-align:start;text-anchor:start;stroke-width:1.00002"><svg:tspan
+       style="text-align:start;text-anchor:start;stroke-width:1.00002003"><tspan
          x="160.85612"
          y="142.67461"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:start;letter-spacing:-0.0100002px;word-spacing:-0.02px;text-anchor:start;stroke-width:1.00002"
-         id="tspan1418">l'intérieur</svg:tspan></svg:tspan></svg:text>
-  <svg:flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333015px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:start;letter-spacing:-0.0100002px;word-spacing:-0.02px;text-anchor:start;stroke-width:1.00002003"
+         id="tspan1418">l'intérieur</tspan></tspan></text>
+  <flowRoot
      transform="translate(0,50)"
      xml:space="preserve"
      id="flowRoot4690"
-     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><svg:flowRegion
-       id="flowRegion4692"><svg:rect
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+       id="flowRegion4692"><rect
          id="rect4694"
          width="1.2931035"
          height="43.103447"
          x="164.65517"
-         y="51.741379" /></svg:flowRegion><svg:flowPara
-       id="flowPara4696" /></svg:flowRoot>
-  <svg:text
+         y="51.741379" /></flowRegion><flowPara
+       id="flowPara4696" /></flowRoot>  <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:40.0007px;line-height:0;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:-0.02px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00002"
+     style="font-style:normal;font-weight:normal;font-size:40.0007019px;line-height:0;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:-0.02px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00002003"
      x="200.76715"
      y="122.72169"
      id="text1440"
      transform="scale(1.0000297,0.99997031)"
-     onclick="window.open('https://www.defense.gouv.fr/ministre','_blank');"><svg:tspan
+     onclick="window.open('https://www.defense.gouv.fr/ministre','_blank');"
+     class="doigt"><tspan
        x="200.76715"
        y="122.72169"
        id="tspan1428"
-       style="text-align:start;text-anchor:start;stroke-width:1.00002"><svg:tspan
+       style="text-align:start;text-anchor:start;stroke-width:1.00002003"><tspan
          dx="0 0 0 0 0 0 0 0 0.019999295"
          x="200.76715"
          y="122.72169"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:start;letter-spacing:-0.0100002px;word-spacing:-0.02px;text-anchor:start;stroke-width:1.00002"
-         id="tspan1424">ministre </svg:tspan><svg:tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333015px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:start;letter-spacing:-0.0100002px;word-spacing:-0.02px;text-anchor:start;stroke-width:1.00002003"
+         id="tspan1424">ministre </tspan><tspan
          dx="0"
          x="220.82382"
          y="122.72169"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:start;letter-spacing:-0.0100002px;word-spacing:-0.02px;text-anchor:start;stroke-width:1.00002"
-         id="tspan1426" /></svg:tspan><svg:tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333015px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:start;letter-spacing:-0.0100002px;word-spacing:-0.02px;text-anchor:start;stroke-width:1.00002003"
+         id="tspan1426" /></tspan><tspan
        x="207.11214"
        y="132.74226"
        id="tspan1434"
-       style="text-align:start;text-anchor:start;stroke-width:1.00002"><svg:tspan
+       style="text-align:start;text-anchor:start;stroke-width:1.00002003"><tspan
          dx="0 0 0.020000011"
          x="207.11214"
          y="132.74226"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:start;letter-spacing:-0.0100002px;word-spacing:-0.02px;text-anchor:start;stroke-width:1.00002"
-         id="tspan1430">de </svg:tspan><svg:tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333015px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:start;letter-spacing:-0.0100002px;word-spacing:-0.02px;text-anchor:start;stroke-width:1.00002003"
+         id="tspan1430">de </tspan><tspan
          dx="0"
          x="214.47882"
          y="132.74226"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:start;letter-spacing:-0.0100002px;word-spacing:-0.02px;text-anchor:start;stroke-width:1.00002"
-         id="tspan1432" /></svg:tspan><svg:tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333015px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:start;letter-spacing:-0.0100002px;word-spacing:-0.02px;text-anchor:start;stroke-width:1.00002003"
+         id="tspan1432" /></tspan><tspan
        x="197.81839"
        y="142.76283"
        id="tspan1438"
-       style="text-align:start;text-anchor:start;stroke-width:1.00002"><svg:tspan
+       style="text-align:start;text-anchor:start;stroke-width:1.00002003"><tspan
          dx="0 0 0.020000011 -0.020000095"
          x="197.81839"
          y="142.76283"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:start;letter-spacing:-0.0100002px;word-spacing:-0.02px;text-anchor:start;stroke-width:1.00002"
-         id="tspan1436">la défense</svg:tspan></svg:tspan></svg:text>
-  <svg:text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333015px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:start;letter-spacing:-0.0100002px;word-spacing:-0.02px;text-anchor:start;stroke-width:1.00002003"
+         id="tspan1436">la défense</tspan></tspan></text>
+  <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:40.0007px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:-0.02px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00002"
+     style="font-style:normal;font-weight:normal;font-size:40.0007019px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:-0.02px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00002003"
      x="105.47117"
      y="113.53175"
      id="text1368"
      transform="scale(1.0000297,0.99997031)"
-     onclick="window.open('https://www.collectivites-locales.gouv.fr/','_blank');"><svg:tspan
+     onclick="window.open('https://www.collectivites-locales.gouv.fr/','_blank');"
+     class="doigt"><tspan
        x="105.46617"
        y="113.53175"
        id="tspan1366"
-       style="stroke-width:1.00002"><svg:tspan
+       style="stroke-width:1.00002003"><tspan
          dx="0 0 0.020000011 -0.020000095"
          x="105.47117"
          y="113.53175"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:center;letter-spacing:-0.0100002px;word-spacing:-0.02px;text-anchor:middle;stroke-width:1.00002"
-         id="tspan1364">la mairie</svg:tspan></svg:tspan></svg:text>
-  <svg:text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333015px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:center;letter-spacing:-0.0100002px;word-spacing:-0.02px;text-anchor:middle;stroke-width:1.00002003"
+         id="tspan1364">la mairie</tspan></tspan></text>
+  <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:40.0007px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:-0.02px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00002"
      x="189.43364"
@@ -1260,452 +1312,454 @@
      id="text1362"
      transform="scale(1.0000297,0.99997031)"
      onclick="window.open('https://www.gouvernement.fr/','_blank');"
-     class="doigt"><svg:tspan
+     class="doigt"><tspan
        x="189.42863"
        y="110.79333"
        id="tspan1360"
-       style="font-size:5.33333px;stroke-width:1.00002"><svg:tspan
+       style="font-size:5.33333px;stroke-width:1.00002"><tspan
          x="189.43364"
          y="110.79333"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;line-height:0px;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:center;letter-spacing:-0.0100002px;word-spacing:-0.02px;text-anchor:middle;stroke-width:1.00002"
-         id="tspan1358">gouvernement</svg:tspan></svg:tspan></svg:text>
-  <svg:path
+         id="tspan1358">gouvernement</tspan></tspan></text>
+  <path
      style="vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ff1a0a;stroke-width:0.901218;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="path962-5"
+     id="A_3_1"
      transform="matrix(0.53578469,0,0,0.49663298,86.546001,80.560942)"
-     d="m 63.570549,119.99996 c -0.349657,0.58579 -29.083221,16.66045 -29.765081,16.6497 C 33.123607,136.63892 4.8938431,119.7332 4.5630578,119.13756 4.2322725,118.54192 4.6481374,85.639761 4.9967764,85.05397 5.3454154,84.468179 34.052658,68.442194 34.734159,68.453275 c 0.681502,0.01108 28.971556,16.857757 29.30366,17.452699 0.332104,0.594943 -0.117614,33.508196 -0.46727,34.093986 z" />
-  <svg:text
+     d="m 63.570549,119.99996 c -0.349657,0.58579 -29.083221,16.66045 -29.765081,16.6497 C 33.123607,136.63892 4.8938431,119.7332 4.5630578,119.13756 4.2322725,118.54192 4.6481374,85.639761 4.9967764,85.05397 5.3454154,84.468179 34.052658,68.442194 34.734159,68.453275 c 0.681502,0.01108 28.971556,16.857757 29.30366,17.452699 0.332104,0.594943 -0.117614,33.508196 -0.46727,34.093986 z"
+     inkscape:connector-curvature="0" />
+  <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;paint-order:stroke fill markers"
      x="81.838058"
      y="124.94466"
-     id="text1380"><svg:tspan
+     id="text1380"><tspan
        x="96.840759"
        y="124.94466"
        id="tspan1374"
-       style="text-align:start;text-anchor:start;stroke-width:0.264583"><svg:tspan
+       style="text-align:start;text-anchor:start;stroke-width:0.264583"><tspan
          x="96.840759"
          y="124.94466"
          style="font-size:5.64444px;text-align:start;text-anchor:start;stroke-width:0.264583;paint-order:stroke fill markers"
-         id="tspan1370">police </svg:tspan><svg:tspan
+         id="tspan1370">police </tspan><tspan
          dx="0"
          x="115.18521"
          y="124.94466"
          style="font-size:5.64444px;text-align:start;text-anchor:start;stroke-width:0.264583;paint-order:stroke fill markers"
-         id="tspan1372" /></svg:tspan><svg:tspan
+         id="tspan1372" /></tspan><tspan
        x="89.763153"
        y="138.17383"
        id="tspan1378"
-       style="text-align:start;text-anchor:start;stroke-width:0.264583"><svg:tspan
+       style="text-align:start;text-anchor:start;stroke-width:0.264583"><tspan
          x="89.763153"
          y="138.17383"
          style="font-size:5.64444px;text-align:start;text-anchor:start;stroke-width:0.264583;paint-order:stroke fill markers"
-         id="tspan1376">municipale</svg:tspan></svg:tspan></svg:text>
-  <svg:path
+         id="tspan1376">municipale</tspan></tspan></text>
+  <path
      style="fill:none;stroke:#ffafa9;stroke-width:0.688452px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="m 104.27586,150.77298 c 0,2.24726 0,2.24726 0,2.24726"
      id="path5064" />
-  <svg:ellipse
-     style="fill:none;fill-opacity:1;stroke:#ffa59f;stroke-width:0.371917;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-     id="path1648-6-3"
+  <ellipse
+     style="fill:none;fill-opacity:1;stroke:#ffa59f;stroke-width:0.37191701;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+     id="C_3_1_2"
      cx="97.93103"
      cy="203.3793"
      rx="19.571554"
      ry="8.0480328" />
-  <svg:ellipse
-     style="fill:none;fill-opacity:1;stroke:#ffa59f;stroke-width:0.346871;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-     id="path1648-6-1"
+  <ellipse
+     style="fill:none;fill-opacity:1;stroke:#ffa59f;stroke-width:0.34687099;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+     id="C_3_1_3"
      cx="119.24138"
      cy="185.58621"
      rx="16.997869"
      ry="8.0605555" />
-  <svg:text
+  <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:40.0007px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:-0.02px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00002"
      x="119.64161"
      y="186.33005"
      id="text1398"
-     transform="scale(1.0000297,0.99997031)"><svg:tspan
+     transform="scale(1.0000297,0.99997031)"><tspan
        x="119.63661"
        y="186.33005"
        id="tspan1396"
-       style="stroke-width:1.00002"><svg:tspan
+       style="stroke-width:1.00002"><tspan
          x="119.64161"
          y="186.33005"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:center;letter-spacing:-0.0100002px;word-spacing:-0.02px;text-anchor:middle;stroke-width:1.00002"
-         id="tspan1394">tranquilité</svg:tspan></svg:tspan></svg:text>
-  <svg:text
+         id="tspan1394">tranquilité</tspan></tspan></text>
+  <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:40.0007px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:-0.02px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00002"
      x="76.673157"
      y="186.6915"
      id="text1392"
-     transform="scale(1.0000297,0.99997031)"><svg:tspan
+     transform="scale(1.0000297,0.99997031)"><tspan
        x="76.668159"
        y="186.6915"
        id="tspan1390"
-       style="stroke-width:1.00002"><svg:tspan
+       style="stroke-width:1.00002"><tspan
          x="76.673157"
          y="186.6915"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:center;letter-spacing:-0.0100002px;word-spacing:-0.02px;text-anchor:middle;stroke-width:1.00002"
-         id="tspan1388">prévention</svg:tspan></svg:tspan></svg:text>
-  <svg:text
+         id="tspan1388">prévention</tspan></tspan></text>
+  <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:40.0007px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:-0.02px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00002"
      x="97.000565"
      y="204.82999"
      id="text1404"
-     transform="scale(1.0000297,0.99997031)"><svg:tspan
+     transform="scale(1.0000297,0.99997031)"><tspan
        x="96.995567"
        y="204.82999"
        id="tspan1402"
-       style="stroke-width:1.00002"><svg:tspan
+       style="stroke-width:1.00002"><tspan
          x="97.000565"
          y="204.82999"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:center;letter-spacing:-0.0100002px;word-spacing:-0.02px;text-anchor:middle;stroke-width:1.00002"
-         id="tspan1400">surveillance</svg:tspan></svg:tspan></svg:text>
-  <svg:path
-     style="fill:none;stroke:#ffa59f;stroke-width:0.899528;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend-6)"
-     d="m 98.403166,168.94153 2.155174,26.28685"
-     id="path1993-6" />
-  <svg:path
-     style="fill:none;stroke:#ffa59f;stroke-width:0.899528;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend-69)"
-     d="m 86.77405,168.10786 -6.474333,9.4481"
-     id="path1993-9" />
-  <svg:ellipse
-     style="fill:none;fill-opacity:1;stroke:#85daff;stroke-width:0.694172;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-     id="path1648-3"
+         id="tspan1400">surveillance</tspan></tspan></text>
+  <ellipse
+     style="fill:none;fill-opacity:1;stroke:#85daff;stroke-width:0.69417202;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+     id="C_1_1"
      cx="170.84482"
      cy="186.55171"
      rx="30.079395"
      ry="18.242706" />
-  <svg:ellipse
-     style="fill:none;fill-opacity:1;stroke:#85daff;stroke-width:0.612283;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-     id="path1648-3-3"
+  <ellipse
+     style="fill:none;fill-opacity:1;stroke:#85daff;stroke-width:0.61228299;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+     id="C_1_1_1"
      cx="151.23276"
      cy="184.70688"
      rx="10.051003"
      ry="6.1884532" />
-  <svg:ellipse
-     style="fill:none;fill-opacity:1;stroke:#98e0ff;stroke-width:0.668976;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-     id="path1648-3-3-4"
+  <ellipse
+     style="fill:none;fill-opacity:1;stroke:#98e0ff;stroke-width:0.66897601;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+     id="C_1_1_3"
      cx="180.94827"
      cy="184.33621"
      rx="14.76309"
      ry="6.5901957" />
-  <svg:text
+  <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:40.0007px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:-0.02px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00002"
      x="152.09666"
      y="186.39841"
      id="text1468"
-     transform="scale(1.0000297,0.99997031)"><svg:tspan
+     transform="scale(1.0000297,0.99997031)"><tspan
        x="152.09166"
        y="186.39841"
        id="tspan1466"
-       style="stroke-width:1.00002"><svg:tspan
+       style="stroke-width:1.00002"><tspan
          x="152.09666"
          y="186.39841"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:center;letter-spacing:-0.0100002px;word-spacing:-0.02px;text-anchor:middle;stroke-width:1.00002"
-         id="tspan1464">biens</svg:tspan></svg:tspan></svg:text>
-  <svg:text
+         id="tspan1464">biens</tspan></tspan></text>
+  <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:40.0007px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:-0.02px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00002"
      x="180.01372"
      y="186.86456"
      id="text1474"
-     transform="scale(1.0000297,0.99997031)"><svg:tspan
+     transform="scale(1.0000297,0.99997031)"><tspan
        x="180.00871"
        y="186.86456"
        id="tspan1472"
-       style="stroke-width:1.00002"><svg:tspan
+       style="stroke-width:1.00002"><tspan
          x="180.01372"
          y="186.86456"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:center;letter-spacing:-0.0100002px;word-spacing:-0.02px;text-anchor:middle;stroke-width:1.00002"
-         id="tspan1470">personnes</svg:tspan></svg:tspan></svg:text>
-  <svg:text
+         id="tspan1470">personnes</tspan></tspan></text>
+  <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:40.0007px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:-0.02px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00002"
      x="167.49022"
      y="198.34767"
      id="text1480"
-     transform="scale(1.0000297,0.99997031)"><svg:tspan
+     transform="scale(1.0000297,0.99997031)"><tspan
        x="167.48521"
        y="198.34767"
        id="tspan1478"
-       style="stroke-width:1.00002"><svg:tspan
+       style="stroke-width:1.00002"><tspan
          dx="0 0 0 0 0 0 0 0 0.020000726 -0.020001525"
          x="167.49022"
          y="198.34767"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:center;letter-spacing:-0.0100002px;word-spacing:-0.02px;text-anchor:middle;stroke-width:1.00002"
-         id="tspan1476">intérêts vitaux</svg:tspan></svg:tspan></svg:text>
-  <svg:ellipse
-     style="fill:none;fill-opacity:1;stroke:#7ed8ff;stroke-width:0.715016;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-     id="path1648-3-3-4-5"
+         id="tspan1476">intérêts vitaux</tspan></tspan></text>
+  <ellipse
+     style="fill:none;fill-opacity:1;stroke:#7ed8ff;stroke-width:0.71501601;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+     id="C_1_1_2"
      cx="168.84483"
      cy="196.89656"
      rx="19.481451"
      ry="5.7051067" />
-  <svg:ellipse
-     style="fill:none;fill-opacity:1;stroke:#8bdbff;stroke-width:0.783385;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-     id="path1648-3-5"
+  <ellipse
+     style="fill:none;fill-opacity:1;stroke:#8bdbff;stroke-width:0.78338498;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+     id="C_1_2"
      cx="236.57758"
      cy="184.72762"
      rx="32.405479"
      ry="21.565292" />
-  <svg:text
+  <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;paint-order:stroke fill markers"
+     style="font-style:normal;font-weight:normal;font-size:10.58329964px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458299;paint-order:stroke fill markers"
      x="154.80704"
      y="176.25656"
      id="text1450"
-     onclick="window.open('https://intlekt.io/?comments=n.e.-f.a.-%27','_blank');"><svg:tspan
+     onclick="window.open('https://intlekt.io/?comments=n.e.-f.a.-%27','_blank');"
+     class="doigt"><tspan
        x="154.80704"
        y="176.25656"
        id="tspan1448"
-       style="stroke-width:0.264583"><svg:tspan
+       style="stroke-width:0.26458299"><tspan
          x="154.80704"
          y="176.25656"
-         style="font-size:5.64444px;stroke-width:0.264583;paint-order:stroke fill markers"
-         id="tspan1446">protection</svg:tspan></svg:tspan></svg:text>
-  <svg:ellipse
-     style="fill:none;fill-opacity:1;stroke:#7ed8ff;stroke-width:0.683235;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-     id="path1648-3-3-4-8"
+         style="font-size:5.64444017px;stroke-width:0.26458299;paint-order:stroke fill markers"
+         id="tspan1446">protection</tspan></tspan></text>
+  <ellipse
+     style="fill:none;fill-opacity:1;stroke:#7ed8ff;stroke-width:0.68323499;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+     id="C_1_2_1"
      cx="219.49138"
      cy="190.64655"
      rx="13.24734"
      ry="7.6606526" />
-  <svg:ellipse
-     style="fill:none;fill-opacity:1;stroke:#98e0ff;stroke-width:0.757952;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-     id="path1648-3-3-4-80"
+  <ellipse
+     style="fill:none;fill-opacity:1;stroke:#98e0ff;stroke-width:0.75795197;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+     id="C_1_2_2"
      cx="252.15517"
      cy="190.21552"
      rx="14.718602"
      ry="8.485363" />
-  <svg:text
+  <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:40.0007px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:-0.02px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00002"
      x="251.72456"
      y="191.74924"
      id="text1492"
-     transform="scale(1.0000297,0.99997031)"><svg:tspan
+     transform="scale(1.0000297,0.99997031)"><tspan
        x="251.71956"
        y="191.74924"
        id="tspan1490"
-       style="stroke-width:1.00002"><svg:tspan
+       style="stroke-width:1.00002"><tspan
          x="251.72456"
          y="191.74924"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:center;letter-spacing:-0.0100002px;word-spacing:-0.02px;text-anchor:middle;stroke-width:1.00002"
-         id="tspan1488">délinquance</svg:tspan></svg:tspan></svg:text>
-  <svg:text
+         id="tspan1488">délinquance</tspan></tspan></text>
+  <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:40.0007px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:-0.02px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00002"
      x="219.65752"
      y="192.1803"
      id="text1486"
-     transform="scale(1.0000297,0.99997031)"><svg:tspan
+     transform="scale(1.0000297,0.99997031)"><tspan
        x="219.65251"
        y="192.1803"
        id="tspan1484"
-       style="stroke-width:1.00002"><svg:tspan
+       style="stroke-width:1.00002"><tspan
          x="219.65752"
          y="192.1803"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:center;letter-spacing:-0.0100002px;word-spacing:-0.02px;text-anchor:middle;stroke-width:1.00002"
-         id="tspan1482">criminalité</svg:tspan></svg:tspan></svg:text>
-  <svg:path
-     style="fill:none;stroke:#8adcff;stroke-width:1.47617;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 201.01071,186.98276 h 3.45481 v 0"
-     id="path7022" />
-  <svg:ellipse
-     style="fill:none;fill-opacity:1;stroke:#85daff;stroke-width:0.425435;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-     id="path1648-3-7"
-     cx="198.80171"
-     cy="211.3362"
-     rx="23.748243"
-     ry="8.6787987" />
-  <svg:text
+         id="tspan1482">criminalité</tspan></tspan></text>
+  <ellipse
+     style="fill:none;fill-opacity:1;stroke:#85daff;stroke-width:0.81933784;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+     id="C_1_3"
+     cx="206.13708"
+     cy="222.51283"
+     rx="38.886669"
+     ry="19.658478" />
+  <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:40.0007px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:-0.02px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00002"
-     x="199.29984"
+     style="font-style:normal;font-weight:normal;font-size:40.0007019px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:-0.02px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00002003"
+     x="203.29971"
      y="212.87057"
      id="text1498"
      transform="scale(1.0000297,0.99997031)"
-     onclick=" window.open('http://wlode.disit.org/WLODE/extract?url=http://www.disit.org/km4city/schema#Emergency');"><svg:tspan
-       x="199.29483"
+     onclick=" window.open('http://wlode.disit.org/WLODE/extract?url=http://www.disit.org/km4city/schema#Emergency');"
+     class="doigt"><tspan
+       x="203.29471"
        y="212.87057"
        id="tspan1496"
-       style="stroke-width:1.00002"><svg:tspan
+       style="stroke-width:1.00002003"><tspan
          dx="0 0 0 0 0 0 0 0.019999772 -0.019999618"
-         x="199.29984"
+         x="203.29971"
          y="212.87057"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:center;letter-spacing:-0.0100002px;word-spacing:-0.02px;text-anchor:middle;stroke-width:1.00002"
-         id="tspan1494">secours d'urgence</svg:tspan></svg:tspan></svg:text>
-  <svg:ellipse
-     style="fill:none;fill-opacity:1;stroke:#85daff;stroke-width:0.259414;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-     id="path1648-3-7-4"
-     cx="169.49139"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333015px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:center;letter-spacing:-0.0100002px;word-spacing:-0.02px;text-anchor:middle;stroke-width:1.00002003"
+         id="tspan1494">secours d'urgence</tspan></tspan></text>
+  <ellipse
+     style="fill:none;fill-opacity:1;stroke:#85daff;stroke-width:0.25941399;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+     id="C_1_3_1"
+     cx="181.49139"
      cy="225.06897"
      rx="12.40884"
      ry="6.1756029" />
-  <svg:ellipse
+  <ellipse
      style="fill:none;fill-opacity:1;stroke:#85daff;stroke-width:0.321659;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-     id="path1648-3-7-4-2"
+     id="C_1_3_2"
      cx="204.40518"
      cy="234.82759"
      rx="15.394958"
      ry="7.653101" />
-  <svg:ellipse
-     style="fill:none;fill-opacity:1;stroke:#85daff;stroke-width:0.32824;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-     id="path1648-3-7-4-4"
-     cx="234.79311"
-     cy="224.75862"
+  <ellipse
+     style="fill:none;fill-opacity:1;stroke:#85daff;stroke-width:0.32824001;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+     id="C_1_3_3"
+     cx="226.79311"
+     cy="222.75862"
      rx="16.038219"
      ry="7.6498103" />
-  <svg:text
+  <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:40.0007px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:-0.02px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00002"
-     x="235.42325"
-     y="225.64682"
+     style="font-style:normal;font-weight:normal;font-size:40.0007019px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:-0.02px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00002003"
+     x="227.42349"
+     y="223.64676"
      id="text1522"
-     transform="scale(1.0000297,0.99997031)"><svg:tspan
-       x="235.41824"
-       y="225.64682"
+     transform="scale(1.0000297,0.99997031)"><tspan
+       x="227.41849"
+       y="223.64676"
        id="tspan1520"
-       style="stroke-width:1.00002"><svg:tspan
-         x="235.42325"
-         y="225.64682"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:center;letter-spacing:-0.0100002px;word-spacing:-0.02px;text-anchor:middle;stroke-width:1.00002"
-         id="tspan1518">personnes</svg:tspan></svg:tspan></svg:text>
-  <svg:text
+       style="stroke-width:1.00002003"><tspan
+         x="227.42349"
+         y="223.64676"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333015px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:center;letter-spacing:-0.0100002px;word-spacing:-0.02px;text-anchor:middle;stroke-width:1.00002003"
+         id="tspan1518">personnes</tspan></tspan></text>
+  <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:40.0007px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:-0.02px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00002"
      x="204.59447"
      y="236.69887"
      id="text1516"
-     transform="scale(1.0000297,0.99997031)"><svg:tspan
+     transform="scale(1.0000297,0.99997031)"><tspan
        x="204.58946"
        y="236.69887"
        id="tspan1514"
-       style="stroke-width:1.00002"><svg:tspan
+       style="stroke-width:1.00002"><tspan
          x="204.59447"
          y="236.69887"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:center;letter-spacing:-0.0100002px;word-spacing:-0.02px;text-anchor:middle;stroke-width:1.00002"
-         id="tspan1512">incendies</svg:tspan></svg:tspan></svg:text>
-  <svg:text
+         id="tspan1512">incendies</tspan></tspan></text>
+  <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:40.0007px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:-0.02px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00002"
-     x="170.51157"
-     y="227.22783"
+     style="font-style:normal;font-weight:normal;font-size:40.0007019px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:-0.02px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00002003"
+     x="182.15012"
+     y="226.18811"
      id="text1510"
-     transform="scale(1.0000297,0.99997031)"><svg:tspan
-       x="170.50656"
-       y="227.22783"
+     transform="scale(1.0000297,0.99997031)"><tspan
+       x="182.14511"
+       y="226.18811"
        id="tspan1508"
-       style="stroke-width:1.00002"><svg:tspan
-         x="170.51157"
-         y="227.22783"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:center;letter-spacing:-0.0100002px;word-spacing:-0.02px;text-anchor:middle;stroke-width:1.00002"
-         id="tspan1506">autres</svg:tspan></svg:tspan></svg:text>
-  <svg:path
-     style="fill:none;stroke:#8cdcff;stroke-width:0.823348;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend-4)"
-     d="m 199.77764,219.30792 1.58602,8.35079"
-     id="path1993-0" />
-  <svg:path
-     style="fill:none;stroke:#8cdcff;stroke-width:0.823348;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend-4-9)"
-     d="m 179.95927,216.5315 -7.03467,2.74734"
-     id="path1993-0-2" />
-  <svg:path
-     style="fill:none;stroke:#8cdcff;stroke-width:0.823348;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend-4-0)"
-     d="m 215.3041,216.96253 7.6205,3.60941"
-     id="path1993-0-4" />
-  <svg:text
+       style="stroke-width:1.00002003"><tspan
+         x="182.15012"
+         y="226.18811"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333015px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:center;letter-spacing:-0.0100002px;word-spacing:-0.02px;text-anchor:middle;stroke-width:1.00002003"
+         id="tspan1506">autres</tspan></tspan></text>
+  <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:40.0007px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:-0.02px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00002"
+     style="font-style:normal;font-weight:normal;font-size:40.0007019px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:-0.02px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00002003"
      x="228.28894"
      y="278.79639"
      id="text1528"
      transform="scale(1.0000297,0.99997031)"
-     onclick="window.open('https://intlekt.io/?comments=n.e.-l.a.-%27');"><svg:tspan
+     onclick="window.open('https://intlekt.io/?comments=n.e.-l.a.-%27');"
+     class="doigt"><tspan
        x="228.28394"
        y="278.79639"
        id="tspan1526"
-       style="stroke-width:1.00002"><svg:tspan
+       style="stroke-width:1.00002003"><tspan
          x="228.28894"
          y="278.79639"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:center;letter-spacing:-0.0100002px;word-spacing:-0.02px;text-anchor:middle;stroke-width:1.00002"
-         id="tspan1524">sécurité</svg:tspan></svg:tspan></svg:text>
-  <svg:text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333015px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:center;letter-spacing:-0.0100002px;word-spacing:-0.02px;text-anchor:middle;stroke-width:1.00002003"
+         id="tspan1524">sécurité</tspan></tspan></text>
+  <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:40.0007px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:-0.02px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00002"
+     style="font-style:normal;font-weight:normal;font-size:40.0007019px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:-0.02px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00002003"
      x="259.00949"
      y="280.96887"
      id="text1534"
      transform="scale(1.0000297,0.99997031)"
-     onclick="window.open('https://intlekt.io/?comments=s.o.-k.o.-%27x.-%27%2CB%3A.-%27%2C_','_blank');"><svg:tspan
+     onclick="window.open('https://intlekt.io/?comments=s.o.-k.o.-%27x.-%27%2CB%3A.-%27%2C_','_blank');"
+     class="doigt"><tspan
        x="259.00449"
        y="280.96887"
        id="tspan1532"
-       style="stroke-width:1.00002"><svg:tspan
+       style="stroke-width:1.00002003"><tspan
          x="259.00949"
          y="280.96887"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:center;letter-spacing:-0.0100002px;word-spacing:-0.02px;text-anchor:middle;stroke-width:1.00002"
-         id="tspan1530">santé</svg:tspan></svg:tspan></svg:text>
-  <svg:path
-     style="fill:none;stroke:#3a53ff;stroke-width:0.993802;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.94902;marker-end:url(#marker4266)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333015px;line-height:0;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';text-align:center;letter-spacing:-0.0100002px;word-spacing:-0.02px;text-anchor:middle;stroke-width:1.00002003"
+         id="tspan1530">santé</tspan></tspan></text>
+  <path
+     style="fill:none;stroke:#3a53ff;stroke-width:0.99380201;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.94902003;marker-end:url(#marker4266)"
      d="M 227.16941,79.263694 211.08348,103.7547"
-     id="path7188"
-     onclick="window.open('https://intlekt.io/?comments=wa.j.s.-','_blank');" />
-  <svg:path
-     style="fill:none;stroke:#3852ff;stroke-width:0.84597;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.815686;marker-mid:url(#marker5133-1-2);marker-end:url(#marker4931-8-1)"
+     id="R_P1_A1_C3"
+     onclick="window.open('https://intlekt.io/?comments=wa.j.s.-','_blank');"
+     class="doigt"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#3852ff;stroke-width:0.84596997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.81568598;marker-mid:url(#marker5133-1-2);marker-end:url(#marker4931-8-1)"
      d="m 244.47923,79.00859 3.69801,11.472402 19.64351,39.452128"
-     id="path2750-8-4"
-     onclick="window.open('https://intlekt.io/?comments=wa.j.s.-','_blank');" />
-  <svg:path
-     style="fill:none;stroke:#ead0ff;stroke-width:1.16742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#marker5133-8);marker-end:url(#marker4931-2)"
+     id="R_P1_A1_C2"
+     onclick="window.open('https://intlekt.io/?comments=wa.j.s.-','_blank');"
+     class="doigt"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#ead0ff;stroke-width:1.16742003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#marker5133-8);marker-end:url(#marker4931-2)"
      d="M 286.24522,129.28749 267.60725,87.894873 C 255.47865,70.548293 252.09342,61.945074 244.3365,48.970174"
-     id="path2750-9"
-     onclick="window.open('https://intlekt.io/?comments=O%3AM%3A.','_blank');" />
-  <svg:path
-     style="fill:none;stroke:#8cdcff;stroke-width:1.00157;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#marker5133-8-2);marker-end:url(#marker4931-2-3)"
+     id="R_P2_A1_C2"
+     onclick="window.open('https://intlekt.io/?comments=O%3AM%3A.','_blank');"
+     class="doigt"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#8cdcff;stroke-width:1.00156999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#marker5133-8-2);marker-end:url(#marker4931-2-3)"
      d="m 236.09293,125.84499 3.3724,-33.439456 1.14566,-30.277706"
-     id="path2750-9-4"
-     onclick="window.open('https://intlekt.io/?comments=O%3AM%3A.','_blank');" />
-  <svg:path
-     style="fill:none;stroke:#ead0ff;stroke-width:0.971029px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 278.01484,169.42254 c 2.00758,32.43073 -5.15672,64.54009 -32.7618,109.48249"
-     id="path1808" />
-  <svg:path
-     style="fill:none;stroke:#d6a1ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 242.91379,278.75862 4.74138,0.86207"
-     id="path1812" />
-  <svg:path
-     style="fill:none;stroke:#7bd7ff;stroke-width:1.37953;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.819608"
-     d="m 201.2931,156.91379 1.29311,30.60345"
-     id="path2914" />
-  <svg:path
-     style="vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ff3453;stroke-width:2.365;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="path962-90-0-0"
+     id="R_P2_A1_C3"
+     onclick="window.open('https://intlekt.io/?comments=O%3AM%3A.','_blank');"
+     class="doigt"
+     inkscape:connector-curvature="0" />
+  <g
+     id="g3439">
+    <path
+       id="path1808"
+       d="m 278.01484,169.42254 c 2.00758,32.43073 -5.15672,64.54009 -32.7618,109.48249"
+       style="fill:none;stroke:#ead0ff;stroke-width:0.971029px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       id="path1812"
+       d="m 242.91379,278.75862 4.74138,0.86207"
+       style="fill:none;stroke:#d6a1ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+  <g
+     id="g362">
+    <path
+       id="path7022"
+       d="m 201.01071,186.98276 h 3.45481 v 0"
+       style="fill:none;stroke:#8adcff;stroke-width:1.47617;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2914"
+       d="m 201.30875,156.88803 1.26181,45.47051"
+       style="fill:none;stroke:#7bd7ff;stroke-width:1.66107213;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.81960796" />
+  </g>
+  <path
+     style="vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ff3453;stroke-width:2.36500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="A_4"
      transform="matrix(0.62487942,0,0,0.6503208,14.343668,81.17072)"
-     d="m 63.570549,119.99996 c -0.349657,0.58579 -29.083221,16.66045 -29.765081,16.6497 C 33.123607,136.63892 4.8938431,119.7332 4.5630578,119.13756 4.2322725,118.54192 4.6481374,85.639761 4.9967764,85.05397 5.3454154,84.468179 34.052658,68.442194 34.734159,68.453275 c 0.681502,0.01108 28.971556,16.857757 29.30366,17.452699 0.332104,0.594943 -0.117614,33.508196 -0.46727,34.093986 z" />
-  <svg:text
+     d="m 63.570549,119.99996 c -0.349657,0.58579 -29.083221,16.66045 -29.765081,16.6497 C 33.123607,136.63892 4.8938431,119.7332 4.5630578,119.13756 4.2322725,118.54192 4.6481374,85.639761 4.9967764,85.05397 5.3454154,84.468179 34.052658,68.442194 34.734159,68.453275 c 0.681502,0.01108 28.971556,16.857757 29.30366,17.452699 0.332104,0.594943 -0.117614,33.508196 -0.46727,34.093986 z"
+     inkscape:connector-curvature="0" />
+  <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
      x="21.862068"
      y="150.56897"
      id="text3227"
-     onclick="window.open('http://dini-ag-kim.github.io/service-ontology/service.html#service','_blank');"><svg:tspan
+     onclick="window.open('http://dini-ag-kim.github.io/service-ontology/service.html#service','_blank');"
+     class="doigt"><tspan
        id="tspan3225"
        x="21.862068"
        y="150.56897"
-       style="font-size:8px">service</svg:tspan></svg:text>
-  <svg:rect
-     style="fill:#fcfffd;fill-opacity:1;stroke:#1bb323;stroke-width:1.06554;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-     id="rect3241"
+       style="font-size:8px">service</tspan></text>
+  <rect
+     style="fill:#fcfffd;fill-opacity:1;stroke:#1bb323;stroke-width:1.06553996;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     id="P_3"
      width="38.784439"
      height="41.050652"
      x="55.025383"
      y="41.908821" />
-  <svg:image
+  <image
      y="45.913784"
      x="59.55172"
      id="image3284"
@@ -1713,127 +1767,121 @@
      preserveAspectRatio="none"
      height="28.275856"
      width="30.241379" />
-  <svg:text
+  <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
      x="63.741379"
      y="81.172417"
-     id="text3289"><svg:tspan
+     id="text3289"><tspan
        id="tspan3287"
        x="63.741379"
        y="81.172417"
-       style="font-size:8px">drone</svg:tspan></svg:text>
-  <svg:ellipse
-     style="fill:#fcfffd;fill-opacity:1;stroke:#ff3453;stroke-width:1.55858;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-     id="path3293"
+       style="font-size:8px">drone</tspan></text>
+  <ellipse
+     style="fill:#fcfffd;fill-opacity:1;stroke:#ff3453;stroke-width:1.55858004;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     id="C_4"
      ry="41.289787"
      rx="59.824268"
      cy="265.53448"
      cx="99.137932" />
-  <svg:ellipse
-     style="fill:none;fill-opacity:1;stroke:#ff3453;stroke-width:0.520945;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-     id="path1648-6-7"
+  <ellipse
+     style="fill:none;fill-opacity:1;stroke:#ff3453;stroke-width:0.52094501;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+     id="C_4_1"
      cx="98.275848"
      cy="242.68965"
      rx="28.117727"
      ry="10.990761" />
-  <svg:ellipse
-     style="fill:none;fill-opacity:1;stroke:#ff3453;stroke-width:0.498095;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-     id="path1648-6-7-8"
+  <ellipse
+     style="fill:none;fill-opacity:1;stroke:#ff3453;stroke-width:0.49809501;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+     id="C_4_2"
      cx="130.60344"
      cy="263.3793"
      rx="23.387774"
      ry="12.079772" />
-  <svg:ellipse
-     style="fill:none;fill-opacity:1;stroke:#ff3453;stroke-width:0.465358;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-     id="path1648-6-7-7"
+  <ellipse
+     style="fill:none;fill-opacity:1;stroke:#ff3453;stroke-width:0.46535799;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+     id="C_4_3"
      cx="102.15518"
      cy="289.67242"
      rx="20.3869"
      ry="12.09614" />
-  <svg:ellipse
-     style="fill:none;fill-opacity:1;stroke:#ff3453;stroke-width:0.465358;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-     id="path1648-6-7-0"
+  <ellipse
+     style="fill:none;fill-opacity:1;stroke:#ff3453;stroke-width:0.46535799;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+     id="C_4_4"
      cx="64.224152"
      cy="268.1207"
      rx="20.3869"
      ry="12.09614" />
-  <svg:text
+  <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
      x="77.706902"
      y="244.4138"
      id="text3341"
-     onclick="window.open('https://schema.org/serviceOperator','_blank');"><svg:tspan
+     onclick="window.open('https://schema.org/serviceOperator','_blank');"
+     class="doigt"><tspan
        id="tspan3339"
        x="77.706902"
        y="244.4138"
-       style="font-size:6px">sous traitants</svg:tspan></svg:text>
-  <svg:text
+       style="font-size:6px">sous traitants</tspan></text>
+  <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
      x="112.24045"
      y="264.66763"
      id="text3341-2"
-     onclick="window.open('https://dictionary.cambridge.org/fr/dictionnaire/anglais/subscribe','_blank');"><svg:tspan
+     onclick="window.open('https://dictionary.cambridge.org/fr/dictionnaire/anglais/subscribe','_blank');"
+     class="doigt"><tspan
        id="tspan3339-5"
        x="112.24045"
        y="264.66763"
-       style="font-size:6px">abonnement</svg:tspan></svg:text>
-  <svg:text
+       style="font-size:6px">abonnement</tspan></text>
+  <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
      x="48.405533"
      y="270.35455"
      id="text3341-2-3"
-     onclick="window.open('http://id.loc.gov/vocabulary/relators/anl.html','_blank');"><svg:tspan
+     onclick="window.open('http://id.loc.gov/vocabulary/relators/anl.html','_blank');"
+     class="doigt"><tspan
        id="tspan3339-5-6"
        x="48.405533"
        y="270.35455"
-       style="font-size:6px">analystes</svg:tspan></svg:text>
-  <svg:text
+       style="font-size:6px">analystes</tspan></text>
+  <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
      x="92.05629"
      y="292.22751"
      id="text3341-2-3-5"
-     onclick="window.open('https://schema.org/tool','_blank');"><svg:tspan
+     onclick="window.open('https://schema.org/tool','_blank');"
+     class="doigt"><tspan
        id="tspan3339-5-6-2"
        x="92.05629"
        y="292.22751"
-       style="font-size:6px">outils</svg:tspan></svg:text>
-  <svg:path
-     style="fill:none;stroke:#ff3453;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 37.65284,169.03542 c 12.933272,39.9006 24.28161,59.77011 31.034484,83.18965 l 0.590006,0.36702"
-     id="path3291" />
-  <svg:path
-     style="fill:none;stroke:#fda9b5;stroke-width:1.0034px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 84.653395,268.97147 c 23.103045,-2.3075 22.697725,-2.3075 22.697725,-2.3075"
-     id="path3414" />
-  <svg:path
+       style="font-size:6px">outils</tspan></text>
+  <path
      style="fill:none;stroke:#fda9b5;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="m 126.2931,241.39655 c 12.06897,10.77586 12.06897,10.77586 12.06897,10.77586"
      id="path3416" />
-  <svg:path
+  <path
      style="fill:none;stroke:#fda9b5;stroke-width:0.833404px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="m 79.694869,276.20905 c 5.68537,6.35528 5.68537,6.35528 5.68537,6.35528"
      id="path3418" />
-  <svg:path
+  <path
      style="fill:none;stroke:#fda9b5;stroke-width:0.778714px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 117.76856,273.43082 c -4.09971,6.04575 -4.09971,6.04575 -4.09971,6.04575"
-     id="path3420" />
-  <svg:path
-     style="fill:none;stroke:#fda9b5;stroke-width:0.99498px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 97.849541,253.95528 c 2.189499,23.52152 2.189499,23.52152 2.189499,23.52152"
-     id="path3422" />
-  <svg:rect
-     style="fill:#fcfffd;fill-opacity:1;stroke:#d5d1d2;stroke-width:1.336;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-     id="rect3424"
+     d="m 127.05008,275.54443 -6.7647,8.15936"
+     id="path3420"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <rect
+     style="fill:#fcfffd;fill-opacity:1;stroke:#d5d1d2;stroke-width:1.33599997;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     id="P_2"
      width="25.424086"
      height="32.98077"
      x="98.754768"
      y="25.936869" />
-  <svg:image
+  <image
      y="27.736423"
      x="101.20435"
      id="image3434"
@@ -1841,89 +1889,106 @@
      preserveAspectRatio="none"
      height="24.3549"
      width="19.6591" />
-  <svg:path
-     style="fill:none;stroke:#1bb323;stroke-width:1.00157;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#marker3467);marker-end:url(#marker4455)"
+  <path
+     style="fill:none;stroke:#1bb323;stroke-width:1.00156999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#marker3467);marker-end:url(#marker4455)"
      d="m 70.483348,83.510539 c -9.419073,9.680673 -0.702564,-1.010753 -21.78124,20.329521 -6.222157,7.50719 -13.788445,13.25666 -18.09866,23.26407"
-     id="path3439"
-     onclick=" window.open('https://fr.wiktionary.org/wiki/enregistrer','_blank');" />
-  <svg:path
-     style="fill:none;stroke:#ff3453;stroke-width:1.00157;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#marker3779);marker-end:url(#marker3779)"
-     d="M 44.827586,131.05172 78.158088,105.58098 121.24351,60.824435"
-     id="path3769"
-     onclick="window.open('https://intlekt.io/?comments=l.e.-s.i.-%27','_blank');" />
-  <svg:path
-     style="fill:none;stroke:#1bb323;stroke-width:1.00157;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#marker3467-5);marker-end:url(#marker4455-3)"
-     d="M 82.890456,83.458438 53.670591,111.40654 40.965093,126.5998"
-     id="path3439-8" />
-  <svg:path
-     style="fill:none;stroke:#ff3453;stroke-width:1.00157;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#marker3779-3);marker-end:url(#marker3779-3)"
+     id="R_P1_A1_C5"
+     onclick=" window.open('https://fr.wiktionary.org/wiki/enregistrer','_blank');"
+     class="doigt"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#ff3453;stroke-width:1.00156999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#marker3779);marker-end:url(#marker3779)"
+     d="M 44.827586,131.05172 75.584995,103.74306 121.24351,60.824435"
+     id="path1945"
+     onclick="window.open('https://intlekt.io/?comments=l.e.-s.i.-%27','_blank');"
+     class="doigt"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccc" />
+  <path
+     style="fill:none;stroke:#ff3453;stroke-width:1.00156999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#marker3779-3);marker-end:url(#marker3779-3)"
      d="M 51.013725,134.75432 78.029948,116.69776 140.97981,61.747531"
-     id="path3769-1"
-     onclick="window.open('https://intlekt.io/?comments=wa.c.s.-','_blank');" />
-  <svg:path
-     style="fill:none;stroke:#1bb323;stroke-width:1.00157;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#marker5355);marker-end:url(#marker5355)"
+     id="R_P2_A1_C5"
+     onclick="window.open('https://intlekt.io/?comments=wa.c.s.-','_blank');"
+     class="doigt"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#1bb323;stroke-width:1.00156999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#marker5355);marker-end:url(#marker5355)"
      d="M 82.250077,41.562942 C 94.435067,19.386262 115.6086,9.578627 137.28141,7.334811 c 31.15071,-3.225075 64.23686,7.187091 76.64962,11.251396"
-     id="path5351"
-     onclick="window.open('https://intlekt.io/?comments=f.e.-f.i.-%27','_blank');" />
-  <svg:path
-     style="fill:none;stroke:#3a53ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.996078;marker-end:url(#marker6291)"
+     id="R_P1_P2"
+     onclick="window.open('https://intlekt.io/?comments=f.e.-f.i.-%27','_blank');"
+     class="doigt"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#3a53ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.99607801;marker-end:url(#marker6291)"
      d="m 143.57893,78.630082 -30.6479,23.111298 -2.15517,5.17242"
-     id="path6287"
-     onclick="window.open('https://intlekt.io/?comments=wa.j.s.-','_blank');" />
-  <svg:path
-     style="fill:none;stroke:#d5d1d2;stroke-width:1.00157;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7215)"
+     id="path1939"
+     onclick="window.open('https://intlekt.io/?comments=wa.j.s.-','_blank');"
+     class="doigt"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#d5d1d2;stroke-width:1.00156999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7215)"
      d="m 124.68077,41.512016 15.9744,-0.94305"
      id="path7205"
-     onclick="window.open('https://intlekt.io/?comments=t.-x.-s.y.-%27wa.e.-b.-%27%2CA%3A.-%27%2C_','_blank');" />
-  <svg:path
-     style="fill:none;stroke:#ffa59f;stroke-width:1.00157;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#marker9131);marker-end:url(#marker7629)"
+     onclick="window.open('https://intlekt.io/?comments=t.-x.-s.y.-%27wa.e.-b.-%27%2CA%3A.-%27%2C_','_blank');"
+     class="doigt"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#ffa59f;stroke-width:1.00156999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#marker9131);marker-end:url(#marker7629)"
      d="M 81.418577,136.01076 62.060427,119.29856 36.514168,102.33885"
-     id="path7619"
-     onclick="window.open('https://dictionary.cambridge.org/fr/dictionnaire/anglais/subscribe','_blank');" />
-  <svg:path
-     style="fill:none;stroke:#98e0ff;stroke-width:1.00157;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#marker8743);marker-end:url(#marker7983)"
+     id="path1943"
+     onclick="window.open('https://dictionary.cambridge.org/fr/dictionnaire/anglais/subscribe','_blank');"
+     class="doigt"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#98e0ff;stroke-width:1.00156999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#marker8743);marker-end:url(#marker7983)"
      d="m 152.09969,118.67122 c -10.19165,-5.22391 -6.08924,-7.31807 -30.57495,-15.67173 -18.3039,-7.677246 -54.896333,-10.137567 -79.276955,-9.915071"
-     id="path7973"
-     onclick="window.open('https://dictionary.cambridge.org/fr/dictionnaire/anglais/subscribe','_blank');" />
-  <svg:path
-     style="fill:none;stroke:#ead0ff;stroke-width:1.00157;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#marker9531);marker-end:url(#marker8355)"
+     id="path3448"
+     onclick="window.open('https://dictionary.cambridge.org/fr/dictionnaire/anglais/subscribe','_blank');"
+     class="doigt"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#ead0ff;stroke-width:1.00156999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#marker9531);marker-end:url(#marker8355)"
      d="M 263.99368,132.81854 C 242.3806,100.08917 212.36351,89.52904 169.53803,90.694941 126.78139,88.341488 81.086093,88.825814 41.942646,85.814443"
-     id="path8345"
-     onclick="window.open('https://dictionary.cambridge.org/fr/dictionnaire/anglais/subscribe','_blank');" />
-  <svg:path
-     style="fill:none;stroke:#ff5246;stroke-width:1.00157;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#marker10855);marker-end:url(#marker9927)"
+     id="path1937"
+     onclick="window.open('https://dictionary.cambridge.org/fr/dictionnaire/anglais/subscribe','_blank');"
+     class="doigt"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#ff5246;stroke-width:1.00156999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#marker10855);marker-end:url(#marker9927)"
      d="m 119.39656,122.43104 c 28.04199,-21.8813 65.64976,-23.772614 95.26972,-35.783235 68.03893,-4.231866 122.61856,-64.060253 31.89856,-56.638432"
-     id="path9917"
-     onclick="window.open('https://intlekt.io/?comments=O%3AM%3A.','_blank');" />
-  <svg:text
+     id="R_P2_A2_C5"
+     onclick="window.open('https://intlekt.io/?comments=O%3AM%3A.','_blank');"
+     class="doigt"
+     inkscape:connector-curvature="0" />
+  <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
      x="208.93564"
      y="179.23764"
-     id="text398"><svg:tspan
+     id="text398"><tspan
        id="tspan396"
        x="208.93564"
        y="179.23764"
-       style="font-size:5.33333px">missions présenvtion</svg:tspan></svg:text>
-  <svg:rect
-     id="rect400"
+       style="font-size:5.33333px">missions présenvtion</tspan></text>
+  <rect
+     id="P_4"
      width="30.455713"
      height="35.006401"
      x="9.8884363"
      y="65.819481"
      ry="3.1208103"
-     style="fill:none;stroke:#040001;stroke-width:1.00046;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  <svg:text
+     style="fill:none;stroke:#040001;stroke-width:1.00046003;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
      x="12.92983"
      y="97.505463"
-     id="text3289-7"><svg:tspan
+     id="text3289-7"><tspan
        id="tspan3287-0"
        x="12.92983"
        y="97.505463"
-       style="font-size:6.66667px">contrat</svg:tspan></svg:text>
-  <svg:image
+       style="font-size:6.66667px">contrat</tspan></text>
+  <image
      y="72.169487"
      x="18.608341"
      id="image5501"
@@ -1931,24 +1996,49 @@
      preserveAspectRatio="none"
      height="15.871288"
      width="16.090754" />
-  <svg:path
+  <path
      style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker9822)"
      d="m 20.544554,101.20792 2.227723,31.43564"
-     id="path9440"
-     onclick="window.open('https://dictionary.cambridge.org/fr/dictionnaire/anglais/subscribe','_blank');" />
-  <svg:path
-     style="fill:none;stroke:#fda9b5;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 72.957921,247.86634 -6.77599,8.04455"
-     id="path10214" />
-  <svg:text
+     id="R_P1_A1_C5"
+     onclick="window.open('https://dictionary.cambridge.org/fr/dictionnaire/anglais/subscribe','_blank');"
+     class="doigt"
+     inkscape:connector-curvature="0" />
+  <g
+     id="g3435">
+    <path
+       id="path3291"
+       d="m 37.65284,169.03542 c 12.933272,39.9006 24.28161,59.77011 31.034484,83.18965 l 0.590006,0.36702"
+       style="fill:none;stroke:#ff3453;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       id="path10214"
+       d="m 72.957921,247.86634 -6.77599,8.04455"
+       style="fill:none;stroke:#fda9b5;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+  <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
      x="103.37062"
      y="57.210831"
-     id="text3289-7-8"><svg:tspan
+     id="text3289-7-8"><tspan
        id="tspan3287-0-4"
        x="103.37062"
        y="57.210831"
-       style="font-size:6.66667px">BDD</svg:tspan></svg:text>
-  <style />
-</svg:svg>
+       style="font-size:6.66667px">BDD</tspan></text>
+  <style
+     id="style361" />
+  <g
+     id="g3431">
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1993-6"
+       d="m 98.4025,168.94195 -0.416583,26.10221"
+       style="fill:none;stroke:#ffa59f;stroke-width:0.89394677;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1993-6-1"
+       d="m 92.104473,185.14913 10.059577,0.0235"
+       style="fill:none;stroke:#ffa59f;stroke-width:0.78998727;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>
