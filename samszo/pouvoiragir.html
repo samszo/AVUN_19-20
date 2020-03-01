@@ -62,7 +62,7 @@
                     </div>
                 </div>
             </div>
-            <div id='calculPA' class="col4">
+            <div id='calculPA' class="col-4">
               Pour le calcule
             </div>
         </div>      
@@ -139,16 +139,16 @@
 
     function setDim(obj){
         if (obj.id.slice(0,2)=='P_') { 
-            dimensions['P'].push({'id':obj.id,'obj':obj});
+            dimensions['P'].push({'id':obj.id,'obj':obj.localName});
         }
         if (obj.id.slice(0,2)=='A_') { 
-            dimensions['A'].push({'id':obj.id,'obj':obj});
+            dimensions['A'].push({'id':obj.id,'obj':obj.localName});
         }
         if (obj.id.slice(0,2)=='C_') { 
-            dimensions['C'].push({'id':obj.id,'obj':obj});
+            dimensions['C'].push({'id':obj.id,'obj':obj.localName});
         }
         if (obj.id.slice(0,2)=='R_') { 
-            dimensions['R'].push({'id':obj.id,'obj':obj});
+            dimensions['R'].push({'id':obj.id,'obj':obj.localName});
         }
 
     }
