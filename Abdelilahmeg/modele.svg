@@ -923,28 +923,31 @@
       </g>
     </g>
     <g
-       transform="matrix(1.2013975,0,0,1.1477143,110.55232,-51.77469)"
-       clip-path="url(#clipPath5844)"
-       id="g212">
+       id="g1696">
       <g
-         id="g210"
-         inkscape:label="Clip">
-        <path
-           transform="matrix(1.355803,0,0,1,47.05279,-4.4533826)"
-           d="m 49.761952,193.50763 -12.328815,-6.79303 -0.281472,-14.07358 12.047344,-7.28055 12.328815,6.79303 0.281471,14.07358 z"
-           inkscape:randomized="0"
-           inkscape:rounded="0"
-           inkscape:flatsided="true"
-           sodipodi:arg2="2.0743978"
-           sodipodi:arg1="1.550799"
-           sodipodi:r2="12.190517"
-           sodipodi:r1="14.076396"
-           sodipodi:cy="179.43405"
-           sodipodi:cx="49.48048"
-           sodipodi:sides="6"
-           id="path208"
-           style="fill:#ffffff;stroke:#b5b400;stroke-width:0.95079041;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           sodipodi:type="star" />
+         id="g212"
+         clip-path="url(#clipPath5844)"
+         transform="matrix(1.2013975,0,0,1.1477143,55.745772,-18.134809)">
+        <g
+           inkscape:label="Clip"
+           id="g210">
+          <path
+             sodipodi:type="star"
+             style="fill:#ffffff;stroke:#b5b400;stroke-width:0.95079041;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path208"
+             sodipodi:sides="6"
+             sodipodi:cx="49.48048"
+             sodipodi:cy="179.43405"
+             sodipodi:r1="14.076396"
+             sodipodi:r2="12.190517"
+             sodipodi:arg1="1.550799"
+             sodipodi:arg2="2.0743978"
+             inkscape:flatsided="true"
+             inkscape:rounded="0"
+             inkscape:randomized="0"
+             d="m 49.761952,193.50763 -12.328815,-6.79303 -0.281472,-14.07358 12.047344,-7.28055 12.328815,6.79303 0.281471,14.07358 z"
+             transform="matrix(1.355803,0,0,1,47.05279,-4.4533826)" />
+        </g>
       </g>
     </g>
     <text
