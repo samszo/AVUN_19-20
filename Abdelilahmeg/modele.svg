@@ -373,9 +373,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
      inkscape:cx="450.87685"
-     inkscape:cy="417.65435"
+     inkscape:cy="531.94006"
      inkscape:document-units="mm"
-     inkscape:current-layer="g195"
+     inkscape:current-layer="g1714"
      showgrid="false"
      inkscape:snap-page="true"
      units="in"
@@ -901,22 +901,28 @@
        transform="matrix(1.044755,0,0,1.2014286,1.0807747,-28.667698)"
        clip-path="url(#clipPath5844)"
        id="g195">
-      <path
-         sodipodi:type="star"
-         style="fill:#ffffff;stroke:#b5b400;stroke-width:1.60977355;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path191"
-         sodipodi:sides="6"
-         sodipodi:cx="49.48048"
-         sodipodi:cy="179.43405"
-         sodipodi:r1="14.076396"
-         sodipodi:r2="12.190517"
-         sodipodi:arg1="1.550799"
-         sodipodi:arg2="2.0743978"
-         inkscape:flatsided="true"
-         inkscape:rounded="0"
-         inkscape:randomized="0"
-         d="m 49.761952,193.50763 -12.328815,-6.79303 -0.281472,-14.07358 12.047344,-7.28055 12.328815,6.79303 0.281471,14.07358 z"
-         transform="matrix(1.355803,0,0,1,47.05279,-4.4533826)" />
+      <g
+         id="g1714">
+        <g
+           id="g1717">
+          <path
+             sodipodi:type="star"
+             style="fill:#ffffff;stroke:#b5b400;stroke-width:1.60977355;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path191"
+             sodipodi:sides="6"
+             sodipodi:cx="49.48048"
+             sodipodi:cy="179.43405"
+             sodipodi:r1="14.076396"
+             sodipodi:r2="12.190517"
+             sodipodi:arg1="1.550799"
+             sodipodi:arg2="2.0743978"
+             inkscape:flatsided="true"
+             inkscape:rounded="0"
+             inkscape:randomized="0"
+             d="m 49.761952,193.50763 -12.328815,-6.79303 -0.281472,-14.07358 12.047344,-7.28055 12.328815,6.79303 0.281471,14.07358 z"
+             transform="matrix(1.355803,0,0,1,47.05279,-4.4533826)" />
+        </g>
+      </g>
     </g>
     <g
        id="g1696">
