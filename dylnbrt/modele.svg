@@ -13,7 +13,7 @@
    viewBox="0 0 211.66666 158.75"
    version="1.1"
    id="svg8"
-   inkscape:version="1.1-dev (ddb55ca, 2020-02-02)"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="modele.svg">
   <style
      type="text/css"
@@ -259,16 +259,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.26"
-     inkscape:cx="379.42676"
+     inkscape:cx="217.12517"
      inkscape:cy="314.95631"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="955"
-     inkscape:window-x="0"
-     inkscape:window-y="23"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:snap-smooth-nodes="false"
      inkscape:object-paths="true"
@@ -302,8 +302,7 @@
            height="73.741135"
            x="283.85287"
            y="243.41615" /></flowRegion><flowPara
-         id="flowPara823" /></flowRoot>
-    <text
+         id="flowPara823" /></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="118.93494"
@@ -394,8 +393,7 @@
            height="525.39685"
            x="-417.46033"
            y="-74.603172" /></flowRegion><flowPara
-         id="flowPara1832" /></flowRoot>
-    <g
+         id="flowPara1832" /></flowRoot>    <g
        onclick="window.open('https://intlekt.io/?comments=d.o.-m.o.-%27');"
        id="C_1_1"
        transform="translate(-38.100018)">
@@ -601,19 +599,19 @@
     <path
        style="fill:none;stroke:#f01d11;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 165.0496,214.0552 c 11.35052,21.17588 1.07636,25.68711 -9.23942,32.12798"
-       id="R_A1_C1_6"
+       id="R_A1_C1-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#f01d11;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 110.45304,240.72352 c -2.97996,-11.63227 0.88064,-16.70808 6.71958,-26.45833"
-       id="R_A1_C1_5"
+       id="R_A1_C1-5"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#f01d10;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.90980393"
+       style="fill:none;stroke:#f01d10;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.90980392"
        d="m 77.065144,243.03338 c 15.390406,-6.99686 25.530176,-8.02646 35.067786,-30.86806"
-       id="R_A1_C1_4"
+       id="R_A1_C1-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
@@ -631,7 +629,7 @@
     <path
        style="fill:none;stroke:#5d11f0;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 73.386176,180.45732 c 3.46567,-3.17039 4.423319,-5.43095 5.879628,-8.60946"
-       id="path2905"
+       id="R_P1_A1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
