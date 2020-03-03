@@ -375,7 +375,7 @@
      inkscape:cx="450.87685"
      inkscape:cy="531.94006"
      inkscape:document-units="mm"
-     inkscape:current-layer="g1714"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-page="true"
      units="in"
@@ -924,56 +924,6 @@
         </g>
       </g>
     </g>
-    <g
-       id="g1696">
-      <g
-         id="g212"
-         clip-path="url(#clipPath5844)"
-         transform="matrix(1.2013975,0,0,1.1477143,55.745772,-18.134809)">
-        <g
-           inkscape:label="Clip"
-           id="g210">
-          <path
-             sodipodi:type="star"
-             style="fill:#ffffff;stroke:#b5b400;stroke-width:0.95079041;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             id="path208"
-             sodipodi:sides="6"
-             sodipodi:cx="49.48048"
-             sodipodi:cy="179.43405"
-             sodipodi:r1="14.076396"
-             sodipodi:r2="12.190517"
-             sodipodi:arg1="1.550799"
-             sodipodi:arg2="2.0743978"
-             inkscape:flatsided="true"
-             inkscape:rounded="0"
-             inkscape:randomized="0"
-             d="m 49.761952,193.50763 -12.328815,-6.79303 -0.281472,-14.07358 12.047344,-7.28055 12.328815,6.79303 0.281471,14.07358 z"
-             transform="matrix(1.355803,0,0,1,47.05279,-4.4533826)" />
-        </g>
-      </g>
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="198.4888"
-       y="181.33928"
-       id="text227"><tspan
-         sodipodi:role="line"
-         x="198.4888"
-         y="181.33928"
-         style="font-size:5.64444447px;text-align:end;text-anchor:end;stroke-width:0.26458332"
-         id="tspan229"> Agents</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="108.47917"
-       y="181.33928"
-       id="text235"><tspan
-         sodipodi:role="line"
-         id="tspan233"
-         x="108.47917"
-         y="181.33928"
-         style="font-size:6.3499999px;stroke-width:0.26458332">Acteurs</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -1045,5 +995,100 @@
        preserveAspectRatio="none"
        height="13.79613"
        width="18.709822" />
+    <image
+       y="165.2942"
+       x="169.97589"
+       id="image1737"
+       xlink:href="data:image/png;base64,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
+rkJggg==
+"
+       preserveAspectRatio="none"
+       height="33.602085"
+       width="41.804165" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="182.18452"
+       y="183.22917"
+       id="text1742"><tspan
+         sodipodi:role="line"
+         id="tspan1740"
+         x="182.18452"
+         y="183.22917"
+         style="font-size:5.64444447px;stroke-width:0.26458332">Acteurs</tspan></text>
   </g>
 </svg>
