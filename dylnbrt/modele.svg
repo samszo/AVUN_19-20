@@ -23,13 +23,13 @@
       }
 
       @font-face {
-            font-family: "Bahn";
+            font-family: "Bahnschrift";
             src: url("fonts/bahnschrift/bahnschrift.ttf");
         }
 
       .logoTxt {
          vertical-align: sub;
-         font-family: "Bahnschrift";
+         font-family: "Bahn";
       }
 
 
