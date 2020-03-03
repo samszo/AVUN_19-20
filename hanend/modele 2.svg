@@ -1412,7 +1412,7 @@
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker2458)"
        d="M 48.249704,19.147524 C -25.682854,42.838342 4.2418555,53.547002 22.843617,65.67103 v 0"
-       id="path1550"
+       id="R-A1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
     <path
@@ -1423,7 +1423,7 @@
     <path
        style="fill:none;stroke:#041405;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker1125)"
        d="M 127.37922,77.690495 C 125.0412,69.790429 102.23284,67.254121 99.546109,73.398963"
-       id="path1554"
+       id="R-A2-A3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
@@ -1580,13 +1580,13 @@
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker1593)"
        d="M 41.494744,58.390615 C 7.3990984,22.549917 64.010291,35.476914 64.332937,35.552422"
-       id="path1328"
+       id="R-A1-P1-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker1771)"
        d="m 112.26097,37.482409 c 61.83511,-1.230858 39.55099,11.446668 23.48153,22.516531 v 0"
-       id="path1761"
+       id="R-P1-1-A3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
     <flowRoot
