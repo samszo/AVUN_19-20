@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    
+    <style>
+
+        body {
+        padding-top: 5rem;
+        }
+        .starter-template {
+        padding: 3rem 1.5rem;
+        text-align: center;
+        }
+
+    </style>
+    <title>Pouvoir Agir</title>
+  </head>
+  <body>
+
+    <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
+        <a class="navbar-brand" href="#">Pouvoir Agir</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      
+        <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Ecosystèmes</a>
+              <div id='ddListeEco' class="dropdown-menu" aria-labelledby="dropdown01">
+                  <!--
+                <a class="dropdown-item" href="#">Action</a>
+                <a class="dropdown-item" href="#">Another action</a>
+                <a class="dropdown-item" href="#">Something else here</a>
+                -->
+              </div>
+            </li>
+          </ul>
+        </div>
+      </nav>
+      <main role="main" class="container">
+
+        <div class="starter-template">
+          <h1>Pouvoir Agir</h1>
+          <p class="lead">Pour calculer le pourvoir d'agir d'un écosystème de connaissances</p>
+        </div>
+
+        <div class="row">
+            <div class="col-8">
+                <div class="row">
+                    <div id='contSVG' class="col-12">
+                        Pour le svg
+                    </div>
+                    <div id='contRef' class="col-12">
+                        Pour les références
+                    </div>
+                </div>
+            </div>
+            <div id='calculPA' class="col-4">
+              Pour le calcule
+            </div>
+        </div>      
+      
+      </main>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+
+
+    <script>
+
+    //variables globales
+    var dataForm, dimensions;
+
+    //récupère les données du formulaire
+    var url = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSxVAAOvkBZ4dQz0ibfxoX47l1FfMN25xdoPBtNhRJUZ3njpVaBI4iCWMiYR34N_qclVvw0vB6Ph4PM/pub?gid=1435387753&single=true&output=csv'            
+    d3.csv(url)
+        .then(function(data) {
+            //conserve les données
+            dataForm = data;
+
+            //met à jour la liste des écosystème
+            d3.select("#ddListeEco").selectAll('a').data(dataForm).enter().append('a')
+                .attr('class',"dropdown-item")
+                .attr('href',"#")
+                .html(function(d){ 
+                    return d['Votre prénom']+' '+d['Votre nom'];
+                })
+                .on('click',function(d){
+                    console.log(d);
+                    afficheEco(d);
+                });
+        })
+        .catch(function(error){
+            console.log(error);  
+        });
+
+    function afficheEco(d){
+
+        d3.select("#contSVG").html("");
+        d3.select("#contRef").html("");
+        d3.select("#calculPA").html("");
+        
+        
+        var urlSVG = "../"+d['Votre compte GitHub']+"/modele.svg";
+
+        d3.xml(urlSVG)
+        .then(data => {
+            //affiche le dvg
+            d3.select("#contSVG").node().append(data.documentElement);
+            dimensions = {'P':[], 'A':[], 'C':[], 'R':[]};
+            //récupère les dimensions associées aux éléments graphiques
+            var arrEle = ["g","rect","path","ellipse"];
+            arrEle.forEach(function(e){
+                var objs = d3.select("#contSVG").select('svg').selectAll(e)._groups[0];
+                for (i=0;i<objs.length;i++) {
+                    setDim(objs[i]);
+                }
+            })
+            console.log(dimensions);
+
+            d3.select("#calculPA").html(JSON.stringify(dimensions));
+
+
+        });        
+            
+
+    }
+
+    function setDim(obj){
+        if (obj.id.slice(0,2)=='P_') { 
+            dimensions['P'].push({'id':obj.id,'obj':obj.localName});
+        }
+        if (obj.id.slice(0,2)=='A_') { 
+            dimensions['A'].push({'id':obj.id,'obj':obj.localName});
+        }
+        if (obj.id.slice(0,2)=='C_') { 
+            dimensions['C'].push({'id':obj.id,'obj':obj.localName});
+        }
+        if (obj.id.slice(0,2)=='R_') { 
+            dimensions['R'].push({'id':obj.id,'obj':obj.localName});
+        }
+
+    }
+        
+    </script>
+
+</body>
+</html>
