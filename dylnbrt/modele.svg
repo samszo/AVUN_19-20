@@ -24,7 +24,7 @@
 
       @font-face {
             font-family: "Bahnschrift";
-            src: url("fonts/bahnschrift/bahnschrift.ttf");
+            src: url("https://samszo.github.io/AVUN_19-20/dylnbrt/fonts/bahnschrift/bahnschrift.ttf");
         }
 
       .logoTxt {
