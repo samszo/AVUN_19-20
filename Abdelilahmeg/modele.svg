@@ -377,8 +377,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="450.87685"
-     inkscape:cy="531.94006"
+     inkscape:cx="393.73399"
+     inkscape:cy="417.65435"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -632,7 +632,10 @@
        style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="95.166008"
        y="222.74867"
-       id="text7149"><tspan
+       id="text7149"
+       onclick="window.open('https://www.paris.fr','_blank');
+"
+       class="doigt"><tspan
          sodipodi:role="line"
          id="tspan7147"
          x="95.166008"
@@ -1051,7 +1054,8 @@ rkJggg==
 "
        preserveAspectRatio="none"
        height="33.602085"
-       width="41.804165" />
+       width="41.804165"
+       style="fill:none" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
