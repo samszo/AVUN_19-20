@@ -700,9 +700,9 @@
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="236.01684"
-     inkscape:cx="374.56895"
-     inkscape:zoom="1.1632528"
+     inkscape:cy="368.9371"
+     inkscape:cx="374.60536"
+     inkscape:zoom="0.82254394"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -1092,14 +1092,6 @@
        d="M 36.285876,91.455622 Z"
        id="path1243"
        inkscape:connector-curvature="0" />
-    <ellipse
-       ry="4.2393889"
-       rx="12.83328"
-       cy="105.17735"
-       cx="40.37318"
-       id="C_1_1"
-       style="fill:#000000;fill-opacity:0;stroke:#0d580e;stroke-width:0.5220508;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:transform-center-x="2.4013729" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 35.644825,101.91693 Z"
@@ -1751,7 +1743,7 @@
        inkscape:connector-curvature="0"
        inkscape:path-effect="#path-effect2777"
        inkscape:original-d="m 38.666716,95.973446 c -0.09195,1.790211 -0.184169,3.580689 -0.276648,5.371424"
-       transform="matrix(0.98167638,0,0,1.3400517,-0.20382558,-34.23157)" />
+       transform="matrix(0.98793082,0,0,1.219988,-0.44479903,-22.064523)" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 38.390068,101.34487 c 0,0 0,0 0,0 z"
@@ -1954,12 +1946,6 @@
        cy="102.5164"
        rx="12.242331"
        ry="3.4127755" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.04525261px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow2Lstart);marker-mid:url(#marker1861)"
-       d="m 75.42677,111.33966 c 0.0582,-6.91749 1.023195,-6.13453 1.023195,-6.13453"
-       id="path1581"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
     <ellipse
        ry="2.4195681"
        rx="4.8941054"
@@ -2088,5 +2074,12 @@
        id="R-A1-A2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#ffa59f;stroke-width:0.442;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="C_3_1_1"
+       cx="40.047249"
+       cy="105.95332"
+       rx="15.535691"
+       ry="4.3020444" />
   </g>
 </svg>
