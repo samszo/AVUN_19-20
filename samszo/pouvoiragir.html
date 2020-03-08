@@ -7,6 +7,7 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="http://rawgit.com/vitmalina/w2ui/master/dist/w2ui.min.css" />
     
     <style>
 
@@ -49,6 +50,7 @@
         <div class="starter-template">
           <h1>Pouvoir Agir</h1>
           <p class="lead">Pour calculer le pourvoir d'agir d'un écosystème de connaissances</p>
+          <h3 id='auteurEco'></h3>
         </div>
 
         <div class="row">
@@ -75,12 +77,13 @@
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
     <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script type="text/javascript" src="http://rawgit.com/vitmalina/w2ui/master/dist/w2ui.min.js"></script>
 
 
     <script>
 
     //variables globales
-    var dataForm, dimensions;
+    var dataForm, dimensions, arrDim;
 
     //récupère les données du formulaire
     var url = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSxVAAOvkBZ4dQz0ibfxoX47l1FfMN25xdoPBtNhRJUZ3njpVaBI4iCWMiYR34N_qclVvw0vB6Ph4PM/pub?gid=1435387753&single=true&output=csv'            
@@ -107,10 +110,15 @@
 
     function afficheEco(d){
 
+        //initialise les conteneur
         d3.select("#contSVG").html("");
         d3.select("#contRef").html("");
         d3.select("#calculPA").html("");
         
+        //affiche l'auteur
+        d3.select("#auteurEco").html("Ecosystème fait par : "+d['Votre prénom']+" "+d['Votre nom']+" ("+d['N° étudiant']+")");
+        
+
         
         var urlSVG = "../"+d['Votre compte GitHub']+"/modele.svg";
 
@@ -119,6 +127,7 @@
             //affiche le dvg
             d3.select("#contSVG").node().append(data.documentElement);
             dimensions = {'P':[], 'A':[], 'C':[], 'R':[]};
+            arrDim = [];
             //récupère les dimensions associées aux éléments graphiques
             var arrEle = ["g","rect","path","ellipse"];
             arrEle.forEach(function(e){
@@ -129,7 +138,21 @@
             })
             console.log(dimensions);
 
-            d3.select("#calculPA").html(JSON.stringify(dimensions));
+            //d3.select("#calculPA").html(JSON.stringify(dimensions));
+
+            $('#calculPA').w2grid({ 
+                name: "PouvoirAgir" , 
+                //name: "Pouvoir d'agir des dimensions existentielles" , 
+                records: arrDim,
+                columns: [                
+                    { field: 'recid', text: 'recid', size: '30%' },
+                    { field: 'id', text: 'Identifiant', size: '30%' },
+                    { field: 'obj', text: 'Type de noeud', size: '30%' },
+                    { field: 'dim', text: 'Dimension', size: '40%' }
+                ]
+            });    
+
+
 
 
         });        
@@ -138,19 +161,10 @@
     }
 
     function setDim(obj){
-        if (obj.id.slice(0,2)=='P_') { 
-            dimensions['P'].push({'id':obj.id,'obj':obj.localName});
-        }
-        if (obj.id.slice(0,2)=='A_') { 
-            dimensions['A'].push({'id':obj.id,'obj':obj.localName});
-        }
-        if (obj.id.slice(0,2)=='C_') { 
-            dimensions['C'].push({'id':obj.id,'obj':obj.localName});
-        }
-        if (obj.id.slice(0,2)=='R_') { 
-            dimensions['R'].push({'id':obj.id,'obj':obj.localName});
-        }
-
+      if (obj.id.slice(0,2)=='P_' || obj.id.slice(0,2)=='A_' || obj.id.slice(0,2)=='C_' || obj.id.slice(0,2)=='R_') { 
+        dimensions[obj.id.slice(0,1)].push({'id':obj.id,'obj':obj.localName});
+        arrDim.push({'recid':(arrDim.length+1),'id':obj.id,'obj':obj.localName,'dim':obj.id.slice(0,1)})
+      }  
     }
         
     </script>
