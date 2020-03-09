@@ -377,8 +377,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="450.87685"
-     inkscape:cy="531.94006"
+     inkscape:cx="405.16256"
+     inkscape:cy="417.65435"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -530,7 +530,7 @@
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="99.648994"
        y="137.55887"
-       id="text4995"><tspan
+       id="P1_2"><tspan
          sodipodi:role="line"
          id="tspan4993"
          x="99.648994"
@@ -632,7 +632,10 @@
        style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="95.166008"
        y="222.74867"
-       id="text7149"><tspan
+       id="C1_2_1"
+       onclick="window.open('https://www.paris.fr','_blank');
+"
+       class="doigt"><tspan
          sodipodi:role="line"
          id="tspan7147"
          x="95.166008"
@@ -643,7 +646,7 @@
        style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="129.26785"
        y="222.74866"
-       id="text7153"><tspan
+       id="C1_2_2"><tspan
          sodipodi:role="line"
          id="tspan7151"
          x="129.26785"
@@ -682,7 +685,7 @@
        style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="157.61607"
        y="223.37865"
-       id="text10852"><tspan
+       id="C1_3_1"><tspan
          sodipodi:role="line"
          id="tspan10850"
          x="157.61607"
@@ -693,7 +696,7 @@
        style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="173.86905"
        y="210.14948"
-       id="text10856"><tspan
+       id="C1_3_3"><tspan
          sodipodi:role="line"
          id="tspan10854"
          x="173.86905"
@@ -704,7 +707,7 @@
        style="font-style:normal;font-weight:normal;font-size:4.72104597px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25291321"
        x="210.23355"
        y="213.60625"
-       id="text10860"
+       id="C1_3_2"
        transform="scale(0.95589244,1.0461428)"><tspan
          sodipodi:role="line"
          id="tspan10858"
@@ -716,7 +719,7 @@
        style="font-style:normal;font-weight:normal;font-size:4.54317856px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.24338458"
        x="28.047176"
        y="238.60063"
-       id="text10864"
+       id="C1_1_1"
        transform="scale(1.0870998,0.91987875)"><tspan
          sodipodi:role="line"
          id="tspan10862"
@@ -728,7 +731,7 @@
        style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="63.122021"
        y="220.6488"
-       id="text10868"><tspan
+       id="C1_1_2"><tspan
          sodipodi:role="line"
          id="tspan10866"
          x="63.122021"
@@ -796,18 +799,18 @@
          id="flowPara15745" /></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.51032829px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.24162473"
-       x="53.045525"
-       y="237.97636"
+       x="54.287197"
+       y="237.63118"
        id="text15759"
-       transform="scale(0.9132274,1.0950175)"><tspan
+       transform="scale(0.91322741,1.0950175)"><tspan
          sodipodi:role="line"
          id="tspan15757"
-         x="53.045525"
-         y="237.97636"
+         x="54.287197"
+         y="237.63118"
          style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.15466118px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#00000a;fill-opacity:0.94285715;stroke-width:0.24162473">Écosystème numérique  de la supervision de l'espace public</tspan><tspan
          sodipodi:role="line"
-         x="53.045525"
-         y="243.84961"
+         x="54.287197"
+         y="243.50443"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.51032877px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;stroke-width:0.24162473"
          id="tspan3466" /></text>
     <path
@@ -845,7 +848,7 @@
          style="font-style:normal;font-weight:normal;font-size:36.670784px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:55.44229889"
          x="397.40677"
          y="89.870964"
-         id="text16008"
+         id="P_1_1"
          transform="scale(0.7495481,1.3341372)"><tspan
            sodipodi:role="line"
            id="tspan16006"
@@ -879,7 +882,8 @@
     <g
        id="g170"
        inkscape:label="Clip"
-       transform="matrix(1.2013974,0,0,-1.1477143,-80.325659,386.54463)">
+       transform="matrix(1.2013974,0,0,-1.1477143,-80.325659,386.54463)"
+       onclick="window.open('https://hexadrone.fr','_blank');">
       <path
          transform="matrix(1.355803,0,0,1,47.05279,-4.4533826)"
          d="m 49.761952,193.50763 -12.328815,-6.79303 -0.281472,-14.07358 12.047344,-7.28055 12.328815,6.79303 0.281471,14.07358 z"
@@ -1051,7 +1055,8 @@ rkJggg==
 "
        preserveAspectRatio="none"
        height="33.602085"
-       width="41.804165" />
+       width="41.804165"
+       style="fill:none" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
