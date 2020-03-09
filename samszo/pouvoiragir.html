@@ -6,18 +6,75 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-    <link rel="stylesheet" type="text/css" href="http://rawgit.com/vitmalina/w2ui/master/dist/w2ui.min.css" />
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" >
+    <link rel="stylesheet" type="text/css" href="css/w2ui.min.css" />
     
     <style>
 
         body {
-        padding-top: 5rem;
+          padding-top: 5rem;
+          background-color: black;
+          color:white;
         }
         .starter-template {
-        padding: 3rem 1.5rem;
-        text-align: center;
+          padding: 3rem 1.5rem;
+          text-align: center;
         }
+        .rowPA {
+          background-color: #ed080833;
+          padding: 6px;
+        }
+        .rowPAdetail {
+          padding: 3px;
+          border-style: dotted;
+          border-width: 0.3px;          
+        }
+        .txtPA {
+          width: 100%;
+          text-align: center;
+        }
+        .txtTot {
+          font-size: 1.2rem;          
+          width: 100%;
+          text-align: center;
+        }
+        .colPA {
+          border-style: solid;
+          border-width: 1px;          
+        }
+        .colRD {
+          border-style: solid;
+          border-width: 1px;          
+        }
+        .colCache {
+          display: none;         
+        }
+        h4 {
+          font-size: 1.2rem;          
+          width: 100%;
+          text-align: center;
+        }
+        h5 {
+          font-size: 0.8rem;          
+          width: 100%;
+          text-align: center;
+          padding: 2px;
+        }
+        .dimRapDetail{
+          padding: 1px;
+          color: white;
+        }
+        #colniv_R {
+          padding: 0px;
+        }
+        .totRD {
+          background-color: #ed080833;
+          font-size: 1.2rem;          
+          width: 100%;
+          color: white;
+          text-align: center;
+        }
+
 
     </style>
     <title>Pouvoir Agir</title>
@@ -45,48 +102,80 @@
           </ul>
         </div>
       </nav>
-      <main role="main" class="container">
+      <main role="main" class="container-fluid" >
 
-        <div class="starter-template">
-          <h1>Pouvoir Agir</h1>
-          <p class="lead">Pour calculer le pourvoir d'agir d'un écosystème de connaissances</p>
-          <h3 id='auteurEco'></h3>
+        <div class="row" style="padding: 10px;">
+          
+          <div class="col-5" >
+            <div class="row">
+              <h3>Auteur de l'écosystème : </h3>
+              <h3 id='auteurEco'></h3>
+            </div>
+            <!-- calcul du pouvoir d'agir -->
+            <div class="row rowPA">
+              <div class="container-fluid">
+                <!-- détail du calcul -->
+                <div class="row rowPA" >
+                  <div class="col-sm-12 colPA" id="calculPA">
+                    
+                  </div>
+                </div>
+                <!-- FIN détail du calcul -->
+                
+              </div>              
+            
+            </div>
+            <!-- tableau des dimensions existentielles -->
+            <div class="row" >
+              <div class="col-12">
+                <div id='listeDE' style="height: 400px;color:black" ></div>
+              </div>
+            </div>
+
+          </div>
+          <!-- Fin colonne gauche -->
+
+          <div class="col-7">
+            <div class="row">
+              <div class="col-12">
+                  <div id='contSVG' style='background-color: white; padding: 10px; width: 850px;' class="col-12">
+                      Pour le svg
+                  </div>
+              </div>
+            </div>
+            <div class="row" style="padding-top: 10px;" >
+              <div class="col-12">
+                <div id='listeRef' style="height: 400px;color:black" ></div>
+              </div>
+            </div>
+          </div>
+        
         </div>
 
-        <div class="row">
-            <div class="col-8">
-                <div class="row">
-                    <div id='contSVG' class="col-12">
-                        Pour le svg
-                    </div>
-                    <div id='contRef' class="col-12">
-                        Pour les références
-                    </div>
-                </div>
-            </div>
-            <div id='calculPA' class="col-4">
-              Pour le calcule
-            </div>
-        </div>      
-      
       </main>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
-    <script src="https://d3js.org/d3.v5.min.js"></script>
-    <script type="text/javascript" src="http://rawgit.com/vitmalina/w2ui/master/dist/w2ui.min.js"></script>
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/popper.min.js" ></script>
+    <script type="text/javascript" src="js/bootstrap.min.js" ></script>
+    <script type="text/javascript" src="js/d3.v5.min.js"></script>
+    <script type="text/javascript" src="js/w2ui.min.js"></script>
 
 
     <script>
 
     //variables globales
-    var dataForm, dimensions, arrDim;
+    var dataForm, dimensions, arrDim, arrEvent
+      , arrEle = ["g","rect","path","ellipse","text"]
+      , dimDesc = {'P':{'ordre':1,'label':'Physique'},'A':{'ordre':2,'label':'Acteur'}
+            ,'C':{'ordre':3,'label':'Concept'},'R':{'ordre':4,'label':'Rapport'}
+            ,'T':{'ordre':4,'label':'Total'}}
+      , PATot = {'niveau':0,'NbElement':0,'PA':0};
 
     //récupère les données du formulaire
-    var url = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSxVAAOvkBZ4dQz0ibfxoX47l1FfMN25xdoPBtNhRJUZ3njpVaBI4iCWMiYR34N_qclVvw0vB6Ph4PM/pub?gid=1435387753&single=true&output=csv'            
+    //var url = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSxVAAOvkBZ4dQz0ibfxoX47l1FfMN25xdoPBtNhRJUZ3njpVaBI4iCWMiYR34N_qclVvw0vB6Ph4PM/pub?gid=1435387753&single=true&output=csv'            
+    var url = 'data.csv'            
     d3.csv(url)
         .then(function(data) {
             //conserve les données
@@ -113,10 +202,10 @@
         //initialise les conteneur
         d3.select("#contSVG").html("");
         d3.select("#contRef").html("");
-        d3.select("#calculPA").html("");
+        d3.selectAll('#calculPA').html("");
         
         //affiche l'auteur
-        d3.select("#auteurEco").html("Ecosystème fait par : "+d['Votre prénom']+" "+d['Votre nom']+" ("+d['N° étudiant']+")");
+        d3.select("#auteurEco").html(d['Votre prénom']+" "+d['Votre nom']+" ("+d['N° étudiant']+")");
         
 
         
@@ -124,47 +213,257 @@
 
         d3.xml(urlSVG)
         .then(data => {
-            //affiche le dvg
+            //affiche le svg
             d3.select("#contSVG").node().append(data.documentElement);
-            dimensions = {'P':[], 'A':[], 'C':[], 'R':[]};
+            
+            //récupère les dimensions et les événements associées aux éléments graphiques
             arrDim = [];
-            //récupère les dimensions associées aux éléments graphiques
-            var arrEle = ["g","rect","path","ellipse"];
+            arrEvent=[]; 
             arrEle.forEach(function(e){
                 var objs = d3.select("#contSVG").select('svg').selectAll(e)._groups[0];
                 for (i=0;i<objs.length;i++) {
                     setDim(objs[i]);
+                    setEvent(objs[i]);
                 }
             })
-            console.log(dimensions);
+
+            traiteData();
 
             //d3.select("#calculPA").html(JSON.stringify(dimensions));
+            drawTableauPA();           
 
-            $('#calculPA').w2grid({ 
-                name: "PouvoirAgir" , 
-                //name: "Pouvoir d'agir des dimensions existentielles" , 
+            //affiche le detail des dimensions existentielles
+            if(w2ui['listeDE'])w2ui['listeDE'].destroy();
+            $('#listeDE').w2grid({ 
+                name: "listeDE" ,
+                header: "Dimensions existentielles",
+                show: {
+                      header        : true, 
+                      footer        : true,
+                      columnHeaders : true
+                },
                 records: arrDim,
                 columns: [                
-                    { field: 'recid', text: 'recid', size: '30%' },
-                    { field: 'id', text: 'Identifiant', size: '30%' },
-                    { field: 'obj', text: 'Type de noeud', size: '30%' },
-                    { field: 'dim', text: 'Dimension', size: '40%' }
+                    { field: 'recid', text: 'recid', hidden:'true', size: '30%' },
+                    { field: 'id', text: 'Identifiant', sortable:true, size: '30%' },
+                    { field: 'obj', text: 'Type de noeud', sortable:true, size: '30%' },
+                    { field: 'dim', text: 'Dimension', hidden:'true', size: '40%' }
                 ]
             });    
 
-
-
+            //affiche la liste des références
+            if(w2ui['listeRef'])w2ui['listeRef'].destroy();
+            $('#listeRef').w2grid({ 
+                name: "listeRef" ,
+                header: "Références Linked Open Data",
+                show: {
+                      header        : true, 
+                      footer        : true,
+                      columnHeaders : true
+                },
+                records: arrEvent,
+                columns: [                
+                    { field: 'recid', text: 'recid', sortable:true, size: '50%' },
+                    { field: 'event', text: 'event', sortable:true, size: '50%' },
+                ]
+            });    
 
         });        
             
 
     }
+    function setEvent(obj){
+      if(obj.onclick){
+        let n = d3.select(obj);
+        let oc = n.attr('onclick');
+        let id = n.attr('id');
+        if(oc.slice(0,12)=='window.open(' )
+          arrEvent.push({'n':n,'event':oc,'recid':id})
+        //console.log(obj);
+      }
+    }
 
     function setDim(obj){
       if (obj.id.slice(0,2)=='P_' || obj.id.slice(0,2)=='A_' || obj.id.slice(0,2)=='C_' || obj.id.slice(0,2)=='R_') { 
-        dimensions[obj.id.slice(0,1)].push({'id':obj.id,'obj':obj.localName});
-        arrDim.push({'recid':(arrDim.length+1),'id':obj.id,'obj':obj.localName,'dim':obj.id.slice(0,1)})
+        let niv = obj.id.split('_');
+        let dim = {'recid':(arrDim.length+1),'id':obj.id,'obj':obj.localName,'dim':niv[0],'niv':niv.length-1};
+        //calcul les rapports
+        if(niv[0]=='R'){
+          /*
+          R_sujetNb_objetNb_prédicatNB 
+          NB correspond au nombre d'élément touché par le rapport 
+          par exemple R_P1_A2_C3 
+          le rapport à pour sujet un élément physique comme objet 2 éléments acteurs et comme prédicat 3 éléments conceptuels
+          Dans le cas où l'identifiant du rapport existe plusieurs fois : 
+          mettre -1, -2, -n à la fin de l'identifiant          
+          */
+          let NbDest = parseInt(niv[2].slice(1).split('-')[0]);
+          let NbPred = niv[3] ? parseInt(niv[3].slice(1).split('-')[0]) : 0;
+          dim.rapport = {'NbRapport':1
+            ,	'NbSour':parseInt(niv[1].slice(1))
+            ,	'TypeSour':niv[1].slice(0,1)
+            ,	'NbDest':NbDest
+            , 'TypeDest':niv[2].slice(0,1)
+            , 'NbPred':NbPred
+            , 'TypePred': NbPred ? niv[3].slice(0,1) : ''
+          };
+          dim.rapport.PA = dim.rapport.NbRapport + dim.rapport.NbSour + dim.rapport.NbDest + dim.rapport.NbPred; 
+        }     
+        arrDim.push(dim);
       }  
+    }
+
+    function traiteData(){
+      arrDim.sort(function(a, b) {
+                //return dimDesc[a.dim].ordre - dimDesc[b.dim].ordre;
+                return a.id.localeCompare(b.id);
+              });
+
+            //regroupe les dimensions
+            dimensions = d3.nest()
+                        .key(d => d.dim)
+                        .entries(arrDim)
+                        .sort(function(a, b) {
+                          return dimDesc[a.key].ordre - dimDesc[b.key].ordre;
+                        });
+            dimensions.forEach(function(d){
+              d.nivs = d3.nest()
+                        .key(dim => dim.niv)
+                        .entries(d.values)
+                        .sort(function(a, b) {
+                          return a.key - b.key;
+                        });
+              //ajoute les totaux de niveau
+              let s = 0, PA=0;
+              d.nivs.forEach(n=>{
+                s+=n.values.length;
+                n.PA = n.key * n.values.length;
+                PA += n.PA;
+              });
+              d.nivs.push({'key':'Total','PA':PA,'s':s,'niv':d.nivs.length});
+
+              //ajoute les totaux de rapport
+              if(d.key=="R"){
+                let rTot = {'NbRapport':0
+                  ,	'NbSour':0
+                  ,	'TypeSour':""                  
+                  ,	'NbDest':0
+                  ,	'TypeDest':""                  
+                  , 'NbPred':0
+                  ,	'TypePred':""                  
+                  , 'PA':0
+                };
+                d.values.forEach(v=>{
+                  rTot.NbRapport += v.rapport.NbRapport;
+                  rTot.NbSour += v.rapport.NbSour;
+                  rTot.NbDest += v.rapport.NbDest;
+                  rTot.NbPred += v.rapport.NbPred;
+                  rTot.PA += v.rapport.PA;
+                })
+                d.values.push({'id':'Total','rapport':rTot});
+
+                //cumul les sommes de rapport
+                PATot.niveau += 1;
+                PATot.NbElement += rTot.NbRapport;
+                PATot.PA += rTot.PA;
+              }else{
+                //cumul les sommes
+                PATot.niveau += d.nivs.length-1;
+                PATot.NbElement += s;
+                PATot.PA += PA;
+              }               
+            })
+            console.log(dimensions);
+    }
+
+    function drawTableauPA(){
+        //initialisation du tableau            
+        d3.select('#calculPA').html("<h3>Calcul du pouvoir d'agir</h3>"
+                    +"<!-- entete -->"
+                    +"<div class='row rowPA' >"
+                    +"<div class='col-3 colPA'>"
+                    +"</div>"
+                    +"<div class='col-3 colPA'>"
+                    +"<h4>Niveau = "+PATot.niveau+"</h4>"
+                    +"</div>"
+                    +"<div class='col-3 colPA'>"
+                    +"<h4>Nombre d'éléments = "+PATot.NbElement+"</h4>"
+                    +"</div>"
+                    +"<div class='col-3 colPA'>"
+                    +"<h4>Pouvoir d'agir = "+PATot.PA+"</h4>"
+                    +"</div>"
+                    +"</div>");
+
+            //affiche le détail du pouvoir d'agir
+            var rowDim = d3.select('#calculPA').selectAll('.dimExi').data(dimensions).enter()
+              .append('div')
+              .attr('class',"row rowPA dimExi");
+            //ajoute la colonne dimension
+            rowDim.append('div')
+                .attr('class',"col-3 colPA")
+                .html(function(d){
+                  return '<h4>'+dimDesc[d.key].label+'</h4>'; 
+                });
+            //ajoute la colonne niveau
+            rowDim.append('div')
+                .attr('class',n => n.key == 'R' ? "col-9 colPA" : "col-3 colPA")
+                .attr('id',d=>'colniv_'+d.key)
+                .selectAll('div').data(d => d.nivs).enter()
+                  .append('div')
+                  .attr('class',n => n.key == 'Total' ? "row rowPA" : "row rowPAdetail")
+                  .append('span')
+                  .attr('class',n => n.key == 'Total' ? 'txtTot' : "txtPA")
+                  .html(function(n){
+                    return n.key == 'Total' ? n.niv : n.key; 
+                  });
+            //ajoute la colonne nb élément
+            rowDim.append('div')
+                .attr('class',n => n.key == 'R' ? "colCache" : "col-3 colPA")
+                .selectAll('div').data(d => d.nivs).enter()
+                  .append('div')
+                  .attr('class',n => n.key == 'Total' ? "row rowPA" : "row rowPAdetail")
+                  .append('span')
+                  .attr('class',n => n.key == 'Total' ? 'txtTot' : "txtPA")
+                  .html(function(n){
+                    return n.key == 'Total' ? n.s : n.values.length; 
+                  });
+            //ajoute la colonne pouvoir d'agir
+            rowDim.append('div')
+                .attr('class',n => n.key == 'R' ? "colCache" : "col-3 colPA")
+                .selectAll('div').data(d => d.nivs).enter()
+                  .append('div')
+                  .attr('class',n => n.key == 'Total' ? "row rowPA" : "row rowPAdetail")
+                  .append('span')
+                  .attr('class',n => n.key == 'Total' ? 'txtTot' : "txtPA")
+                  .html(function(n){
+                    return n.PA; 
+                  });
+            //affiche le calcul des rapports
+            d3.select('#colniv_R').selectAll('div').remove();
+            d3.select('#colniv_R').html('<table class="table">'
+              +'<thead><tr style="color:white">'
+              +'<th scope="col">Nb. rap.</th>'
+              +'<th scope="col">Nb. src.</th>'
+              +'<th scope="col">Type src.</th>'
+              +'<th scope="col">Nb. dst.</th>'
+              +'<th scope="col">Type dst.</th>'
+              +'<th scope="col">Nb. pred.</th>'
+              +'<th scope="col">Type pred.</th>'
+              +'<th scope="col">Pouvoir agir</th>'
+              +'</tr></thead>'
+              +'<tbody id="tRapDetail">'
+              +'</tbody></table>');
+            var rowRapDetail= d3.select('#tRapDetail').selectAll('tr').data(dimensions[3].values)
+              .enter().append('tr')
+              .attr('class',function(rd,i){
+                return i==dimensions[3].values.length-1 ? "totRD" : "dimRapDetail"
+              });
+            //ajoute les lignes
+            rowRapDetail.selectAll('td').data(rv=>Object.values(rv.rapport))
+              .enter().append('td')
+                .attr('class',"colRD")
+                  .append('span')
+                  .html(r => r);
     }
         
     </script>
