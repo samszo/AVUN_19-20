@@ -24,13 +24,13 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
      id="namedview1148"
      showgrid="false"
-     inkscape:zoom="1.4166667"
-     inkscape:cx="592.9414"
-     inkscape:cy="241.20958"
+     inkscape:zoom="4.0069385"
+     inkscape:cx="403.62107"
+     inkscape:cy="239.82913"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -258,7 +258,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1816,8 +1816,8 @@
        inkscape:connector-curvature="0" />
     <path
        id="R_P1_A1_C2"
-       d="m 59.299085,186.4584 c 43.392365,38.15921 43.478415,38.15921 43.478415,38.15921 2.36384,7.85138 -0.0137,13.35155 -0.0861,19.99487 l -1.20466,11.26471 4.22015,1.85777"
-       style="fill:none;stroke:#ff0000;stroke-width:0.2201473px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1641)"
+       d="m 38.757054,170.43007 c 61.252716,42.21782 61.374186,42.21782 61.374186,42.21782 3.3368,8.68645 -0.0193,14.77162 -0.12154,22.12152 l -1.700501,12.46282 5.957171,2.05536"
+       style="fill:none;stroke:#ff0000;stroke-width:0.2751171px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1641)"
        inkscape:connector-curvature="0" />
     <path
        id="R_P1_A1_C3"
@@ -1828,11 +1828,6 @@
        id="R_P3_A1_C1"
        d="m 150.54791,247.91977 c 5.55625,-8.73125 5.55625,-8.99583 5.55625,-8.99583 l -6.2177,-3.30729 0.13229,-18.12396 -21.96042,-35.45417 -0.79375,-33.60208"
        style="fill:none;stroke:#009124;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2725)"
-       inkscape:connector-curvature="0" />
-    <path
-       id="path3713"
-       d="m 59.299085,186.4584 -12.997002,0.6072 -4.7625,-7.14375"
-       style="fill:none;stroke:#ff0000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:connector-curvature="0" />
     <ellipse
        ry="8.4553547"
@@ -1873,7 +1868,7 @@
          y="245.84601"
          x="126.03152">DOI</tspan></text>
     <path
-       style="fill:none;stroke:#009124;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;stroke:#009124;stroke-width:0.26458333;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker4444)"
        d="m 114.40505,258.01868 c -10.64558,1.96103 -10.64558,2.00772 -10.64558,2.00772 l -6.95699,-7.70405 14.98787,-16.80882 1.40073,-18.02279 65.0875,-38.56691"
        id="R_C5_A1_P1"
        inkscape:connector-curvature="0" />
