@@ -17,9 +17,31 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="modele6.svg">
+   sodipodi:docname="modele.svg">
   <defs
      id="defs2">
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect1200"
+       is_visible="true"
+       offset_points="1,0.13229166"
+       sort_points="true"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       end_linecap_type="zerowidth" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1198"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
     <inkscape:path-effect
        effect="powerstroke"
        id="path-effect2452"
@@ -1181,9 +1203,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.91"
-     inkscape:cx="422.93035"
-     inkscape:cy="321.87607"
+     inkscape:zoom="0.78"
+     inkscape:cx="351.68032"
+     inkscape:cy="310.97863"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1201,7 +1223,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1619,7 +1641,11 @@
          style="fill-rule:evenodd;stroke-width:1.99281669" />
     </g>
     <g
-       id="A_2">
+       id="A_2"
+       onclick="window.open('https://financeactive.com/fr/gestion-des-risques-financiers/gestion-de-la-dette/insito/attachment/reporting/');"
+       
+class
+="doigt">
       <g
          id="g6405">
         <path
@@ -1932,7 +1958,7 @@
     <path
        style="fill:#000000;fill-rule:nonzero;stroke:#7d9fff;stroke-width:0.69881099;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2338-0)"
        d="m 58.027934,174.63013 c -10.402935,9.62121 -41.701565,38.38773 -52.1045004,48.00894 0,0 0.089824,0.0971 0.089824,0.0971 0,0 0.089824,0.0971 0.089824,0.0971 C 16.506017,213.2121 47.624999,184.25134 58.027934,174.63013 Z"
-       id="path2448-1"
+       id="A_5_R_P_1"
        inkscape:connector-curvature="0"
        inkscape:path-effect="#path-effect2450;#path-effect2452"
        inkscape:original-d="M 58.027934,174.63013 C 40.689974,190.66522 23.351748,206.70057 6.0132576,222.73619"
