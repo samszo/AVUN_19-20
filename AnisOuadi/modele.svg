@@ -43,7 +43,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.3762595"
-     inkscape:cx="333.72597"
+     inkscape:cx="342.92571"
      inkscape:cy="298.81892"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -74,12 +74,6 @@
      id="layer1"
      transform="translate(0,-138.24998)">
     <path
-       style="fill:none;stroke:#00dc4e;stroke-width:0.57534093;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 29.744662,204.5 c -8.202408,-5.27809 -6.344903,-19.98963 -6.344903,-19.98963"
-       id="R_A3_P1_C1"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
        style="fill:none;stroke:#000000;stroke-width:0.52916667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 58.892567,200.11745 C 83.113773,180.26115 161.11851,183.6571 166.4493,172.39616"
        id="R_A3_P2_C1"
@@ -108,6 +102,12 @@
        cy="246.32198"
        rx="49.968559"
        ry="37.408718" />
+    <path
+       style="fill:none;stroke:#00dc58;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 54.790719,269.31625 C 35.99667,197.55964 13.875025,198.25832 23.646521,184.53481"
+       id="R_A3_P1_C1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
     <ellipse
        style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5080421;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="C_1"
@@ -355,7 +355,8 @@
        preserveAspectRatio="none"
        height="13.718074"
        width="17.757614"
-       onclick="window.open('https://www.carrefour.fr/services/drive?gclsrc=aw.ds&amp;?cda_medium=adwords_brand&amp;gclid=CjwKCAiAzJLzBRAZEiwAmZb0apoaHdVV4-HqiH-jF_dsQ06xNE8Jjst2E7lqejmNlr-hb4b9eFE15xoCU58QAvD_BwE&amp;gclsrc=aw.ds','_blanck')" />
+       onclick="window.open('https://www.carrefour.fr/services/drive?gclsrc=aw.ds&amp;?cda_medium=adwords_brand&amp;gclid=CjwKCAiAzJLzBRAZEiwAmZb0apoaHdVV4-HqiH-jF_dsQ06xNE8Jjst2E7lqejmNlr-hb4b9eFE15xoCU58QAvD_BwE&amp;gclsrc=aw.ds','_blanck')"
+       class="doigt" />
     <image
        y="140.78879"
        x="42.780483"
@@ -806,12 +807,6 @@
        inkscape:transform-center-y="0.35989167"
        transform="matrix(0.68586535,0.04841447,-0.05033473,0.65969972,40.279796,56.970906)" />
     <path
-       style="fill:none;stroke:#00dc4e;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 54.570118,268.56105 c -1.14568,-9.97794 -4.410427,-21.88263 -11.215771,-34.41269 h 0.350492"
-       id="path5483"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
-    <path
        sodipodi:type="star"
        style="opacity:1;fill:#00dc4e;fill-opacity:1;stroke:#00dc4e;stroke-width:0.35471961;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path5466-2-3-3"
@@ -828,7 +823,7 @@
        d="m 95.59167,192.53456 -2.231615,-4.65747 5.149295,0.3961 z"
        inkscape:transform-center-x="-12.790275"
        inkscape:transform-center-y="50.244149"
-       transform="matrix(0.03879184,-0.80897247,0.6815997,0.1279373,-108.67301,248.15096)" />
+       transform="matrix(0.03879184,-0.80897247,0.6815997,0.1279373,-110.40324,249.1122)" />
     <path
        style="fill:none;stroke:#313300;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0"
        d="m 196.67187,176.70997 c -1.14344,7.31803 -1.14344,7.7754 -1.14344,7.7754"
