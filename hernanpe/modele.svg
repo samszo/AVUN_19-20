@@ -373,7 +373,7 @@
       <path
          id="path1255"
          d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         style="fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1;fill:#0000ff;fill-opacity:1"
+         style="fill-rule:evenodd;stroke:#008000;stroke-width:1pt;stroke-opacity:1;fill:#008000;fill-opacity:1"
          transform="scale(0.8) translate(12.5,0)" />
     </marker>
     <marker
@@ -750,9 +750,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="303.40625"
-     inkscape:cy="250.44454"
+     inkscape:zoom="1"
+     inkscape:cx="381.80688"
+     inkscape:cy="209.88204"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1851,7 +1851,7 @@
     <path
        style="fill:none;stroke:#ff6600;stroke-width:0.27904472;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker4182);marker-mid:url(#marker5524);marker-end:url(#marker4524)"
        d="m 57.75674,229.05577 c 2.852618,-4.1715 5.705059,-8.34274 18.278022,-14.43683 12.572963,-6.0941 34.866028,-14.11113 38.407418,-7.81379 3.54138,6.29733 -11.66899,26.90918 -26.879569,47.52132"
-       id="path1300"
+       id="R_P2_A3_C2-2"
        inkscape:connector-curvature="0"
        inkscape:path-effect="#path-effect1027"
        inkscape:original-d="m 57.75674,229.05577 c 2.852705,-4.17144 5.705145,-8.34268 8.557289,-12.51367 22.293652,-8.01738 44.586711,-16.03442 66.879781,-24.0513 -15.21018,20.61173 -30.42055,41.22358 -45.631199,61.83567"
@@ -1901,12 +1901,12 @@
     <path
        style="fill:none;stroke:#00ff00;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 169.26813,195.17644 v 4.39426"
-       id="path1069"
+       id="R_P1_A1-2"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#0000ff;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 102.52561,202.30921 v 4.39426"
-       id="path1069-0"
+       id="R_P1_A1-1"
        inkscape:connector-curvature="0" />
     <rect
        style="fill:none;stroke:#ffcc00;stroke-width:0.27540356;stroke-miterlimit:4;stroke-dasharray:none"

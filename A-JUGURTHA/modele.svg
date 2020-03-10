@@ -7,11 +7,35 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg497"
    version="1.1"
    viewBox="0 0 211.66666 158.75"
    height="600"
-   width="800">
+   width="800"
+   sodipodi:docname="modele.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview203"
+     showgrid="false"
+     inkscape:zoom="1.1125147"
+     inkscape:cx="400"
+     inkscape:cy="300"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
   <defs
      id="defs491">
     <marker
@@ -187,7 +211,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -198,7 +222,9 @@
        id="path5464"
        d="M 58.876483,200.1658 C 82.256806,188.82501 105.58369,177.36762 134.46297,178.02455"
        style="fill:none;stroke:#000000;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       R_A_1_P_2="" />
+       R_A_1_P_2=""
+       R_A1_P2=""
+       inkscape:connector-curvature="0" />
     <ellipse
        ry="25.849522"
        rx="21.829464"
@@ -550,9 +576,10 @@
        id="path5466-8-5"
        style="opacity:1;fill:#3133bf;fill-opacity:1;stroke:#3133bf;stroke-width:0.39228663;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
-       id="R_C_1_3_2_A_2"
+       id="path1194"
        d="m 174.14442,257.0505 c -15.4156,-4.17332 -21.01139,-23.81378 -26.69009,-51.56064"
-       style="fill:none;stroke:#3133bf;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;stroke:#3133bf;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
     <path
        transform="matrix(0.58971128,0.35354745,-0.34341918,0.56550913,156.76122,66.58655)"
        d="m 95.59167,192.53456 -2.231615,-4.65747 5.149295,0.3961 z"
@@ -569,9 +596,10 @@
        id="path5466-8-8-8-2"
        style="opacity:1;fill:#3133bf;fill-opacity:1;stroke:#3133bf;stroke-width:0.39228663;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
-       id="C_1_2_3_A_1"
+       id=""
        d="M 120.99163,268.41028 C 119.96262,236.55072 107.77881,211.45409 90.984944,211.52226"
-       style="fill:none;stroke:#d02020;stroke-width:0.72278273;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;stroke:#d02020;stroke-width:0.72278273;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
     <path
        transform="matrix(0.59245622,-0.34892808,0.33251309,0.57198982,13.851066,161.61519)"
        d="m 62.73923,128.8203 -2.231615,-4.65747 5.149295,0.3961 z"
@@ -990,14 +1018,16 @@
        style="opacity:1;fill:#3133bf;fill-opacity:1;stroke:#3133bf;stroke-width:0.39228663;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        transform="matrix(1.738384,0,0,0.59640994,-90.782575,92.073727)"
-       id="R_C_1_3_1_P_1"
+       id="R_C1_P2"
        d="M 150.22692,258.51503 C 103.32848,212.28056 98.186042,181.80947 98.090477,144.98482"
-       style="fill:none;stroke:#3133bf;stroke-width:0.52916676;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;stroke:#3133bf;stroke-width:0.52916676;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
     <path
        transform="matrix(0.22679837,0,0,0.86906525,144.07703,24.008472)"
-       id="R_P_2_A3"
+       id="R_P1_A1"
        d="m 150.55105,219.55528 c -1.03961,-23.2497 16.25179,-35.73283 41.41782,-50.14443"
-       style="fill:none;stroke:#3133bf;stroke-width:0.52916676;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;stroke:#3133bf;stroke-width:0.52916676;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
     <path
        transform="matrix(-0.35354744,0.58971127,-0.56550912,-0.34341919,320.23547,205.97851)"
        d="m 95.59167,192.53456 -2.231615,-4.65747 5.149295,0.3961 z"
@@ -1011,18 +1041,20 @@
        id="C_1_2_1"
        style="opacity:1;fill:none;fill-opacity:1;stroke:#d01f1f;stroke-width:0.44190678;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
-       id="R_P_1_C_1_2_2"
+       id="R_P2_C1"
        d="M 128.42176,239.32555 C 115.47397,239.10943 84.835163,172.09299 73.39249,155.52816"
-       style="fill:none;stroke:#d02020;stroke-width:0.72278273;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;stroke:#d02020;stroke-width:0.72278273;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
     <path
        transform="matrix(-0.48798012,-0.48438681,0.46876152,-0.46690465,20.588707,274.30363)"
        d="m 28.387647,175.70126 -2.231615,-4.65747 5.149294,0.3961 z"
        id="path5466-8-8-8-3-3-0-1"
        style="opacity:1;fill:#d02020;fill-opacity:1;stroke:#d02020;stroke-width:0.39228663;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
-       id="R_C_1_2_1_A_2"
+       id="path1192"
        d="m 173.8658,227.52891 c -8.31516,-0.012 -27.99153,-4.13967 -35.34006,-5.15959"
-       style="fill:none;stroke:#d02020;stroke-width:0.14372633;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;stroke:#d02020;stroke-width:0.14372633;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
     <path
        transform="matrix(0.48798012,0.48438681,-0.46876152,0.46690465,224.33319,130.92289)"
        d="m 28.387647,175.70126 -2.231615,-4.65747 5.149294,0.3961 z"
@@ -1038,19 +1070,32 @@
        d="m 95.59167,192.53456 -2.231615,-4.65747 5.149295,0.3961 z"
        id="path5466-8-8-8-3-4"
        style="opacity:1;fill:#3133bf;fill-opacity:1;stroke:#3133bf;stroke-width:0.39228663;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,0,138.24998)"
-       style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       id="flowRoot409"
-       xml:space="preserve"><flowRegion
-         id="flowRegion411"><rect
-           y="3.4233694"
-           x="308.65381"
-           height="101.03055"
-           width="197.7914"
-           id="rect413" /></flowRegion><flowPara
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';text-anchor:middle;text-align:center"
-         id="flowPara415">  Ecosysteme de      platforme de livraison de repas </flowPara></flowRoot>    <path
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.16694164px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19793385"
+       x="176.85017"
+       y="125.88805"
+       id="text1178"
+       transform="scale(0.87654052,1.1408486)"><tspan
+         sodipodi:role="line"
+         x="122.98124"
+         y="125.88805"
+         id="tspan1172"
+         style="text-align:center;text-anchor:middle;stroke-width:0.19793385"><tspan
+           x="122.43073"
+           y="125.88805"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';text-align:center;text-anchor:middle;stroke-width:0.19793385"
+           id="tspan1166">  Ecosysteme de   platforme de </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="124.14152"
+         y="133.8054"
+         id="tspan1176"
+         style="font-size:2.90302968px;text-align:center;text-anchor:middle;stroke-width:0.19793385"><tspan
+           x="123.63689"
+           y="133.8054"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.90302968px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';text-align:center;text-anchor:middle;stroke-width:0.19793385"
+           id="tspan1174">livraison de repas </tspan></tspan></text>
+    <path
        d="m 72.942591,256.05817 0.410253,-0.62136 0.332983,0.66597 z"
        id="path1244"
        style="opacity:0.1;fill:#f9f9f9;fill-opacity:1;stroke:#27c320;stroke-width:0.96499997;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
