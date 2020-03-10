@@ -384,9 +384,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="424.60294"
-     inkscape:cy="485.75335"
+     inkscape:zoom="4.4297521"
+     inkscape:cx="748.98695"
+     inkscape:cy="180.37015"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -647,9 +647,7 @@
        style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="28.168253"
        y="228.57954"
-       id="text1210"
-       class="doigt"
-       onclick="window.open('https://lov.linkeddata.es/dataset/lov/terms?q=candidate','_blank');"><tspan
+       id="text1210"><tspan
          sodipodi:role="line"
          id="tspan1208"
          x="28.168253"
@@ -670,8 +668,7 @@
        height="35.642643"
        x="150.67934"
        y="148.69482"
-       onclick="window.open('https://lov.linkeddata.es/dataset/lov/terms?q=department','_blank');"
-       class="doigt" />
+       onclick="console.log('toto')" />
     <rect
        style="fill:#ffffff;stroke:#00ff00;stroke-width:0.3265596;stroke-miterlimit:4;stroke-dasharray:none"
        id="P_3_1_1"
@@ -685,9 +682,7 @@
        style="font-style:normal;font-weight:normal;font-size:5.1433382px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12858346"
        x="152.09523"
        y="181.56277"
-       id="text873-85"
-       onclick="window.open('https://lov.linkeddata.es/dataset/lov/terms?q=department','_blank');"
-       class="doigt"><tspan
+       id="text873-85"><tspan
          sodipodi:role="line"
          id="tspan871-7"
          x="152.09523"
@@ -709,9 +704,7 @@
        style="font-style:normal;font-weight:normal;font-size:5.1433382px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12858346"
        x="162.23375"
        y="191.05112"
-       id="text873-66"
-       onclick="window.open('https://lov.linkeddata.es/dataset/lov/terms?q=organisme','_blank');"
-       class="doigt"><tspan
+       id="text873-66"><tspan
          sodipodi:role="line"
          id="tspan871-0"
          x="162.23375"
