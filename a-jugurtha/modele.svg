@@ -14,7 +14,7 @@
    viewBox="0 0 211.66666 158.75"
    height="600"
    width="800"
-   sodipodi:docname="modele1.svg"
+   sodipodi:docname="modele.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -231,7 +231,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
