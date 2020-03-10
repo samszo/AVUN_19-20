@@ -1607,8 +1607,8 @@ HgkeCR4JHgkeCR4JHgkeCR4JHgkeCQRA33Urq95//9k=
        inkscape:path-effect="#path-effect5625"
        inkscape:original-d="m 26.449171,194.47328 c 6.290093,3.53231 12.579921,7.06486 18.869485,10.59765" />
     <image
-       y="249.04427"
-       x="18.851562"
+       y="247.39061"
+       x="12.898437"
        id="image5950"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAYAAAA5ZDbSAAAgAElEQVR42s292ZMkaXIf9vsiI4/I
 +76qqquvmp7enqNntQIJQDwWPESJAAwCARIUqQc+yCT9P3rQgx7wQB0UZZQoM1EyiTADQGIXew12
@@ -1882,15 +1882,17 @@ y+USg8GADQhUC0rWD4O2eDyOdDrNZPd9+OL5fJ4N/7Lso+hGmnndbpdnMXmgSP0aDAYcMLdrBpMe
        height="7.9375005"
        width="11.575521" />
     <ellipse
-       style="fill:#ffffff;fill-opacity:0.14509804;stroke:#000031;stroke-width:0.28793299;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-       id="window.open('https://hdlab.stanford.edu/palladio/','_blank');
+       style="fill:#ffffff;fill-opacity:0.14509804;stroke:#000031;stroke-width:0.33135119;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="D_2
 "
-       cx="23.453642"
-       cy="-253.09665"
-       rx="8.741374"
-       ry="5.4859157"
+       cx="18.492704"
+       cy="-250.94691"
+       rx="8.7196646"
+       ry="7.283217"
        transform="scale(1,-1)"
        onclick="window.open('https://hdlab.stanford.edu/palladio/','_blank');
+"
+       oncklick="window.open('https://hdlab.stanford.edu/palladio/','_blank');
 " />
     <path
        style="fill:none;stroke:#dd8b00;stroke-width:0.48855031;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1905,7 +1907,7 @@ y+USg8GADQhUC0rWD4O2eDyOdDrNZPd9+OL5fJ4N/7Lso+hGmnndbpdnMXmgSP0aDAYcMLdrBpMe
        rx="8.7252893"
        cy="-254.75031"
        cx="187.82603"
-       id="ellipse6019"
+       id="D_1"
        style="fill:#ffffff;fill-opacity:0.14509804;stroke:#000031;stroke-width:0.32010293;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill" />
     <path
        style="fill:none;stroke:#0000f1;stroke-width:0.26583838px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
