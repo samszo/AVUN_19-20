@@ -1026,7 +1026,8 @@
        x="30.0865"
        y="264.53488"
        id="C1_1_1"
-       transform="scale(1.1035877,0.90613548)"><tspan
+       transform="scale(1.1035877,0.90613548)"
+       onclick="window.open('https://intlekt.io/?comments=S%3A.U%3A.T%3A.-','_blank'); "><tspan
          sodipodi:role="line"
          id="tspan10862"
          x="30.0865"
@@ -1038,7 +1039,8 @@
        x="57.339035"
        y="244.21951"
        id="C1_1_2"
-       transform="scale(1.0151669,0.98505971)"><tspan
+       transform="scale(1.0151669,0.98505971)"
+       oncklick="window.open(''https://intlekt.io/?comments=s.x.-'','_blank'); "><tspan
          sodipodi:role="line"
          id="tspan10866"
          x="57.339035"
