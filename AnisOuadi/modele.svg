@@ -50,7 +50,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.3762595"
-     inkscape:cx="359.48522"
+     inkscape:cx="363.16511"
      inkscape:cy="298.81892"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -80,6 +80,12 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-138.24998)">
+    <path
+       style="fill:none;stroke:#d02020;stroke-width:0.48275325;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 121.63732,240.85278 c -5.32295,-37.5968 -4.0405,-44.66661 -12.5518,-60.66914"
+       id="R_C1_P1_A1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.52916667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 58.892567,200.11745 C 83.113773,180.26115 161.11851,183.6571 166.4493,172.39616"
@@ -986,12 +992,6 @@
        inkscape:transform-center-y="-2.4396179"
        transform="matrix(0.59245622,-0.34892808,0.33251309,0.57198982,12.052634,159.92738)" />
     <path
-       style="fill:none;stroke:#d02020;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 121.55034,240.71886 c -1.0429,-16.8495 -13.39115,-30.1223 -30.411669,-30.08625"
-       id="R_C1_P1_A3"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
        sodipodi:type="star"
        style="opacity:1;fill:#d02020;fill-opacity:1;stroke:#d02020;stroke-width:0.39228663;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path5466-8-8-8-3-3"
@@ -1006,9 +1006,9 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 62.73923,128.8203 -2.231615,-4.65747 5.149295,0.3961 z"
-       inkscape:transform-center-x="0.23861401"
-       inkscape:transform-center-y="-2.4396179"
-       transform="matrix(0.59245622,-0.34892808,0.33251309,0.57198982,14.103712,160.62048)" />
+       inkscape:transform-center-x="-2.717318"
+       inkscape:transform-center-y="-1.0757073"
+       transform="matrix(0.57214355,0.38132261,-0.37004944,0.54845302,120.60114,89.343892)" />
     <path
        style="fill:none;stroke:#d02020;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 90.867689,226.56985 c 15.660331,10.17498 20.701701,18.9341 -1.907974,24.00642"
