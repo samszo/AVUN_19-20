@@ -1173,7 +1173,7 @@ cursor:pointer;
        height="8.6401567"
        x="128.97569"
        y="169.93103"
-       onclick="open.window('https://lov.linkeddata.es/dataset/lov/terms?q=themes ');"
+       onclick="window.open('https://lov.linkeddata.es/dataset/lov/terms?q=themes ');"
        class="doigt" />
     <rect
        y="160.13887"
@@ -1182,7 +1182,7 @@ cursor:pointer;
        width="23.161835"
        id="P_1"
        style="opacity:0.41999996;fill:#eb25b9;fill-opacity:0.85795456;stroke:#6509f3;stroke-width:0.2747038;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       onclick="open.window('https://lov.linkeddata.es/dataset/lov/terms?q=Back ');"
+       onclick="window.open('https://lov.linkeddata.es/dataset/lov/terms?q=Back ');"
        class="doigt" />
     <rect
        style="opacity:0.46000001;fill:#34de33;fill-opacity:1;stroke:#6509f3;stroke-width:0.2747038;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -1191,7 +1191,7 @@ cursor:pointer;
        height="8.6401567"
        x="139.62076"
        y="191.53143"
-       onclick="open.window('https://lov.linkeddata.es/dataset/lov/terms?q=Functionality ');"
+       onclick="window.open('https://lov.linkeddata.es/dataset/lov/terms?q=Functionality ');"
        class="doigt" />
     <rect
        style="opacity:0.33000004;fill:#1cdbdb;fill-opacity:1;stroke:#6509f3;stroke-width:0.2747038;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -1200,7 +1200,7 @@ cursor:pointer;
        height="8.6401567"
        x="135.21347"
        y="208.31386"
-       onclick ="open.window(' https://lov.linkeddata.es/dataset/lov/terms?q=user+stories');"
+       onclick ="window.open(' https://lov.linkeddata.es/dataset/lov/terms?q=user+stories');"
        class="doigt" />
     <rect
        style="opacity:0.68000034;fill:#e6cf54;fill-opacity:1;stroke:#6509f3;stroke-width:0.30300742;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -1209,7 +1209,7 @@ cursor:pointer;
        height="8.6087542"
        x="149.92766"
        y="238.49199"
-       onclick="open.window('https://lov.linkeddata.es/dataset/lov/terms?q=Sub%20Task%20Of ');"
+       onclick="window.open('https://lov.linkeddata.es/dataset/lov/terms?q=Sub%20Task%20Of ');"
        class="doigt" />
     <rect
        y="208.60185"
@@ -1218,7 +1218,7 @@ cursor:pointer;
        width="23.161835"
        id="P_4_2"
        style="opacity:0.33000004;fill:#1cdbdb;fill-opacity:1;stroke:#6509f3;stroke-width:0.2747038;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       onclick="open.window(https://lov.linkeddata.es/dataset/lov/terms?q=technical+task+');"
+       onclick="window.open(https://lov.linkeddata.es/dataset/lov/terms?q=technical+task+');"
        class="doigt" />
     <rect
        style="opacity:0.33000004;fill:#1cdbdb;fill-opacity:1;stroke:#6509f3;stroke-width:0.20161687;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -1227,7 +1227,7 @@ cursor:pointer;
        height="7.2812219"
        x="169.53964"
        y="221.23972"
-       onclick="open.window('https://lov.linkeddata.es/dataset/lov/terms?q=spike+');"
+       onclick="window.open('https://lov.linkeddata.es/dataset/lov/terms?q=spike+');"
        class="doigt" />
     <rect
        y="220.41006"
@@ -1236,7 +1236,7 @@ cursor:pointer;
        width="23.161835"
        id="P_4_3"
        style="opacity:0.33000004;fill:#1cdbdb;fill-opacity:1;stroke:#6509f3;stroke-width:0.2747038;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       onclick="open.window('https://lov.linkeddata.es/dataset/lov/terms?q=Bug');"
+       onclick="window.open('https://lov.linkeddata.es/dataset/lov/terms?q=Bug');"
        class="doigt" />
     <rect
        y="249.13248"
@@ -1245,7 +1245,7 @@ cursor:pointer;
        width="23.161835"
        id="P_5_2"
        style="opacity:0.68000034;fill:#e6cf54;fill-opacity:1;stroke:#6509f3;stroke-width:0.2747038;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       onclick="open.window('https://lov.linkeddata.es/dataset/lov/terms?q=anomaly+ ');"
+       onclick=" window.open('https://lov.linkeddata.es/dataset/lov/terms?q=anomaly+ ');"
        class="doigt" />
     <text
        xml:space="preserve"
