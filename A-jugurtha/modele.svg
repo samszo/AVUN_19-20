@@ -17,7 +17,7 @@
    version="1.1"
    id="svg497"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="modele ecosysteme de livraison repas.svg">
+   sodipodi:docname="modele.svg">
   <defs
      id="defs491">
     <inkscape:path-effect
@@ -723,18 +723,22 @@
          x="8.0744219"
          y="175.11465"
          style="stroke-width:0.26458332">             Restaurateurs </tspan></text>
-    <flowRoot
+    <text
        xml:space="preserve"
-       id="flowRoot310"
-       style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,0,138.24998)"><flowRegion
-         id="flowRegion312"><rect
-           id="rect314"
-           width="212.89589"
-           height="47.229465"
-           x="102.45161"
-           y="274.47998" /></flowRegion><flowPara
-         id="flowPara316">      clients / utilisateur </flowPara></flowRoot>    <text
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="27.106873"
+       y="214.61844"
+       id="text382"><tspan
+         sodipodi:role="line"
+         x="27.106873"
+         y="214.61844"
+         id="tspan380"
+         style="stroke-width:0.26458332"><tspan
+           x="27.106873"
+           y="214.61844"
+           id="tspan378"
+           style="stroke-width:0.26458332">      clients / utilisateur </tspan></tspan></text>
+    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.46017885px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25731799"
        x="142.16599"
@@ -746,18 +750,22 @@
          x="142.16599"
          y="173.71587"
          style="stroke-width:0.25731799">Platforme de livraison </tspan></text>
-    <flowRoot
+    <text
        xml:space="preserve"
-       id="flowRoot1148"
-       style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,0,138.24998)"><flowRegion
-         id="flowRegion1150"><rect
-           id="rect1152"
-           width="80.653397"
-           height="23.251429"
-           x="452.67627"
-           y="243.23589" /></flowRegion><flowPara
-         id="flowPara1154">livreures</flowPara></flowRoot>    <text
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="119.77046"
+       y="206.35176"
+       id="text388"><tspan
+         sodipodi:role="line"
+         x="119.77046"
+         y="206.35176"
+         id="tspan386"
+         style="stroke-width:0.26458332"><tspan
+           x="119.77046"
+           y="206.35176"
+           id="tspan384"
+           style="stroke-width:0.26458332">livreures</tspan></tspan></text>
+    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="120.15508"
