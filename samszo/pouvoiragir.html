@@ -263,8 +263,10 @@
                 },
                 records: arrEvent,
                 columns: [                
-                    { field: 'recid', text: 'recid', sortable:true, size: '50%' },
-                    { field: 'event', text: 'event', sortable:true, size: '50%' },
+                    { field: 'recid', text: 'recid', sortable:true, size: '20%' },
+                    { field: 'event', text: 'évenement', sortable:true, size: '20%' },
+                    { field: 'fonction', text: 'fonction', sortable:true, size: '20%' },
+                    { field: 'lien', text: 'lien', sortable:true, size: '40%' },
                 ]
             });    
 
@@ -277,11 +279,14 @@
         let n = d3.select(obj);
         let oc = n.attr('onclick');
         let id = n.attr('id');
+        let f = oc.slice(0,11);
+        let l = oc.slice(13,oc.indexOf("','"));
         if(oc.slice(0,12)=='window.open(' )
-          arrEvent.push({'n':n,'event':oc,'recid':id})
+          arrEvent.push({'n':n,'event':'onclick','fonction':f, 'lien':l,'recid':id})
         //console.log(obj);
       }
     }
+
 
     function setDim(obj){
       if (obj.id.slice(0,2)=='P_' || obj.id.slice(0,2)=='A_' || obj.id.slice(0,2)=='C_' || obj.id.slice(0,2)=='R_') { 
