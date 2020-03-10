@@ -27,6 +27,20 @@ cursor:pointer;
   <defs
      id="defs2">
     <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker1334"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1071"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <marker
        inkscape:isstock="true"
        style="overflow:visible"
        id="marker11929"
@@ -39,22 +53,6 @@ cursor:pointer;
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path11927"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow1Lstart"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker11533"
-       style="overflow:visible"
-       inkscape:isstock="true"
-       inkscape:collect="always">
-      <path
-         id="path11531"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
-         transform="matrix(0.8,0,0,0.8,10,0)"
          inkscape:connector-curvature="0" />
     </marker>
     <marker
@@ -535,7 +533,7 @@ cursor:pointer;
       <path
          id="path3884"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         style="fill:#6509f3;fill-opacity:1;fill-rule:evenodd;stroke:#6509f3;stroke-width:1.00000003pt;stroke-opacity:1"
          transform="matrix(-0.8,0,0,-0.8,-10,0)"
          inkscape:connector-curvature="0" />
     </marker>
@@ -598,7 +596,7 @@ cursor:pointer;
       <path
          id="path828"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         style="fill:#6509f3;fill-opacity:1;fill-rule:evenodd;stroke:#6509f3;stroke-width:1.00000003pt;stroke-opacity:1"
          transform="matrix(0.8,0,0,0.8,10,0)"
          inkscape:connector-curvature="0" />
     </marker>
@@ -745,6 +743,96 @@ cursor:pointer;
          transform="matrix(0.8,0,0,0.8,10,0)"
          inkscape:connector-curvature="0" />
     </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1334-5"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1071-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1334-5-5"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1071-0-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1334-5-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1071-0-3"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1334-5-56"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1071-0-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1334-5-4"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1071-0-65"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1334-5-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1071-0-1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -755,7 +843,7 @@ cursor:pointer;
      inkscape:pageshadow="2"
      inkscape:zoom="1.01"
      inkscape:cx="418.21062"
-     inkscape:cy="272.76217"
+     inkscape:cy="350.71732"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -812,7 +900,9 @@ cursor:pointer;
        x="89.886192"
        y="143.2946"
        id="text1739"
-       transform="scale(0.90129856,1.1095103)"><tspan
+       transform="scale(0.90129856,1.1095103)"
+       onclick="window.open('https://www.boutique.afnor.org/extraits/FA092756.pdf ');"
+       class="doigt"><tspan
          sodipodi:role="line"
          id="tspan1737"
          x="89.886192"
@@ -874,7 +964,10 @@ cursor:pointer;
        x="86.201668"
        y="160.68709"
        id="text1782"
-       transform="scale(0.85568651,1.1686523)"><tspan
+       transform="scale(0.85568651,1.1686523)"
+       onclick="window.open('http://www.first100days.eu/Article_F100D_NiveauxManagement.pdf');
+"
+       class="doigt"><tspan
          sodipodi:role="line"
          id="tspan1780"
          x="86.201668"
@@ -887,7 +980,7 @@ cursor:pointer;
        cy="228.39732"
        rx="35.340775"
        ry="25.135416"
-       transform="matrix(1.3071591,0,0,1.7983075,-96.279421,-161.88416)" />
+       transform="matrix(1.3071591,0,0,1.7983075,-97.851203,-162.40809)" />
     <image
        y="203.98766"
        x="60.086777"
@@ -905,7 +998,9 @@ cursor:pointer;
        x="84.175468"
        y="197.28697"
        id="text3297"
-       transform="scale(0.90129856,1.1095103)"><tspan
+       transform="scale(0.90129856,1.1095103)"
+       onclick="window.open('https://lov.linkeddata.es/dataset/lov/terms?q=Product+owner ');"
+       class="doigt"><tspan
          sodipodi:role="line"
          id="tspan3295"
          x="84.175468"
@@ -919,14 +1014,19 @@ cursor:pointer;
        style="image-rendering:optimizeSpeed"
        preserveAspectRatio="none"
        height="18.547541"
-       width="12.914477" />
+       width="12.914477"
+       onclick="window.open('https://savoiragile.com/2017/09/21/scrum-master-2/');"
+       class="doigt" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.39182806px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.18170509"
        x="98.192719"
        y="222.20654"
        id="text3312"
-       transform="scale(0.90129856,1.1095103)"><tspan
+       transform="scale(0.90129856,1.1095103)"
+       onclick="window.open(' https://blog.myagilepartner.fr/index.php/2018/05/27/role-de-scrum-master/');
+"
+       class="doigt"><tspan
          sodipodi:role="line"
          id="tspan3310"
          x="98.192719"
@@ -972,14 +1072,16 @@ cursor:pointer;
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.39182806px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.18170509"
-       x="77.426422"
-       y="253.87515"
+       x="75.391861"
+       y="256.00012"
        id="text3357"
-       transform="scale(0.90129856,1.1095103)"><tspan
+       transform="scale(0.90129854,1.1095103)"
+       onclick="window.open('https://blog.myagilepartner.fr/index.php/2019/08/02/lequipe-de-developpement-en-scrum/')"
+       class="doigt"><tspan
          sodipodi:role="line"
          id="tspan3355"
-         x="77.426422"
-         y="253.87515"
+         x="75.391861"
+         y="256.00012"
          style="font-size:4.845469px;stroke-width:0.18170509">Dev Team</tspan></text>
     <image
        y="148.75618"
@@ -1005,7 +1107,7 @@ cursor:pointer;
     <path
        style="fill:none;stroke:#000000;stroke-width:0.40883467;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker4268);marker-end:url(#marker4192)"
        d="m 65.479613,157.22727 c 0.420896,17.05537 0.420896,17.05537 0.420896,17.05537"
-       id="path4182"
+       id="path1516"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
@@ -1022,7 +1124,7 @@ cursor:pointer;
     <path
        style="fill:none;stroke:#6509f3;stroke-width:0.52537096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#marker3886)"
        d="m 12.230678,168.77901 38.216491,12.51443 3.465811,1.13493 5.811153,1.90293"
-       id="path4782"
+       id="R_C1_A2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
     <path
@@ -1038,7 +1140,7 @@ cursor:pointer;
     <path
        style="fill:none;stroke:#4c079e;stroke-width:0.36891258;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker5822);marker-end:url(#marker5946)"
        d="m 10.102686,172.50652 29.147878,20.50465 20.028024,14.0891"
-       id="path5812"
+       id="path1518"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
     <flowRoot
@@ -1083,7 +1185,7 @@ cursor:pointer;
     <path
        style="fill:none;stroke:#000000;stroke-width:0.31934315;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker6602);marker-end:url(#marker6738)"
        d="m 67.678701,224.1373 c 9.592273,5.63754 9.592273,5.63754 9.592273,5.63754"
-       id="path6590"
+       id="path1508"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.18170509px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1101,7 +1203,7 @@ cursor:pointer;
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26480076;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker7228);marker-mid:url(#DotL);marker-end:url(#marker7388)"
        d="m 117.17262,226.69643 c -4.40958,10.07905 -8.81931,20.15841 -8.81917,25.19826 1.3e-4,5.03984 4.40971,5.03984 8.81917,5.03984"
-       id="path6908"
+       id="R_A3"
        inkscape:connector-curvature="0"
        inkscape:path-effect="#path-effect6910"
        inkscape:original-d="m 117.17262,226.69643 c -4.40946,10.0791 -8.81918,20.15847 -13.22917,30.2381 4.41013,-2.7e-4 8.81971,-2.7e-4 13.22917,0"
@@ -1117,7 +1219,7 @@ cursor:pointer;
     <path
        style="fill:none;stroke:#000000;stroke-width:0.18170509px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker6926);marker-end:url(#marker7074)"
        d="m 85.225542,266.12478 c 7.954569,0 7.954569,0 7.954569,0"
-       id="path6916"
+       id="path1506"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.18170509px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1137,7 +1239,7 @@ cursor:pointer;
     <path
        style="fill:none;stroke:#000000;stroke-width:0.2747038;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker8646);marker-end:url(#marker8238)"
        d="m 65.105164,189.51539 c 0,14.68826 0,14.68826 0,14.68826"
-       id="path9242"
+       id="path1510"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.18170509px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1423,15 +1525,9 @@ cursor:pointer;
          y="228.95558"
          style="stroke-width:0.18170509">anomalies</tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.46401826;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker11533)"
-       d="m 137.85867,198.36827 -34.37149,-6.29127 2.89444,0.78642"
-       id="path9558"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.31316227;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker10016)"
-       d="m 97.685663,182.81393 c 29.519017,-17.44409 29.519017,-17.44409 29.519017,-17.44409 v 0.5286"
-       id="path10228"
+       style="fill:none;stroke:#000000;stroke-width:0.27309731;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker10016)"
+       d="m 97.629314,179.70966 c 27.245796,-14.37297 27.245796,-14.37297 27.245796,-14.37297 v 0.43553"
+       id="R_P1_C1_A1-1"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.18170509px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1441,22 +1537,12 @@ cursor:pointer;
     <path
        style="fill:none;stroke:#000000;stroke-width:0.34063265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker10016-7)"
        d="m 102.56494,185.30917 c 25.62009,-11.75391 25.62009,-11.75391 25.62009,-11.75391 v 0.35618"
-       id="path10228-2"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.80144829;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker9570)"
-       d="m 114.67502,213.87667 c 7.65053,-0.35236 7.65053,-0.35236 7.65053,-0.35236"
-       id="path11917"
+       id="R_P1_C1_A1-2"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.18170509px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 100.43281,221.19597 Z"
        id="path11919"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.80144829;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker9570-4)"
-       d="m 129.74247,245.05074 c 7.65052,-0.35235 7.65052,-0.35235 7.65052,-0.35235"
-       id="path11917-4"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.18170509px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1498,7 +1584,9 @@ cursor:pointer;
        preserveAspectRatio="none"
        height="23.587631"
        width="19.324923"
-       style="opacity:0.48399999;fill:none" />
+       style="opacity:0.48399999;fill:none"
+       onclick="window.open('https://lov.linkeddata.es/dataset/lov/terms?q=top+management');"
+       class="doigt" />
     <image
        y="171.38547"
        x="56.261559"
@@ -1507,7 +1595,10 @@ cursor:pointer;
        preserveAspectRatio="none"
        height="21.859598"
        width="18.155132"
-       style="opacity:0.48399999;fill:none" />
+       style="opacity:0.48399999;fill:none"
+       onclick="window.open(' https://lov.linkeddata.es/dataset/lov/terms?q=Product+manager');
+"
+       class="doigt" />
     <image
        y="141.50795"
        x="0.77561414"
@@ -1516,7 +1607,9 @@ cursor:pointer;
        preserveAspectRatio="none"
        height="37.699886"
        width="15.703532"
-       style="opacity:0.48399999;fill:none" />
+       style="opacity:0.48399999;fill:none"
+       onclick="window.open('https://fr.wikipedia.org/wiki/Client_(%C3%A9conomie)');"
+       class="doigt" />
     <ellipse
        style="fill:none;stroke:#00b231;stroke-width:0.30032644;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="C_1"
@@ -1532,7 +1625,9 @@ cursor:pointer;
        cy="-171.22704"
        rx="13.211643"
        ry="5.1115012"
-       transform="scale(1,-1)" />
+       transform="scale(1,-1)"
+       onclick="window.open('https://blog.myagilepartner.fr/index.php/2018/07/23/le-product-vision-board/');"
+       class="doigt" />
     <ellipse
        style="fill:#ffffff;fill-opacity:0.14509804;stroke:#000031;stroke-width:0.33728421;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
        id="C_1_1"
@@ -1540,7 +1635,9 @@ cursor:pointer;
        cy="-165.75497"
        rx="14.500397"
        ry="4.5379343"
-       transform="scale(1,-1)" />
+       transform="scale(1,-1)"
+       onclick="windows.open('https://status.net/templates/scrum-status-report-template-free-download/');"
+       class="doigt" />
     <ellipse
        style="fill:#ffffff;fill-opacity:0.14509804;stroke:#000031;stroke-width:0.35633236;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
        id="C_1_3"
@@ -1548,7 +1645,9 @@ cursor:pointer;
        cy="-205.93169"
        rx="10.982443"
        ry="6.6874061"
-       transform="scale(1,-1)" />
+       transform="scale(1,-1)"
+       onclick="window.open('https://blog.thiga.co/glossaire/definition-user-story/');"
+       class="doigt" />
     <image
        y="255.19496"
        x="47.254173"
@@ -1594,6 +1693,52 @@ cursor:pointer;
        preserveAspectRatio="none"
        height="21.8596"
        width="18.155132"
-       style="opacity:0.48399999;fill:none" />
+       style="opacity:0.48399999;fill:none"
+       onclick="window.open(' https://lov.linkeddata.es/dataset/lov/terms?q=Product+owner');"
+       class="doigt" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker1334)"
+       d="m 105.83333,192.4765 c 30.38779,3.66749 30.38779,3.66749 30.38779,3.66749 v 0"
+       id="R_P1_C1_A1-3"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:0.48399999;fill:#e6cf54;fill-opacity:1;stroke:#6509f3;stroke-width:2.13543296;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1336"
+       width="0"
+       height="0"
+       x="0"
+       y="0"
+       transform="matrix(0.26458333,0,0,0.26458333,0,138.25001)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.56500006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker1334-5)"
+       d="m 102.16948,206.58476 c 30.38779,3.66749 30.38779,3.66749 30.38779,3.66749 v 0"
+       id="R_P1_C1_A1-4"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.56500006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker1334-5-5)"
+       d="m 114.74373,240.11612 c 30.38779,3.66749 30.38779,3.66749 30.38779,3.66749 v 0"
+       id="R_P1_C1_A1-8"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.56500006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker1334-5-2)"
+       d="m 101.64554,212.60993 c 30.38779,3.66749 30.38779,3.66749 30.38779,3.66749 v 0"
+       id="R_P1_C1_A1-5"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.56500006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker1334-5-56)"
+       d="m 100.85966,219.15902 4.58624,0.55351 25.80155,3.11398 v 0"
+       id="R_P1_C1_A1-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.56500006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker1334-5-4)"
+       d="m 101.12162,225.70811 c 30.38779,3.66749 30.38779,3.66749 30.38779,3.66749 v 0"
+       id="R_P1_C1_A1-7"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.56500006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker1334-5-3)"
+       d="m 115.26766,249.02288 c 30.38779,3.66749 30.38779,3.66749 30.38779,3.66749 v 0"
+       id="R_P1_C1_A1-9"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
