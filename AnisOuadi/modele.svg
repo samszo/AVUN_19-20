@@ -50,10 +50,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.3762595"
-     inkscape:cx="289.5313"
+     inkscape:cx="423.88334"
      inkscape:cy="298.81892"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g970"
      showgrid="false"
      units="px"
      inkscape:snap-grids="true"
@@ -160,10 +160,10 @@
     <g
        id="R_C1_P1_A4">
       <path
-         sodipodi:nodetypes="cc"
+         sodipodi:nodetypes="csssc"
          inkscape:connector-curvature="0"
          id="R_C1_A4_P1"
-         d="M 54.790719,269.31625 C 35.99667,197.55964 13.875025,198.25832 23.646521,184.53481"
+         d="M 54.790719,269.31625 C 43.815226,227.41127 31.704884,210.21657 25.4744,200.42925 c -2.262559,-3.55419 -3.749722,-6.13156 -4.125565,-8.5607 -0.272,-1.75798 0.03805,-3.43833 1.057488,-5.35512 0.335197,-0.63026 0.747087,-1.28607 1.240198,-1.97862"
          style="fill:none;stroke:#00dc58;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          transform="matrix(0.03879184,-0.80897247,0.6815997,0.1279373,-110.40324,249.1122)"
