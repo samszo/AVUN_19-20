@@ -29,8 +29,8 @@
      id="namedview364"
      showgrid="false"
      inkscape:zoom="2.7204611"
-     inkscape:cx="181.67442"
-     inkscape:cy="193.4529"
+     inkscape:cx="114.95779"
+     inkscape:cy="222.85968"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
@@ -1875,26 +1875,32 @@
      height="24.3549"
      width="19.6591" />
   <path
-     style="fill:none;stroke:#1bb323;stroke-width:1.00156999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#marker3467);marker-end:url(#marker4455)"
-     d="m 70.483348,83.510539 c -9.419073,9.680673 -0.702564,-1.010753 -21.78124,20.329521 -6.222157,7.50719 -13.788445,13.25666 -18.09866,23.26407"
-     id="path376"
-     onclick=" window.open('https://fr.wiktionary.org/wiki/enregistrer','_blank');"
-     class="doigt"
-     inkscape:connector-curvature="0" />
-  <path
      style="fill:none;stroke:#ff3453;stroke-width:1.00156999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#marker3779-3);marker-end:url(#marker3779-3)"
      d="M 51.013725,134.75432 78.029948,116.69776 140.97981,61.747531"
      id="R_P2_A1_C5"
      onclick="window.open('https://intlekt.io/?comments=wa.c.s.-','_blank');"
      class="doigt"
      inkscape:connector-curvature="0" />
-  <path
-     style="fill:none;stroke:#1bb323;stroke-width:1.00156999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#marker5355);marker-end:url(#marker5355)"
-     d="M 82.250077,41.562942 C 94.435067,19.386262 115.6086,9.578627 137.28141,7.334811 c 31.15071,-3.225075 64.23686,7.187091 76.64962,11.251396"
-     id="R_P1_P2"
-     onclick="window.open('https://intlekt.io/?comments=f.e.-f.i.-%27','_blank');"
-     class="doigt"
-     inkscape:connector-curvature="0" />
+  <g
+     id="R_P3_A1_C5"
+     onclick=" window.open('https://fr.wiktionary.org/wiki/enregistrer','_blank');"
+     class="doigt">
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       class="doigt"
+       onclick=" window.open('https://fr.wiktionary.org/wiki/enregistrer','_blank');"
+       id="path376"
+       d="M 66.807501,84.245708 C 54.235142,98.953103 63.709502,114.07901 38.690313,125.63379"
+       style="fill:none;stroke:#1bb323;stroke-width:1.00199997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       class="doigt"
+       onclick="window.open('https://intlekt.io/?comments=f.e.-f.i.-%27','_blank');"
+       id="R_P1_P2"
+       d="M 82.250077,41.562942 C 94.435067,19.386262 115.6086,9.578627 137.28141,7.334811 c 31.15071,-3.225075 64.23686,7.187091 76.64962,11.251396"
+       style="fill:none;stroke:#1bb323;stroke-width:1.00156999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#marker5355);marker-end:url(#marker5355)" />
+  </g>
   <path
      style="fill:none;stroke:#3a53ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.99607801;marker-end:url(#marker6291)"
      d="m 143.57893,78.630082 -30.6479,23.111298 -2.15517,5.17242"
@@ -1903,16 +1909,9 @@
      class="doigt"
      inkscape:connector-curvature="0" />
   <path
-     style="fill:none;stroke:#d5d1d2;stroke-width:1.00156999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7215)"
-     d="m 124.68077,41.512016 15.9744,-0.94305"
-     id="path7205"
-     onclick="window.open('https://intlekt.io/?comments=t.-x.-s.y.-%27wa.e.-b.-%27%2CA%3A.-%27%2C_','_blank');"
-     class="doigt"
-     inkscape:connector-curvature="0" />
-  <path
      style="fill:none;stroke:#ffa59f;stroke-width:1.00156999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#marker9131);marker-end:url(#marker7629)"
      d="M 81.418577,136.01076 62.060427,119.29856 36.514168,102.33885"
-     id="path372"
+     id="R_A1_P1_C5"
      onclick="window.open('https://dictionary.cambridge.org/fr/dictionnaire/anglais/subscribe','_blank');"
      class="doigt"
      inkscape:connector-curvature="0" />
@@ -2031,7 +2030,7 @@
   <path
      style="fill:none;stroke:#98e0ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-mid:url(#marker7983);marker-end:url(#marker8743)"
      d="M 155.12076,114.68644 C 139.46284,104.38596 125.39203,98.896201 111.15397,95.975793 90.180464,91.673861 68.84404,92.94716 41.537076,92.631356"
-     id="path366"
+     id="R_A1_C4_P1"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="csc"
      onclick="window.open('https://dictionary.cambridge.org/fr/dictionnaire/anglais/subscribe','_blank');"
@@ -2039,7 +2038,7 @@
   <path
      style="fill:none;stroke:#ff3353;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.96078431;marker-mid:url(#marker9927);marker-end:url(#marker9927)"
      d="M 47.418432,131.59534 C 61.806379,116.41998 81.034152,101.54716 97.040821,85.272073 105.17828,76.998158 110.57517,67.544082 117.9947,59.181145"
-     id="R_A1_P1_C4"
+     id="path366"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="csc"
      onclick="window.open('https://intlekt.io/?comments=l.e.-s.i.-%27','_blank');"
