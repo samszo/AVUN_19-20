@@ -30,7 +30,7 @@
      showgrid="false"
      inkscape:zoom="2.7204611"
      inkscape:cx="181.67442"
-     inkscape:cy="208.15629"
+     inkscape:cy="193.4529"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
@@ -1050,14 +1050,14 @@
      inkscape:connector-curvature="0" />
   <ellipse
      style="fill:none;fill-opacity:1;stroke:#ffa59f;stroke-width:0.43777099;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-     id="C_3_1"
+     id="ellipse366"
      cx="99.234062"
      cy="161.06137"
      rx="27.190353"
      ry="8.0260801" />
   <ellipse
      style="fill:none;fill-opacity:1;stroke:#ffa59f;stroke-width:0.33362299;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-     id="C_3_1_1"
+     id="C_3_1"
      cx="76.335861"
      cy="184.53653"
      rx="15.71139"
@@ -1359,14 +1359,14 @@
      id="path5064" />
   <ellipse
      style="fill:none;fill-opacity:1;stroke:#ffa59f;stroke-width:0.37191701;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-     id="C_3_1_2"
+     id="C_3_2"
      cx="97.93103"
      cy="203.3793"
      rx="19.571554"
      ry="8.0480328" />
   <ellipse
      style="fill:none;fill-opacity:1;stroke:#ffa59f;stroke-width:0.34687099;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-     id="C_3_1_3"
+     id="C_3_3"
      cx="119.24138"
      cy="185.58621"
      rx="16.997869"
