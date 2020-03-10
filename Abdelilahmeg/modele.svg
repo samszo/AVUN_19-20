@@ -1191,7 +1191,7 @@
        inkscape:path-effect="#path-effect2124"
        inkscape:original-d="m 101.94037,181.56476 c 0.0983,4.02574 0.19643,8.05167 0.29433,12.07778" />
     <g
-       onclick="window.open('https://hexadrone.fr','_blank');"
+       onclick=""
        transform="matrix(0.9206214,0,0,-0.85340126,-3.0407928,355.43873)"
        inkscape:label="Clip"
        id="A_2">
@@ -1227,7 +1227,7 @@
          y="209.33768"
          style="font-size:4.26067257px;stroke-width:0.19971901">Clients</tspan></text>
     <g
-       onclick="window.open('https://hexadrone.fr','_blank');"
+       onclick=""
        transform="matrix(0.89916771,0,0,-0.82767214,53.198191,356.55278)"
        inkscape:label="Clip"
        id="A_3">
