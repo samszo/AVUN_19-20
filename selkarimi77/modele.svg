@@ -842,7 +842,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1162,10 +1162,9 @@
          style="font-size:5.33333px;line-height:0;text-align:start;letter-spacing:-0.04px;word-spacing:-0.03px;text-anchor:start"
          id="tspan1542">privés</tspan></tspan></text>
   <path
-     style="vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#006998;stroke-width:0.586963;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#006998;stroke-width:0.33006713;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="A_1_2"
-     transform="matrix(0.57504672,0,0,0.54989526,191.06146,75.116055)"
-     d="m 63.570549,119.99996 c -0.349657,0.58579 -29.083221,16.66045 -29.765081,16.6497 C 33.123607,136.63892 4.8938431,119.7332 4.5630578,119.13756 4.2322725,118.54192 4.6481374,85.639761 4.9967764,85.05397 5.3454154,84.468179 34.052658,68.442194 34.734159,68.453275 c 0.681502,0.01108 28.971556,16.857757 29.30366,17.452699 0.332104,0.594943 -0.117614,33.508196 -0.46727,34.093986 z"
+     d="m 227.6175,141.10346 c -0.20107,0.32213 -16.72422,9.16151 -17.11632,9.1556 -0.3921,-0.006 -16.62553,-9.30229 -16.81575,-9.62983 -0.19022,-0.32754 0.0489,-18.42028 0.24941,-18.7424 0.20048,-0.32212 16.70849,-9.13474 17.10038,-9.12864 0.3919,0.006 16.66,9.27 16.85098,9.59715 0.19097,0.32716 -0.0676,18.426 -0.2687,18.74812 z"
      inkscape:connector-curvature="0" />
   <path
      style="vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#006998;stroke-width:0.586963;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
