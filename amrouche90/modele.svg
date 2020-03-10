@@ -1368,7 +1368,7 @@
      inkscape:cx="351.68032"
      inkscape:cy="193.33158"
      inkscape:document-units="mm"
-     inkscape:current-layer="A_2"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:window-width="1360"
@@ -1394,7 +1394,8 @@
      id="layer1"
      transform="translate(0,-138.24992)">
     <g
-       id="P_1">
+       id="P_1"
+       onclick="window.open('https://www.coheris.com/solution-bi/quest-ce-que-la-business-intelligence/','_blank');">
       <rect
          y="140.59756"
          x="47.278633"
@@ -1460,7 +1461,8 @@
        d="m 120.6824,257.31243 -10.4544,8.92812 -12.959185,-4.58971 -2.504785,-13.51783 10.4544,-8.92813 12.95918,4.58971 z"
        transform="matrix(0.4416248,0.37429181,-0.37429181,0.4416248,166.6986,59.181828)" />
     <g
-       id="A_3_2">
+       id="A_3_2"
+       onclick="window.open('https://www.journaldunet.fr/web-tech/dictionnaire-du-webmastering/1203633-sgbd-systeme-de-gestion-de-base-de-donnees-definition-traduction-et-acteurs/','_blank');">
       <path
          transform="matrix(0.4416248,0.37429181,-0.37429181,0.4416248,166.74276,41.718519)"
          d="m 120.6824,257.31243 -10.4544,8.92812 -12.959185,-4.58971 -2.504785,-13.51783 10.4544,-8.92813 12.95918,4.58971 z"
@@ -1500,7 +1502,8 @@
          y="190.90028" />
     </g>
     <g
-       id="A_3_1">
+       id="A_3_1"
+       onclick="window.open('https://www.choisirmoncrm.com/crm/definition-d-un-crm','_blank');">
       <path
          transform="matrix(0.4416248,0.37429181,-0.37429181,0.4416248,146.33001,42.184981)"
          d="m 120.6824,257.31243 -10.4544,8.92812 -12.959185,-4.58971 -2.504785,-13.51783 10.4544,-8.92813 12.95918,4.58971 z"
@@ -1540,7 +1543,8 @@
          y="192.05783" />
     </g>
     <g
-       id="A_3_3">
+       id="A_3_3"
+       onclick="window.open('https://www.google.com/search?q=erp+logiciel&amp;rlz=1C1CHBF_frFR771FR771&amp;sxsrf=ALeKk02FAgVP3geGSTuOohVHWN9wJwhaBA:1583845273499&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=2ahUKEwiAuZ-3-4_oAhVERBoKHZauBC0Q_AUoAnoECBAQBA&amp;biw=1360&amp;bih=657#imgrc=pj-4IhsUSfFN-M','_blank');">
       <path
          transform="matrix(0.4416248,0.37429181,-0.37429181,0.4416248,146.87787,59.773145)"
          d="m 120.6824,257.31243 -10.4544,8.92812 -12.959185,-4.58971 -2.504785,-13.51783 10.4544,-8.92813 12.95918,4.58971 z"
@@ -1580,7 +1584,8 @@
          y="210.27782" />
     </g>
     <g
-       id="A_3_4">
+       id="A_3_4"
+       onclick="window.open('https://www.petite-entreprise.net/P-1421-89-G1-qu-est-ce-qu-un-erp.html','_blank');">
       <text
          transform="scale(0.62372549,1.6032694)"
          id="text6301"
@@ -1603,49 +1608,48 @@
          x="115.13688"
          y="209.26146" />
     </g>
-    <g
-       id="A_1">
-      <path
-         transform="matrix(0.50212617,0.27038014,-0.25116259,0.54054605,49.942293,108.45876)"
-         d="m 91.524235,218.43487 -28.058152,14.04032 -26.188351,-17.27891 1.869801,-31.31923 28.058152,-14.04032 26.188351,17.27891 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="true"
-         sodipodi:arg2="1.1068281"
-         sodipodi:arg1="0.58322937"
-         sodipodi:r2="27.171543"
-         sodipodi:r1="31.374998"
-         sodipodi:cy="201.15596"
-         sodipodi:cx="65.335884"
-         sodipodi:sides="6"
-         id="path6138-4-3"
-         style="opacity:0.96600001;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#010000;stroke-width:1.31325543;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
-         sodipodi:type="star" />
-      <text
-         transform="scale(0.5978675,1.6726114)"
-         id="text6409"
-         y="137.79652"
+    <path
+       sodipodi:type="star"
+       style="opacity:0.96600001;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#010000;stroke-width:1.31325543;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path6138-4-3"
+       sodipodi:sides="6"
+       sodipodi:cx="65.335884"
+       sodipodi:cy="201.15596"
+       sodipodi:r1="31.374998"
+       sodipodi:r2="27.171543"
+       sodipodi:arg1="0.58322937"
+       sodipodi:arg2="1.1068281"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 91.524235,218.43487 -28.058152,14.04032 -26.188351,-17.27891 1.869801,-31.31923 28.058152,-14.04032 26.188351,17.27891 z"
+       transform="matrix(0.50212617,0.27038014,-0.25116259,0.54054605,49.942293,108.45876)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.28113174px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0.42397642px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="35.542473"
+       y="137.79652"
+       id="text6409"
+       transform="scale(0.5978675,1.6726114)"
+       onclick="window.open('https://www.asi.fr/carrieres/fiches-metier/consultant-decisionnel-hf','_blank');"><tspan
+         sodipodi:role="line"
          x="35.542473"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.28113174px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0.42397642px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           id="tspan6411"
-           style="fill:#0000ff;stroke-width:0.26458332"
-           y="137.79652"
-           x="35.542473"
-           sodipodi:role="line">Consultant</tspan><tspan
-           id="tspan6415"
-           style="fill:#0000ff;stroke-width:0.26458332"
-           y="145.64793"
-           x="35.542473"
-           sodipodi:role="line">Décisionnel</tspan></text>
-    </g>
+         y="137.79652"
+         style="fill:#0000ff;stroke-width:0.26458332"
+         id="tspan6411">Consultant</tspan><tspan
+         sodipodi:role="line"
+         x="35.542473"
+         y="145.64793"
+         style="fill:#0000ff;stroke-width:0.26458332"
+         id="tspan6415">Décisionnel</tspan></text>
     <path
        id="C_0"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#df1fa5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.96499997;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="m 136.12916,205.56571 c -0.0143,0.0222 -0.0272,0.0433 -0.0429,0.0655 0.019,0.0893 0.0344,0.17605 -0.0377,0.2015 -0.034,0.012 -0.0732,0.0151 -0.11317,0.0169 -0.0234,0.0241 -0.0515,0.0398 -0.0811,0.0526 -0.004,0.004 -0.008,0.008 -0.0119,0.0119 0.0697,-0.005 0.13598,-0.006 0.18913,0.005 0.073,0.0159 -0.12302,0.30851 0.13023,0.0903 0.003,-1.6e-4 0.006,-2e-5 0.009,-5.1e-4 0.50509,-0.0279 0.64962,0.28713 0.55707,0.57227 2.06413,0.2726 4.10008,0.58226 6.10092,0.9316 -0.009,-0.10026 -0.02,-0.20013 -0.0295,-0.30028 -0.0802,-0.1752 -0.0694,-0.38005 -0.10646,-0.56928 0.0294,-0.0981 0.0131,-0.0447 0.0279,-0.0953 -2.16022,-0.37252 -4.35999,-0.69931 -6.59185,-0.98272 z m -0.19379,0.2839 c 0.0259,-0.0266 0.0461,-0.0632 0.0631,-0.10522 -0.0295,0.0361 -0.0584,0.0695 -0.0899,0.10323 0.009,-1e-5 0.0184,0.002 0.0269,0.002 z m -0.007,-0.25908 c -0.0272,0.002 -0.058,0.007 -0.093,0.0159 0.0187,0.0219 0.0536,0.009 0.093,-0.0159 z m -52.517723,1.95502 c -3.270944,0.68958 -6.4383,1.48473 -9.497095,2.37046 0.04451,0.23898 -0.05129,0.51882 -0.190687,0.7152 0.04674,0.0541 0.141184,0.16152 0.214973,0.24717 3.017198,-0.88168 6.145496,-1.67331 9.376688,-2.36201 0.01929,-0.16573 0.03921,-0.3314 0.0584,-0.49782 0.01894,-0.15762 0.02973,-0.31527 0.03772,-0.473 z m -10.142016,3.3919 c -0.04225,0.013 -0.08331,0.0277 -0.125574,0.0407 0.0478,0.0315 0.09608,0.0624 0.144692,0.0928 0.01469,-0.004 0.02923,-0.009 0.04393,-0.0134 -0.0213,-0.0438 -0.0429,-0.0891 -0.06304,-0.12011 z m -0.669211,0.17619 c -0.01064,0.0137 -0.02183,0.0252 -0.02687,0.0347 -0.01773,0.0337 -0.03081,0.0703 -0.04444,0.10672 0.0096,-2.6e-4 0.01947,7.6e-4 0.02894,-10e-4 0.05368,-0.009 0.06119,-0.0818 0.06821,-0.13996 -0.0082,8e-5 -0.01701,-1e-5 -0.02582,-5.1e-4 z m -13.674101,4.32945 c -0.02241,1.4e-4 -0.04477,0.002 -0.06718,0.002 -1.425488,0.65116 -2.812836,1.32489 -4.152717,2.02401 -3.699931,1.93056 -7.066928,4.04119 -10.058818,6.30235 0.0241,0.0428 0.02668,0.1568 0.02326,0.29135 0.158094,0.14154 0.278468,0.33983 0.411345,0.55985 2.981438,-2.26936 6.354035,-4.39331 10.083104,-6.33907 1.90832,-0.99573 3.912782,-1.94188 5.996016,-2.84048 H 60.49577 c -0.170794,0.0376 -0.350811,0.0205 -0.532783,0 h -0.08526 z m 138.720731,19.79547 c -0.0263,0.0118 -0.0597,0.0191 -0.0915,0.0273 -0.18084,0.32419 -0.44793,0.43314 -0.76274,0.41393 2.78698,4.37829 4.29844,9.04798 4.29844,13.88968 0,12.14622 -9.45402,23.22029 -24.90804,31.28393 -15.45401,8.06364 -36.85869,13.07124 -60.50793,13.07124 -23.649238,0 -45.055987,-5.0076 -60.510003,-13.07124 -15.243939,-7.95403 -24.64744,-18.83708 -24.900286,-30.78909 -0.06824,0.0387 -0.16477,0.0381 -0.303342,-0.0273 -0.139208,-0.0657 -0.286827,-0.11686 -0.417545,-0.19705 -0.02254,-0.0138 -0.05349,-0.0338 -0.0832,-0.0546 -0.05865,0.0363 -0.100509,0.0648 -0.161745,0.10224 0.163121,12.47954 9.904066,23.69048 25.407234,31.77975 15.634933,8.15804 37.177987,13.18391 60.968887,13.18391 23.7909,0 45.33396,-5.02587 60.96889,-13.18391 15.63494,-8.15802 25.41188,-19.49067 25.41188,-32.0979 0,-5.01938 -1.5561,-9.83532 -4.40903,-14.33091 z m -164.004975,1.96992 c -0.0346,0.0529 -0.06811,0.10634 -0.105937,0.15783 0.0024,0.006 0.0038,0.0135 0.0062,0.0198 0.03267,-0.0593 0.06632,-0.1185 0.09974,-0.17769 z m -1.788522,3.18889 c -5.3e-4,2.5e-4 -5.3e-4,7.6e-4 -0.0011,0.001 -0.0094,0.004 0.0223,0.0647 0.06408,0.13996 0.01511,-0.003 0.03033,-0.006 0.04548,-0.009 -0.02442,-0.0413 -0.05135,-0.0807 -0.08578,-0.11465 -0.01214,-0.0119 -0.01889,-0.0165 -0.02273,-0.0169 z"
        inkscape:connector-curvature="0" />
     <g
-       id="A_4">
+       id="A_4"
+       onclick="window.open('https://www.dsfc.net/infrastructure/base-de-donnees-infrastructure/etl-les-raisons-d-un-succes/','_blank');">
       <text
          transform="scale(1.2700341,0.78738043)"
          id="text4616"
@@ -1709,7 +1713,8 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       id="A_5">
+       id="A_5"
+       onclick="window.open('https://www.istockphoto.com/fr/vectoriel/un-data-warehouse-design-symbole-ic%C3%B4ne-solution-de-technologie-vector-gm892634272-247027527','_blank');">
       <path
          id="path1045"
          transform="matrix(0.26458333,0,0,0.26458333,0,138.24992)"
@@ -2076,7 +2081,8 @@ class
        x="93.61544"
        y="211.87791"
        id="text4900"
-       transform="scale(0.73629891,1.3581441)"><tspan
+       transform="scale(0.73629891,1.3581441)"
+       onclick="window.open('window.open('...','_blank');','_blank');"><tspan
          sodipodi:role="line"
          id="tspan4898"
          x="93.61544"
@@ -2111,7 +2117,8 @@ class
        cx="119.57133"
        cy="257.82123"
        rx="50.033394"
-       ry="23.575054" />
+       ry="23.575054"
+       onclick="window.open('https://www.piloter.org/business-intelligence/business-intelligence.htm','_blank');" />
     <path
        style="fill:#00f200;fill-opacity:1;fill-rule:nonzero;stroke:#09f27d;stroke-width:1.01246893;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3630)"
        d="m -80.542277,224.6286 c 17.509191,-0.46691 70.040289,-1.7354 87.5494798,-2.20232 0,0 -0.00353,-0.13224 -0.00353,-0.13224 0,0 -0.00353,-0.13224 -0.00353,-0.13224 -17.5091908,0.46691 -70.0332358,1.99989 -87.5424268,2.4668 z"
