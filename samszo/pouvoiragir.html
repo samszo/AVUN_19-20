@@ -174,8 +174,8 @@
       , PATot = {'niveau':0,'NbElement':0,'PA':0};
 
     //récupère les données du formulaire
-    //var url = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSxVAAOvkBZ4dQz0ibfxoX47l1FfMN25xdoPBtNhRJUZ3njpVaBI4iCWMiYR34N_qclVvw0vB6Ph4PM/pub?gid=1435387753&single=true&output=csv'            
-    var url = 'data.csv'            
+    var url = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSxVAAOvkBZ4dQz0ibfxoX47l1FfMN25xdoPBtNhRJUZ3njpVaBI4iCWMiYR34N_qclVvw0vB6Ph4PM/pub?gid=1435387753&single=true&output=csv'            
+    //var url = 'data.csv'            
     d3.csv(url)
         .then(function(data) {
             //conserve les données
