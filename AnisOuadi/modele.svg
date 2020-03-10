@@ -17,16 +17,13 @@
    id="svg497"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="modele.svg">
-   <style
-      id="style2">
+  <style
+     id="style2">
    .doigt {
       cursor: pointer;
      }
 
    </style>
-
-
-
   <defs
      id="defs491">
     <marker
@@ -53,7 +50,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.3762595"
-     inkscape:cx="342.92571"
+     inkscape:cx="367.75927"
      inkscape:cy="298.81892"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -375,7 +372,8 @@
        preserveAspectRatio="none"
        height="14.100672"
        width="17.844389"
-       onclick="window.open('https://www.lidl.fr','_blanck')" />
+       onclick="window.open('https://www.lidl.fr','_blanck')"
+       class="doigt" />
     <image
        y="155.67294"
        x="22.651855"
@@ -384,7 +382,8 @@
        preserveAspectRatio="none"
        height="14.100672"
        width="18.576788"
-       onclick="window.open('https://www.auchan.fr/','_blanck')" />
+       onclick="window.open('https://www.auchan.fr/','_blanck')"
+       class="doigt" />
     <image
        y="155.66678"
        x="42.048065"
@@ -393,7 +392,8 @@
        preserveAspectRatio="none"
        height="14.026633"
        width="18.576794"
-       onclick="window.open('https://www.monoprix.fr/','_blanck')" />
+       onclick="window.open('https://www.monoprix.fr/','_blanck')"
+       class="doigt" />
     <image
        y="140.26971"
        x="61.278122"
@@ -402,7 +402,8 @@
        preserveAspectRatio="none"
        height="14.489459"
        width="18.458567"
-       onclick="window.open('https://www.picard.fr/','_blanck')" />
+       onclick="window.open('https://www.picard.fr/','_blanck')"
+       class="doigt" />
     <image
        y="156.38776"
        x="61.752502"
@@ -411,7 +412,8 @@
        preserveAspectRatio="none"
        height="13.42858"
        width="17.518633"
-       onclick="window.open('https://www.magasins-u.com/accueil','_blanck')" />
+       onclick="window.open('https://www.magasins-u.com/accueil','_blanck')"
+       class="doigt" />
     <path
        sodipodi:type="star"
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#00dc58;stroke-width:0.48486495;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -518,7 +520,8 @@
        x="171.40169"
        y="219.88522"
        id="text5305"
-       onclick="window.open('','_blanck')"><tspan
+       onclick="window.open('','_blanck')"
+       class="doigt"><tspan
          sodipodi:role="line"
          id="tspan5303"
          x="171.40169"
@@ -546,7 +549,8 @@
        x="19.957502"
        y="216.93587"
        id="text5305-1"
-       onclick="window.open('https://schema.org/parent','_blanck')"><tspan
+       onclick="window.open('https://schema.org/parent','_blanck')"
+       class="doigt"><tspan
          sodipodi:role="line"
          id="tspan5303-3"
          x="19.957502"
@@ -569,7 +573,8 @@
        x="46.266174"
        y="216.22516"
        id="text5305-1-1"
-       onclick="window.open('https://schema.org/parent','_blanck')"><tspan
+       onclick="window.open('https://schema.org/parent','_blanck')"
+       class="doigt"><tspan
          sodipodi:role="line"
          id="tspan5303-3-7"
          x="46.266174"
@@ -581,7 +586,8 @@
        x="73.538544"
        y="216.45384"
        id="text5305-1-6"
-       onclick="window.open('http://sparql.cwrc.ca/ontology/cwrc.html#stepChildOf','_blanck')"><tspan
+       onclick="window.open('http://sparql.cwrc.ca/ontology/cwrc.html#stepChildOf','_blanck')"
+       class="doigt"><tspan
          sodipodi:role="line"
          id="tspan5303-3-9"
          x="73.538544"
@@ -593,7 +599,8 @@
        x="46.713486"
        y="232.94852"
        id="text5305-1-1-9"
-       onclick="window.open('http://dbpedia.org/ontology/family','_blanck')"><tspan
+       onclick="window.open('http://dbpedia.org/ontology/family','_blanck')"
+       class="doigt"><tspan
          sodipodi:role="line"
          id="tspan5303-3-7-9"
          x="46.713486"
@@ -637,7 +644,8 @@
        x="81.3722"
        y="263.42111"
        id="text5305-1-9-0"
-       onclick="window.open('https://intlekt.io/?comments=we.t.-','_blanck')"><tspan
+       onclick="window.open('https://intlekt.io/?comments=we.t.-','_blanck')"
+       class="doigt"><tspan
          sodipodi:role="line"
          id="tspan5303-3-3-2"
          x="81.3722"
@@ -649,7 +657,8 @@
        x="80.979088"
        y="240.57642"
        id="text5305-1-9-0-6"
-       onclick="window.open('https://intlekt.io/?comments=x.t.-','_blanck')"><tspan
+       onclick="window.open('https://intlekt.io/?comments=x.t.-','_blanck')"
+       class="doigt"><tspan
          sodipodi:role="line"
          id="tspan5303-3-3-2-4"
          x="80.979088"
@@ -661,7 +670,8 @@
        x="54.023426"
        y="251.78159"
        id="text5305-1-9-0-6-7"
-       onclick="window.open('https://intlekt.io/?comments=g.p.-','_blanck')"><tspan
+       onclick="window.open('https://intlekt.io/?comments=g.p.-','_blanck')"
+       class="doigt"><tspan
          sodipodi:role="line"
          id="tspan5303-3-3-2-4-5"
          x="54.023426"
@@ -687,7 +697,8 @@
        x="169.12253"
        y="243.16377"
        id="text5305-1-9-0-8"
-       onclick="window.open('https://intlekt.io/?comments=t.i.-k.i.-t.u.-%27','_blanck')"><tspan
+       onclick="window.open('https://intlekt.io/?comments=t.i.-k.i.-t.u.-%27','_blanck')"
+       class="doigt"><tspan
          sodipodi:role="line"
          id="tspan5303-3-3-2-1"
          x="169.12253"
@@ -706,7 +717,8 @@
        x="120.71832"
        y="225.7867"
        id="text5305-1-9-0-8-2"
-       onclick="window.open('https://intlekt.io/?comments=d.e.-t.i.-wa.e.-%27','_blanck')"><tspan
+       onclick="window.open('https://intlekt.io/?comments=d.e.-t.i.-wa.e.-%27','_blanck')"
+       class="doigt"><tspan
          sodipodi:role="line"
          id="tspan5303-3-3-2-1-5"
          x="120.71832"
@@ -725,7 +737,8 @@
        x="119.14876"
        y="246.12764"
        id="text5305-1-9-0-8-2-9"
-       onclick="window.open('https://intlekt.io/?comments=wa.f.S%3A.-','_blanck')"><tspan
+       onclick="window.open('https://intlekt.io/?comments=wa.f.S%3A.-','_blanck')"
+       class="doigt"><tspan
          sodipodi:role="line"
          id="tspan5303-3-3-2-1-5-0"
          x="119.14876"
@@ -744,7 +757,8 @@
        x="169.89961"
        y="263.31818"
        id="text5305-1-9-0-8-26"
-       onclick="window.open('https://intlekt.io/?comments=y.e.-','_blanck')"><tspan
+       onclick="window.open('https://intlekt.io/?comments=y.e.-','_blanck')"
+       class="doigt"><tspan
          sodipodi:role="line"
          id="tspan5303-3-3-2-1-4"
          x="169.89961"
