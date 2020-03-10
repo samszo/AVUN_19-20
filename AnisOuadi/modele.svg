@@ -50,7 +50,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.3762595"
-     inkscape:cx="367.75927"
+     inkscape:cx="227.88739"
      inkscape:cy="298.81892"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -520,7 +520,7 @@
        x="171.40169"
        y="219.88522"
        id="text5305"
-       onclick="window.open('','_blanck')"
+       onclick="window.open('http://vocab.deri.ie/cogs#Server','_blanck')"
        class="doigt"><tspan
          sodipodi:role="line"
          id="tspan5303"
