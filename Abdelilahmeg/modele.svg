@@ -898,7 +898,8 @@
        cy="-241.03922"
        cx="112.95071"
        id="C_2_2"
-       style="fill:#ffffff;fill-opacity:0.14509804;stroke:#000031;stroke-width:0.25320387;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill" />
+       style="fill:#ffffff;fill-opacity:0.14509804;stroke:#000031;stroke-width:0.25320387;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       onclick="window.open('https://parisladefense.com/fr/decouvrir/chiffres-cles','_blank'); " />
     <ellipse
        style="fill:#ffffff;fill-opacity:0.14509804;stroke:#000031;stroke-width:0.26439461;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
        id="C_2_1"
