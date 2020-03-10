@@ -43,7 +43,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.3762595"
-     inkscape:cx="350.28549"
+     inkscape:cx="210.41361"
      inkscape:cy="298.81892"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -364,7 +364,7 @@
        preserveAspectRatio="none"
        height="14.100672"
        width="17.844389"
-       onclick="window.open('https://www.lidl.fr/,'_blanck')" />
+       onclick="window.open('https://www.lidl.fr/','_blanck')" />
     <image
        y="155.67294"
        x="22.651855"
@@ -373,7 +373,7 @@
        preserveAspectRatio="none"
        height="14.100672"
        width="18.576788"
-       onclick="window.open('https://www.auchan.fr/,'_blanck')" />
+       onclick="window.open('https://www.auchan.fr/','_blanck')" />
     <image
        y="155.66678"
        x="42.048065"
@@ -382,7 +382,7 @@
        preserveAspectRatio="none"
        height="14.026633"
        width="18.576794"
-       onclick="window.open('https://www.monoprix.fr/,'_blanck')" />
+       onclick="window.open('https://www.monoprix.fr/','_blanck')" />
     <image
        y="140.26971"
        x="61.278122"
@@ -391,7 +391,7 @@
        preserveAspectRatio="none"
        height="14.489459"
        width="18.458567"
-       onclick="window.open('https://www.picard.fr/,'_blanck')" />
+       onclick="window.open('https://www.picard.fr/','_blanck')" />
     <image
        y="156.38776"
        x="61.752502"
@@ -400,7 +400,7 @@
        preserveAspectRatio="none"
        height="13.42858"
        width="17.518633"
-       onclick="window.open('https://www.magasins-u.com/accueil,'_blanck')" />
+       onclick="window.open('https://www.magasins-u.com/accueil','_blanck')" />
     <path
        sodipodi:type="star"
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#00dc58;stroke-width:0.48486495;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
