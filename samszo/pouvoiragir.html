@@ -171,7 +171,7 @@
       , dimDesc = {'P':{'ordre':1,'label':'Physique'},'A':{'ordre':2,'label':'Acteur'}
             ,'C':{'ordre':3,'label':'Concept'},'R':{'ordre':4,'label':'Rapport'}
             ,'T':{'ordre':4,'label':'Total'}}
-      , PATot = {'niveau':0,'NbElement':0,'PA':0};
+      , PATot;
 
     //récupère les données du formulaire
     var url = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSxVAAOvkBZ4dQz0ibfxoX47l1FfMN25xdoPBtNhRJUZ3njpVaBI4iCWMiYR34N_qclVvw0vB6Ph4PM/pub?gid=1435387753&single=true&output=csv'            
@@ -203,6 +203,9 @@
         d3.select("#contSVG").html("");
         d3.select("#contRef").html("");
         d3.selectAll('#calculPA').html("");
+        //initialise les tableaux
+        if(w2ui['listeDE'])w2ui['listeDE'].destroy();
+        if(w2ui['listeRef'])w2ui['listeRef'].destroy();
         
         //affiche l'auteur
         d3.select("#auteurEco").html(d['Votre prénom']+" "+d['Votre nom']+" ("+d['N° étudiant']+")");
@@ -213,6 +216,7 @@
 
         d3.xml(urlSVG)
         .then(data => {
+
             //affiche le svg
             d3.select("#contSVG").node().append(data.documentElement);
             
@@ -233,7 +237,6 @@
             drawTableauPA();           
 
             //affiche le detail des dimensions existentielles
-            if(w2ui['listeDE'])w2ui['listeDE'].destroy();
             $('#listeDE').w2grid({ 
                 name: "listeDE" ,
                 header: "Dimensions existentielles",
@@ -252,7 +255,6 @@
             });    
 
             //affiche la liste des références
-            if(w2ui['listeRef'])w2ui['listeRef'].destroy();
             $('#listeRef').w2grid({ 
                 name: "listeRef" ,
                 header: "Références Linked Open Data",
@@ -281,10 +283,11 @@
         let id = n.attr('id');
         let f = oc.slice(0,11);
         let l = "";
-        if(oc.indexOf("','"))
+        if(oc.indexOf("','")>0)
           l = oc.slice(13,oc.indexOf("','"));
-        if(oc.indexOf('","'))
-          l = oc.slice(13,oc.indexOf('","'));
+        else if(oc.indexOf('",')>0)
+          l = oc.slice(13,oc.indexOf('",'));
+          
         if(oc.slice(0,12)=='window.open(' )
           arrEvent.push({'n':n,'event':'onclick','fonction':f, 'lien':l,'recid':id})
         //console.log(obj);
@@ -323,66 +326,68 @@
     }
 
     function traiteData(){
-      arrDim.sort(function(a, b) {
+        arrDim.sort(function(a, b) {
                 //return dimDesc[a.dim].ordre - dimDesc[b.dim].ordre;
                 return a.id.localeCompare(b.id);
               });
 
-            //regroupe les dimensions
-            dimensions = d3.nest()
-                        .key(d => d.dim)
-                        .entries(arrDim)
-                        .sort(function(a, b) {
-                          return dimDesc[a.key].ordre - dimDesc[b.key].ordre;
-                        });
-            dimensions.forEach(function(d){
-              d.nivs = d3.nest()
-                        .key(dim => dim.niv)
-                        .entries(d.values)
-                        .sort(function(a, b) {
-                          return a.key - b.key;
-                        });
-              //ajoute les totaux de niveau
-              let s = 0, PA=0;
-              d.nivs.forEach(n=>{
-                s+=n.values.length;
-                n.PA = n.key * n.values.length;
-                PA += n.PA;
-              });
-              d.nivs.push({'key':'Total','PA':PA,'s':s,'niv':d.nivs.length});
+        PATot = {'niveau':0,'NbElement':0,'PA':0};
 
-              //ajoute les totaux de rapport
-              if(d.key=="R"){
-                let rTot = {'NbRapport':0
-                  ,	'NbSour':0
-                  ,	'TypeSour':""                  
-                  ,	'NbDest':0
-                  ,	'TypeDest':""                  
-                  , 'NbPred':0
-                  ,	'TypePred':""                  
-                  , 'PA':0
-                };
-                d.values.forEach(v=>{
-                  rTot.NbRapport += v.rapport.NbRapport;
-                  rTot.NbSour += v.rapport.NbSour;
-                  rTot.NbDest += v.rapport.NbDest;
-                  rTot.NbPred += v.rapport.NbPred;
-                  rTot.PA += v.rapport.PA;
-                })
-                d.values.push({'id':'Total','rapport':rTot});
+        //regroupe les dimensions
+        dimensions = d3.nest()
+                    .key(d => d.dim)
+                    .entries(arrDim)
+                    .sort(function(a, b) {
+                      return dimDesc[a.key].ordre - dimDesc[b.key].ordre;
+                    });
+        dimensions.forEach(function(d){
+          d.nivs = d3.nest()
+                    .key(dim => dim.niv)
+                    .entries(d.values)
+                    .sort(function(a, b) {
+                      return a.key - b.key;
+                    });
+          //ajoute les totaux de niveau
+          let s = 0, PA=0;
+          d.nivs.forEach(n=>{
+            s+=n.values.length;
+            n.PA = n.key * n.values.length;
+            PA += n.PA;
+          });
+          d.nivs.push({'key':'Total','PA':PA,'s':s,'niv':d.nivs.length});
 
-                //cumul les sommes de rapport
-                PATot.niveau += 1;
-                PATot.NbElement += rTot.NbRapport;
-                PATot.PA += rTot.PA;
-              }else{
-                //cumul les sommes
-                PATot.niveau += d.nivs.length-1;
-                PATot.NbElement += s;
-                PATot.PA += PA;
-              }               
+          //ajoute les totaux de rapport
+          if(d.key=="R"){
+            let rTot = {'NbRapport':0
+              ,	'NbSour':0
+              ,	'TypeSour':""                  
+              ,	'NbDest':0
+              ,	'TypeDest':""                  
+              , 'NbPred':0
+              ,	'TypePred':""                  
+              , 'PA':0
+            };
+            d.values.forEach(v=>{
+              rTot.NbRapport += v.rapport.NbRapport;
+              rTot.NbSour += v.rapport.NbSour;
+              rTot.NbDest += v.rapport.NbDest;
+              rTot.NbPred += v.rapport.NbPred;
+              rTot.PA += v.rapport.PA;
             })
-            console.log(dimensions);
+            d.values.push({'id':'Total','rapport':rTot});
+
+            //cumul les sommes de rapport
+            PATot.niveau += 1;
+            PATot.NbElement += rTot.NbRapport;
+            PATot.PA += rTot.PA;
+          }else{
+            //cumul les sommes
+            PATot.niveau += d.nivs.length-1;
+            PATot.NbElement += s;
+            PATot.PA += PA;
+          }               
+        })
+        console.log(dimensions);
     }
 
     function drawTableauPA(){
@@ -462,17 +467,19 @@
               +'</tr></thead>'
               +'<tbody id="tRapDetail">'
               +'</tbody></table>');
-            var rowRapDetail= d3.select('#tRapDetail').selectAll('tr').data(dimensions[3].values)
+            if(dimensions[3]){
+              var rowRapDetail= d3.select('#tRapDetail').selectAll('tr').data(dimensions[3].values)
               .enter().append('tr')
               .attr('class',function(rd,i){
                 return i==dimensions[3].values.length-1 ? "totRD" : "dimRapDetail"
               });
-            //ajoute les lignes
-            rowRapDetail.selectAll('td').data(rv=>Object.values(rv.rapport))
-              .enter().append('td')
-                .attr('class',"colRD")
-                  .append('span')
-                  .html(r => r);
+              //ajoute les lignes
+              rowRapDetail.selectAll('td').data(rv=>Object.values(rv.rapport))
+                .enter().append('td')
+                  .attr('class',"colRD")
+                    .append('span')
+                    .html(r => r);
+            }
     }
         
     </script>
