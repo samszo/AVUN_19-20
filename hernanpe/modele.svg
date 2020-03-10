@@ -751,7 +751,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="355.61755"
+     inkscape:cx="89.7454"
      inkscape:cy="250.44454"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -771,7 +771,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -786,7 +786,9 @@
        cx="106.77122"
        cy="255.26422"
        rx="104.39569"
-       ry="40.594849" />
+       ry="40.594849"
+       class="doigt"
+       onclick="https://lov.linkeddata.es/dataset/lov/terms?q=ecosystem" />
     <rect
        style="fill:#ffffff;stroke:#ffcc00;stroke-width:1.2289902;stroke-miterlimit:4;stroke-dasharray:none"
        id="P_1"
@@ -801,7 +803,9 @@
        style="font-style:normal;font-weight:normal;font-size:5.14333868px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12858346"
        x="108.97034"
        y="286.8367"
-       id="text873-8"><tspan
+       id="text873-8"
+       class="doigt"
+       onclick="https://lov.linkeddata.es/dataset/lov/terms?q=ecosystem"><tspan
          sodipodi:role="line"
          id="tspan871-4"
          x="108.97034"
@@ -1843,7 +1847,7 @@
        sodipodi:nodetypes="ccc"
        transform="matrix(1.0003013,0,0,1.1873532,-0.02343339,-46.833055)" />
     <path
-       style="fill:none;stroke:#ff6600;stroke-width:0.27904472;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker4182);marker-end:url(#marker4524);marker-mid:url(#marker5524)"
+       style="fill:none;stroke:#ff6600;stroke-width:0.27904472;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker4182);marker-mid:url(#marker5524);marker-end:url(#marker4524)"
        d="m 57.75674,229.05577 c 2.852618,-4.1715 5.705059,-8.34274 18.278022,-14.43683 12.572963,-6.0941 34.866028,-14.11113 38.407418,-7.81379 3.54138,6.29733 -11.66899,26.90918 -26.879569,47.52132"
        id="path1300"
        inkscape:connector-curvature="0"
@@ -1977,7 +1981,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#0000ff;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend);marker-start:url(#marker1890)"
+       style="fill:none;stroke:#0000ff;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker1890);marker-end:url(#Arrow1Lend)"
        d="m 116.11662,255.43334 c -1.25348,-12.0043 -2.50695,-24.00837 0.82932,-30.80156 3.33627,-6.79319 11.26195,-8.37569 18.90478,-12.48749 7.64283,-4.1118 15.00284,-10.75269 22.36258,-17.39334"
        id="R_P2_A3_C2-1"
        inkscape:connector-curvature="0"
@@ -1986,7 +1990,7 @@
        sodipodi:nodetypes="cccc"
        transform="matrix(1,0,0,1.0167449,0,-3.2630948)" />
     <path
-       style="fill:none;stroke:#0000ff;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker12948);marker-end:url(#marker13290);marker-mid:url(#marker14462)"
+       style="fill:none;stroke:#0000ff;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker12948);marker-mid:url(#marker14462);marker-end:url(#marker13290)"
        d="m 64.293749,202.00011 c 9.329616,-1.49455 18.658933,-2.98905 22.098388,4.55386 3.439455,7.54291 0.989306,24.12349 -1.460888,40.70437"
        id="R_P2_A2_C1-1"
        inkscape:connector-curvature="0"
