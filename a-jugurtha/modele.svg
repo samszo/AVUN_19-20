@@ -460,7 +460,7 @@
          style="stroke-width:0.26458332"
          y="219.88522"
          x="171.40169"
-         id="tspan5303">Serveurs </tspan></text>
+         id="tspan5303">Serveur </tspan></text>
     <text
        id="text5305-1"
        y="216.93587"
@@ -595,9 +595,10 @@
        id="path5466-8-5"
        style="opacity:1;fill:#3133bf;fill-opacity:1;stroke:#3133bf;stroke-width:0.39228663;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
-       id="path5617"
+       id="R_C_1_3_2_A_2"
        d="m 174.14442,257.0505 c -15.4156,-4.17332 -21.01139,-23.81378 -26.69009,-51.56064"
-       style="fill:none;stroke:#3133bf;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;stroke:#3133bf;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
     <path
        transform="matrix(0.58971128,0.35354745,-0.34341918,0.56550913,156.76122,66.58655)"
        d="m 95.59167,192.53456 -2.231615,-4.65747 5.149295,0.3961 z"
@@ -614,9 +615,10 @@
        id="path5466-8-8-8-2"
        style="opacity:1;fill:#3133bf;fill-opacity:1;stroke:#3133bf;stroke-width:0.39228663;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
-       id="path5683"
+       id="C_1_2_3_A_1"
        d="M 120.99163,268.41028 C 119.96262,236.55072 107.77881,211.45409 90.984944,211.52226"
-       style="fill:none;stroke:#d02020;stroke-width:0.72278273;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;stroke:#d02020;stroke-width:0.72278273;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
     <path
        transform="matrix(0.59245622,-0.34892808,0.33251309,0.57198982,13.851066,161.61519)"
        d="m 62.73923,128.8203 -2.231615,-4.65747 5.149295,0.3961 z"
@@ -1035,9 +1037,10 @@
        style="opacity:1;fill:#3133bf;fill-opacity:1;stroke:#3133bf;stroke-width:0.39228663;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        transform="matrix(1.738384,0,0,0.59640994,-90.782575,92.073727)"
-       id="path5617-3"
+       id="R_C_1_3_1_P_1"
        d="M 150.22692,258.51503 C 103.32848,212.28056 98.186042,181.80947 98.090477,144.98482"
-       style="fill:none;stroke:#3133bf;stroke-width:0.52916676;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;stroke:#3133bf;stroke-width:0.52916676;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
     <path
        transform="matrix(0.22679837,0,0,0.86906525,144.07703,24.008472)"
        id="R_P_2_A3"
@@ -1057,18 +1060,20 @@
        id="C_1_2_1"
        style="opacity:1;fill:none;fill-opacity:1;stroke:#d01f1f;stroke-width:0.44190678;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
-       id="path5683-0"
+       id="R_P_1_C_1_2_2"
        d="M 128.42176,239.32555 C 115.47397,239.10943 84.835163,172.09299 73.39249,155.52816"
-       style="fill:none;stroke:#d02020;stroke-width:0.72278273;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;stroke:#d02020;stroke-width:0.72278273;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
     <path
        transform="matrix(-0.48798012,-0.48438681,0.46876152,-0.46690465,20.588707,274.30363)"
        d="m 28.387647,175.70126 -2.231615,-4.65747 5.149294,0.3961 z"
        id="path5466-8-8-8-3-3-0-1"
        style="opacity:1;fill:#d02020;fill-opacity:1;stroke:#d02020;stroke-width:0.39228663;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
-       id="path5683-0-0"
+       id="R_C_1_2_1_A_2"
        d="m 173.8658,227.52891 c -8.31516,-0.012 -27.99153,-4.13967 -35.34006,-5.15959"
-       style="fill:none;stroke:#d02020;stroke-width:0.14372633;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;stroke:#d02020;stroke-width:0.14372633;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
     <path
        transform="matrix(0.48798012,0.48438681,-0.46876152,0.46690465,224.33319,130.92289)"
        d="m 28.387647,175.70126 -2.231615,-4.65747 5.149294,0.3961 z"

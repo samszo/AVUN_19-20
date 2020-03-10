@@ -162,7 +162,7 @@
       <path
          transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         style="fill:#0000ad;fill-opacity:1;fill-rule:evenodd;stroke:#0000ad;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          id="path5061"
          inkscape:connector-curvature="0" />
     </marker>
@@ -638,7 +638,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.8"
-     inkscape:cx="285.78613"
+     inkscape:cx="284.53613"
      inkscape:cy="321.98466"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -1191,7 +1191,7 @@
        inkscape:path-effect="#path-effect2124"
        inkscape:original-d="m 101.94037,181.56476 c 0.0983,4.02574 0.19643,8.05167 0.29433,12.07778" />
     <g
-       onclick="window.open('https://hexadrone.fr','_blank');"
+       onclick=""
        transform="matrix(0.9206214,0,0,-0.85340126,-3.0407928,355.43873)"
        inkscape:label="Clip"
        id="A_2">
@@ -1227,7 +1227,7 @@
          y="209.33768"
          style="font-size:4.26067257px;stroke-width:0.19971901">Clients</tspan></text>
     <g
-       onclick="window.open('https://hexadrone.fr','_blank');"
+       onclick=""
        transform="matrix(0.89916771,0,0,-0.82767214,53.198191,356.55278)"
        inkscape:label="Clip"
        id="A_3">
@@ -1602,13 +1602,13 @@ HgkeCR4JHgkeCR4JHgkeCR4JHgkeCQRA33Urq95//9k=
     <path
        style="fill:none;stroke:#00ad00;stroke-width:0.2532813px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker5559)"
        d="m 26.449171,194.47328 c 6.289927,3.53261 12.579755,7.06516 18.869485,10.59765"
-       id="path5891"
+       id="R_P3_A1"
        inkscape:connector-curvature="0"
        inkscape:path-effect="#path-effect5625"
        inkscape:original-d="m 26.449171,194.47328 c 6.290093,3.53231 12.579921,7.06486 18.869485,10.59765" />
     <image
-       y="249.04427"
-       x="18.851562"
+       y="247.39061"
+       x="12.898437"
        id="image5950"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAYAAAA5ZDbSAAAgAElEQVR42s292ZMkaXIf9vsiI4/I
 +76qqquvmp7enqNntQIJQDwWPESJAAwCARIUqQc+yCT9P3rQgx7wQB0UZZQoM1EyiTADQGIXew12
@@ -1882,15 +1882,17 @@ y+USg8GADQhUC0rWD4O2eDyOdDrNZPd9+OL5fJ4N/7Lso+hGmnndbpdnMXmgSP0aDAYcMLdrBpMe
        height="7.9375005"
        width="11.575521" />
     <ellipse
-       style="fill:#ffffff;fill-opacity:0.14509804;stroke:#000031;stroke-width:0.28793299;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-       id="window.open('https://hdlab.stanford.edu/palladio/','_blank');
+       style="fill:#ffffff;fill-opacity:0.14509804;stroke:#000031;stroke-width:0.33135119;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="D_2
 "
-       cx="23.453642"
-       cy="-253.09665"
-       rx="8.741374"
-       ry="5.4859157"
+       cx="18.492704"
+       cy="-250.94691"
+       rx="8.7196646"
+       ry="7.283217"
        transform="scale(1,-1)"
        onclick="window.open('https://hdlab.stanford.edu/palladio/','_blank');
+"
+       oncklick="window.open('https://hdlab.stanford.edu/palladio/','_blank');
 " />
     <path
        style="fill:none;stroke:#dd8b00;stroke-width:0.48855031;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1905,7 +1907,7 @@ y+USg8GADQhUC0rWD4O2eDyOdDrNZPd9+OL5fJ4N/7Lso+hGmnndbpdnMXmgSP0aDAYcMLdrBpMe
        rx="8.7252893"
        cy="-254.75031"
        cx="187.82603"
-       id="ellipse6019"
+       id="D_1"
        style="fill:#ffffff;fill-opacity:0.14509804;stroke:#000031;stroke-width:0.32010293;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill" />
     <path
        style="fill:none;stroke:#0000f1;stroke-width:0.26583838px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1976,30 +1978,23 @@ QEBAQEBAQf/Z
        width="9.326561"
        onclick="window.open('https://www.java.com/en/download/','_blank');
 " />
-    <ellipse
-       style="fill:none;fill-opacity:1;stroke:#0000f1;stroke-width:0.3246125;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="path6091"
-       cx="16.536459"
-       cy="211.50652"
-       rx="13.860819"
-       ry="9.3959751" />
     <path
        style="fill:none;stroke:#e8383c;stroke-width:0.27560064px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker6103)"
        d="m 38.364583,211.01042 c -2.63125,0 -5.262785,0 -7.894611,0"
-       id="path6237"
+       id="R_A1_P4"
        inkscape:connector-curvature="0"
        inkscape:path-effect="#path-effect6239"
        inkscape:original-d="m 38.364583,211.01042 c -2.63125,-2.7e-4 -5.262785,-2.7e-4 -7.894611,0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.27049884;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6289)"
        d="m 17.528646,202.41146 c 0,-2.52732 0,-5.05437 0,-7.58114"
-       id="path6277"
+       id="R_P3_P4"
        inkscape:connector-curvature="0"
        inkscape:path-effect="#path-effect6279"
        inkscape:original-d="m 17.528646,202.41146 c 2.64e-4,-2.52732 2.64e-4,-5.05437 0,-7.58114" />
     <image
-       y="205.7849"
-       x="7.0776086"
+       y="204.79271"
+       x="9.3927145"
        id="image6672"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAagAAABmCAMAAACp+fWCAAAAY1BMVEX///8zMzNxcXE3Nzerq6vW
 1ta2trZiYmLk5OTr6+tTU1ODg4OTk5NlZWVDQ0PFxcV3d3dLS0v19fWjo6N+fn6amppcXFyPj487
@@ -2082,8 +2077,15 @@ ptJW+bFzupycQtscAf0HDRMflfAJ4tUAAAAASUVORK5CYII=
 "
        preserveAspectRatio="none"
        height="11.112499"
-       width="20.571348"
+       width="19.248432"
        onclick="window.open('https://vimeo.com/upgrade?vcid=37311&amp;utm_medium=cpc&amp;utm_source=google&amp;gclid=Cj0KCQjw9ZzzBRCKARIsANwXaeL10-n03trDCBLB7KuZlxFV6jXCeQH7Rm30WJoaw8sXUh3zFrSv1i4aAgRZEALw_wcB&amp;gclsrc=aw.ds','_blank');
 " />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#e8993c;stroke-width:0.26499999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="P_4"
+       width="20.174479"
+       height="13.229166"
+       x="8.9296875"
+       y="204.06511" />
   </g>
 </svg>
