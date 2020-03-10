@@ -385,8 +385,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="424.60294"
-     inkscape:cy="485.75335"
+     inkscape:cx="424.10294"
+     inkscape:cy="240.85791"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -662,7 +662,8 @@
        height="52.066784"
        x="143.2556"
        y="142.85866"
-       onclick="console.log('toto')" />
+       onclick="window.open('https://lov.linkeddata.es/dataset/lov/terms?q=organisation','_blank');"
+       class="doigt" />
     <rect
        style="fill:#ffffff;stroke:#00ff00;stroke-width:0.5291667;stroke-miterlimit:4;stroke-dasharray:none"
        id="P_3_1"
@@ -679,42 +680,45 @@
        height="19.19525"
        x="157.18726"
        y="156.41266"
-       onclick="console.log('toto')" />
+       onclick="window.open('https://lov.linkeddata.es/dataset/lov/terms?q=office','_blank');"
+       class="doigt" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.1433382px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12858346"
-       x="152.09523"
+       x="153.68271"
        y="181.56277"
        id="text873-85"
        onclick="window.open('https://lov.linkeddata.es/dataset/lov/terms?q=department','_blank');"
        class="doigt"><tspan
          sodipodi:role="line"
          id="tspan871-7"
-         x="152.09523"
+         x="153.68271"
          y="181.56277"
          style="stroke:none;stroke-width:0.12858346">Departement</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.1433382px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12858346"
-       x="160.64523"
-       y="171.21277"
-       id="text873-5"><tspan
+       x="164.34935"
+       y="167.50865"
+       id="text873-5"
+       onclick="window.open('https://lov.linkeddata.es/dataset/lov/terms?q=office','_blank');"
+       class="doigt"><tspan
          sodipodi:role="line"
          id="tspan871-45"
-         x="160.64523"
-         y="171.21277"
+         x="164.34935"
+         y="167.50865"
          style="stroke:none;stroke-width:0.12858346">Bureau</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.1433382px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12858346"
-       x="162.23375"
+       x="160.11711"
        y="191.05112"
        id="text873-66"
        onclick="window.open('https://lov.linkeddata.es/dataset/lov/terms?q=organisme','_blank');"
        class="doigt"><tspan
          sodipodi:role="line"
          id="tspan871-0"
-         x="162.23375"
+         x="160.11711"
          y="191.05112"
          style="stroke:none;stroke-width:0.12858346">Organisme</tspan></text>
     <rect
@@ -829,7 +833,9 @@
        d="m 222.7037,265.0548 -47.596,27.6755 -47.76569,-27.3816 -0.16967,-55.0571 47.596,-27.67549 47.76568,27.3816 z"
        inkscape:transform-center-x="1.1418553e-06"
        transform="matrix(0.8683383,0,0,0.56210172,17.51009,96.921872)"
-       inkscape:transform-center-y="3.1411518e-06" />
+       inkscape:transform-center-y="3.1411518e-06"
+       class="doigt"
+       onclick="window.open('https://lov.linkeddata.es/dataset/lov/terms?q=ceo','_blank');" />
     <path
        style="fill:none;stroke:#00ff00;stroke-width:0.12858346px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 196.58968,222.76498 c 0,-0.2546 0,-0.50919 0,-0.76378"
@@ -840,7 +846,9 @@
        style="font-style:normal;font-weight:normal;font-size:3.22944808px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20184051"
        x="166.72728"
        y="250.81721"
-       id="text1214"><tspan
+       id="text1214"
+       onclick="window.open('https://lov.linkeddata.es/dataset/lov/terms?q=ceo','_blank');"
+       class="doigt"><tspan
          sodipodi:role="line"
          id="tspan1212"
          x="166.72728"
@@ -1220,7 +1228,8 @@
        d="M 84.666668,97.428573 44.717012,119.75436 5.407488,96.319834 6.0476192,50.559525 45.997275,28.23374 85.306799,51.668265 Z"
        style="fill:#ffffff;stroke:#0000ff;stroke-width:2.72213626;stroke-miterlimit:4;stroke-dasharray:none"
        transform="matrix(0.25065328,0.41635815,-0.41635815,0.25065328,122.06062,190.98343)"
-       onclick="window.open('https://lov.linkeddata.es/dataset/lov/terms?q=recruitment','_blank');" />
+       onclick="window.open('https://lov.linkeddata.es/dataset/lov/terms?q=director','_blank');"
+       class="doigt" />
     <path
        sodipodi:type="star"
        id="A_2_1"
@@ -1258,7 +1267,9 @@
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="111.62064"
        y="219.63905"
-       id="text1218-0-5-5"><tspan
+       id="text1218-0-5-5"
+       class="doigt"
+       onclick="window.open('https://lov.linkeddata.es/dataset/lov/terms?q=director','_blank');"><tspan
          sodipodi:role="line"
          id="tspan1216-8-2-0"
          x="111.62064"
