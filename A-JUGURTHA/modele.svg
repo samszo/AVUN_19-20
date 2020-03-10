@@ -30,8 +30,8 @@
      id="namedview203"
      showgrid="false"
      inkscape:zoom="1.1125147"
-     inkscape:cx="400"
-     inkscape:cy="300"
+     inkscape:cx="378.42725"
+     inkscape:cy="261.13544"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
@@ -596,7 +596,7 @@
        id="path5466-8-8-8-2"
        style="opacity:1;fill:#3133bf;fill-opacity:1;stroke:#3133bf;stroke-width:0.39228663;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
-       id=""
+       id="R_C1_A1"
        d="M 120.99163,268.41028 C 119.96262,236.55072 107.77881,211.45409 90.984944,211.52226"
        style="fill:none;stroke:#d02020;stroke-width:0.72278273;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0" />
@@ -1054,7 +1054,8 @@
        id="path1192"
        d="m 173.8658,227.52891 c -8.31516,-0.012 -27.99153,-4.13967 -35.34006,-5.15959"
        style="fill:none;stroke:#d02020;stroke-width:0.14372633;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       R_c1_A1="" />
     <path
        transform="matrix(0.48798012,0.48438681,-0.46876152,0.46690465,224.33319,130.92289)"
        d="m 28.387647,175.70126 -2.231615,-4.65747 5.149294,0.3961 z"
@@ -1062,9 +1063,10 @@
        style="opacity:1;fill:#d02020;fill-opacity:1;stroke:#d02020;stroke-width:0.39228663;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        transform="matrix(0.22679837,0,0,0.86906526,137.08569,24.646637)"
-       id="A_3_R_P_2"
+       id="R_P2_A1"
        d="m 150.55105,219.55528 c -1.03961,-23.2497 16.25179,-35.73283 41.41782,-50.14443"
-       style="fill:none;stroke:#3133bf;stroke-width:0.52916676;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;stroke:#3133bf;stroke-width:0.52916676;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
     <path
        transform="matrix(0.35354744,-0.58971127,0.56550912,0.34341919,31.114738,188.57785)"
        d="m 95.59167,192.53456 -2.231615,-4.65747 5.149295,0.3961 z"
