@@ -18,6 +18,12 @@
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="modele.svg">
+<style
+id="style2">
+.doigt{
+cursor.pointer;
+}
+</style>
   <defs
      id="defs2">
     <marker
