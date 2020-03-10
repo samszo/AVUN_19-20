@@ -816,18 +816,22 @@
        cy="269.70074"
        rx="11.33726"
        ry="5.5425968" />
-    <flowRoot
+    <text
        xml:space="preserve"
-       id="flowRoot1226"
-       style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,6.8257777,144.59417)"><flowRegion
-         id="flowRegion1228"><rect
-           id="rect1230"
-           width="74.471016"
-           height="22.197813"
-           x="453.77237"
-           y="463.72485" /></flowRegion><flowPara
-         id="flowPara1232">livrer </flowPara></flowRoot>    <text
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="126.88615"
+       y="271.03348"
+       id="text394"><tspan
+         sodipodi:role="line"
+         x="126.88615"
+         y="271.03348"
+         id="tspan392"
+         style="stroke-width:0.26458332"><tspan
+           x="126.88615"
+           y="271.03348"
+           id="tspan390"
+           style="stroke-width:0.26458332">livrer </tspan></tspan></text>
+    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="124.1923"
