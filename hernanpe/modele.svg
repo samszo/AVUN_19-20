@@ -751,8 +751,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="381.80688"
-     inkscape:cy="209.88204"
+     inkscape:cx="446.5"
+     inkscape:cy="481"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -832,12 +832,12 @@
          y="200.60243"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.14349985px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.12858346">Sites annonce de travail</tspan></text>
     <rect
-       style="fill:#ffffff;stroke:#ffcc00;stroke-width:0.18566369;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#ffffff;stroke:#ffcc00;stroke-width:0.16737407;stroke-miterlimit:4;stroke-dasharray:none"
        id="P_1_3_1"
-       width="14.814337"
-       height="14.814337"
-       x="19.006788"
-       y="180.5845"
+       width="14.832626"
+       height="12.024549"
+       x="18.997643"
+       y="180.57536"
        onclick="window.open('https://www.apec.fr','_blank');"
        class="doigt" />
     <text
@@ -853,12 +853,12 @@
          x="22.789675"
          y="187.81795">Apec</tspan></text>
     <rect
-       style="fill:#ffffff;stroke:#ffcc00;stroke-width:0.18566369;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#ffffff;stroke:#ffcc00;stroke-width:0.16608237;stroke-miterlimit:4;stroke-dasharray:none"
        id="P_1_3_2"
-       width="14.814337"
-       height="14.814337"
-       x="36.485931"
-       y="180.5845"
+       width="14.833919"
+       height="11.838635"
+       x="36.476139"
+       y="180.57471"
        onclick="window.open('https://www.pole-emploi.fr','_blank');"
        class="doigt" />
     <text
@@ -880,34 +880,34 @@
          style="font-size:2.82222223px;text-align:center;text-anchor:middle;fill:#ff6600;stroke-width:0.26458332"
          id="tspan1173">Emploi</tspan></text>
     <rect
-       style="fill:#ffffff;stroke:#ffcc00;stroke-width:0.18566369;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#ffffff;stroke:#ffcc00;stroke-width:0.16608237;stroke-miterlimit:4;stroke-dasharray:none"
        id="P_1_3_3"
-       width="14.814337"
-       height="14.814337"
-       x="53.965076"
-       y="180.5845"
+       width="14.833919"
+       height="11.838635"
+       x="53.955284"
+       y="180.57471"
        onclick="window.open('https://www.jobaviz.fr','_blank');"
        class="doigt" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="56.380497"
-       y="188.35858"
+       y="187.82942"
        id="text994-2"
        onclick="window.open('https://www.jobaviz.fr','_blank');"
        class="doigt"><tspan
          sodipodi:role="line"
          id="tspan992-0"
          x="56.380497"
-         y="188.35858"
+         y="187.82942"
          style="font-size:2.82222223px;fill:#ff6600;stroke-width:0.26458332">Jobaviz</tspan></text>
     <rect
-       style="fill:#ffffff;stroke:#ffcc00;stroke-width:0.18566369;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#ffffff;stroke:#ffcc00;stroke-width:0.16992773;stroke-miterlimit:4;stroke-dasharray:none"
        id="P_1_2_1"
-       width="14.814337"
-       height="14.814337"
-       x="19.012337"
-       y="161.5345"
+       width="14.830072"
+       height="12.396405"
+       x="19.004469"
+       y="162.58495"
        onclick="window.open('https://www.jobteaser.fr','_blank');"
        class="doigt" />
     <text
@@ -924,12 +924,12 @@
          y="169.30858"
          style="font-size:2.82222223px;fill:#ff6600;stroke-width:0.26458332">Jobteaser</tspan></text>
     <rect
-       style="fill:#ffffff;stroke:#ffcc00;stroke-width:0.18566369;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#ffffff;stroke:#ffcc00;stroke-width:0.17119014;stroke-miterlimit:4;stroke-dasharray:none"
        id="P_1_2_2"
-       width="14.814337"
-       height="14.814337"
-       x="36.491478"
-       y="161.5345"
+       width="14.828811"
+       height="12.582348"
+       x="36.484241"
+       y="162.58559"
        onclick="window.open('https://www.welcometothejungle.com/fr','_blank');"
        class="doigt" />
     <text
@@ -956,12 +956,12 @@
          style="font-size:2.82222223px;text-align:center;text-anchor:middle;fill:#ff6600;stroke-width:0.26458332"
          id="tspan1221">Jungle</tspan></text>
     <rect
-       style="fill:#ffffff;stroke:#ffcc00;stroke-width:0.18566369;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#ffffff;stroke:#ffcc00;stroke-width:0.17119014;stroke-miterlimit:4;stroke-dasharray:none"
        id="P_1_2_3"
-       width="14.814337"
-       height="14.814337"
-       x="53.970623"
-       y="161.5345"
+       width="14.828811"
+       height="12.582348"
+       x="53.963387"
+       y="162.58559"
        onclick="window.open('https://www.la-releve.com','_blank');"
        class="doigt" />
     <text
@@ -1719,7 +1719,7 @@
        rx="19.07963"
        ry="12.835752"
        class="doigt"
-       onclick="window.open('https://intlekt.io/?comments=h.x.-','_blank');" />
+       onclick="window.open('https://intlekt.io/?comments=g.j.-','_blank');" />
     <ellipse
        style="fill:#ffffff;stroke:#008000;stroke-width:0.34474328;stroke-miterlimit:4;stroke-dasharray:none"
        id="C_1_1_2"
@@ -1749,7 +1749,7 @@
        x="24.180851"
        y="269.93613"
        id="text1713-4-3-5-0"
-       onclick="window.open('https://intlekt.io/?comments=h.x.-','_blank');"
+       onclick="window.open('https://intlekt.io/?comments=g.j.-','_blank');"
        class="doigt"><tspan
          sodipodi:role="line"
          x="24.180851"
@@ -1909,31 +1909,31 @@
        id="R_P1_A1-1"
        inkscape:connector-curvature="0" />
     <rect
-       style="fill:none;stroke:#ffcc00;stroke-width:0.27540356;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;stroke:#aa8800;stroke-width:0.2835288;stroke-miterlimit:4;stroke-dasharray:none"
        id="P_1_1"
-       width="58.767494"
-       height="16.891958"
-       x="12.653784"
-       y="143.3022"
+       width="62.316269"
+       height="16.883833"
+       x="12.657846"
+       y="143.30626"
        onclick=""
        class="" />
     <rect
-       style="fill:none;stroke:#ffcc00;stroke-width:0.2748234;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;stroke:#aa8800;stroke-width:0.28211966;stroke-miterlimit:4;stroke-dasharray:none"
        id="P_1_2"
-       width="58.520157"
-       height="16.891958"
-       x="12.916022"
-       y="160.91179" />
+       width="61.695351"
+       height="16.884663"
+       x="12.91967"
+       y="160.91544" />
     <rect
-       style="fill:none;stroke:#ffcc00;stroke-width:0.27513412;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;stroke:#aa8800;stroke-width:0.28199893;stroke-miterlimit:4;stroke-dasharray:none"
        id="P_1_3"
-       width="58.652565"
-       height="16.891958"
-       x="12.774489"
-       y="179.02628" />
+       width="61.640984"
+       height="16.885094"
+       x="12.777922"
+       y="179.02971" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.12858346"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#aa8800;fill-opacity:1;stroke:none;stroke-width:0.12858346;"
        x="-151.52605"
        y="13.164331"
        id="text873-6-4"
@@ -1948,7 +1948,7 @@
          y="16.69211">sites</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.12858346"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#aa8800;fill-opacity:1;stroke:none;stroke-width:0.12858346;"
        x="-169.79884"
        y="12.499653"
        id="text873-6-4-5"
@@ -1963,7 +1963,7 @@
          y="16.027431">plateformes</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.12858346"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#aa8800;fill-opacity:1;stroke:none;stroke-width:0.12858346;"
        x="-187.8894"
        y="12.19186"
        id="text873-6-4-5-2"
