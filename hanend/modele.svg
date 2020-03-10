@@ -29,8 +29,8 @@
      id="namedview1593"
      showgrid="false"
      inkscape:zoom="0.89333333"
-     inkscape:cx="152.58529"
-     inkscape:cy="300"
+     inkscape:cx="520.11906"
+     inkscape:cy="199.81972"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -1002,7 +1002,7 @@
            width="90.870758"
            id="rect1454" /></flowRegion><flowPara
          id="flowPara1456" /></flowRoot>    <text
-       id=""
+       id="text"
        y="103.51975"
        x="94.136902"
        style="font-style:normal;font-weight:normal;font-size:2.99146748px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.11218003"
@@ -1410,7 +1410,8 @@
        y="100.29825"
        x="45.19075"
        style="font-style:normal;font-weight:normal;font-size:2.74739552px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.06868488"
-       xml:space="preserve"><tspan
+       xml:space="preserve"
+       onclick="window.open('https://intlekt.io/?comments=wu.g.s.-','_blank');"><tspan
          style="stroke-width:0.06868488"
          y="100.29825"
          x="45.19075"
