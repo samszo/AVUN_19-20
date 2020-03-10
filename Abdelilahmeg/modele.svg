@@ -1839,7 +1839,9 @@ y+USg8GADQhUC0rWD4O2eDyOdDrNZPd9+OL5fJ4N/7Lso+hGmnndbpdnMXmgSP0aDAYcMLdrBpMe
        cy="-253.09665"
        rx="8.741374"
        ry="5.4859157"
-       transform="scale(1,-1)" />
+       transform="scale(1,-1)"
+       onclick="window.open('https://hdlab.stanford.edu/palladio/','_blank');
+" />
     <path
        style="fill:none;stroke:#dd8b00;stroke-width:0.48855031;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 38.307206,242.84877 c -4.039989,1.59445 -8.080725,3.1892 -12.122225,4.78425"
