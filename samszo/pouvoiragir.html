@@ -280,7 +280,11 @@
         let oc = n.attr('onclick');
         let id = n.attr('id');
         let f = oc.slice(0,11);
-        let l = oc.slice(13,oc.indexOf("','"));
+        let l = "";
+        if(oc.indexOf("','"))
+          l = oc.slice(13,oc.indexOf("','"));
+        if(oc.indexOf('","'))
+          l = oc.slice(13,oc.indexOf('","'));
         if(oc.slice(0,12)=='window.open(' )
           arrEvent.push({'n':n,'event':'onclick','fonction':f, 'lien':l,'recid':id})
         //console.log(obj);
