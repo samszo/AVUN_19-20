@@ -914,7 +914,8 @@
        cy="-231.04633"
        rx="16.817814"
        ry="4.2963367"
-       transform="scale(1,-1)" />
+       transform="scale(1,-1)"
+       oncklick="window.open('https://www.youtube.com/watch?v=XiKq8Bn961Y','_blank');" />
     <ellipse
        transform="scale(1,-1)"
        ry="4.3111262"
@@ -922,7 +923,8 @@
        cy="-241.50764"
        cx="143.36295"
        id="C_3_2"
-       style="fill:#ffffff;fill-opacity:0.14509804;stroke:#000031;stroke-width:0.32340795;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill" />
+       style="fill:#ffffff;fill-opacity:0.14509804;stroke:#000031;stroke-width:0.32340795;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       oncklick="window.open('https://www.youtube.com/watch?v=OF132jIS8XM','_blank');" />
     <ellipse
        style="fill:#ffffff;fill-opacity:0.14509804;stroke:#000031;stroke-width:0.26639706;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
        id="C_3_3"
@@ -930,7 +932,8 @@
        cy="-241.50764"
        rx="9.4600754"
        ry="4.3392062"
-       transform="scale(1,-1)" />
+       transform="scale(1,-1)"
+       oncklick="window.open('https://www.apec.fr/tous-nos-metiers/informatique/administrateur-de-bases-de-donnees.html','_blank');" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.72808814px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19971901"
