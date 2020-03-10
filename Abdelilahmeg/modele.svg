@@ -1268,7 +1268,7 @@
        inkscape:path-effect="#path-effect2124"
        inkscape:original-d="m 101.94037,181.56476 c 0.0983,4.02574 0.19643,8.05167 0.29433,12.07778" />
     <g
-       onclick=""
+       onclick="window.open('https://intlekt.io/?comments=A%3A.a.-','_blank'); "
        transform="matrix(0.9206214,0,0,-0.85340126,-3.0407928,355.43873)"
        inkscape:label="Clip"
        id="A_2">
