@@ -19,12 +19,12 @@
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    sodipodi:docname="modele.svg">
   <style
-     id="style883"
-     type="text/css"><![CDATA[
-  	.doit {
-  	cursor:pointer;
-  	}
-  	]]></style>
+     type="text/css"
+     id="style2">
+  .doigt {
+     cursor:pointer;
+     }
+  </style>
   <defs
      id="defs4056">
     <marker
