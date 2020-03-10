@@ -715,7 +715,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.8"
-     inkscape:cx="-2.42186"
+     inkscape:cx="337.1582"
      inkscape:cy="321.98466"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -840,12 +840,12 @@
          y="181.49962"
          style="stroke-width:0.19971901">Drone</tspan></text>
     <ellipse
-       style="fill:none;stroke:#00b231;stroke-width:0.31617367;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#00b231;stroke-width:0.31515214;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="C_0"
-       ry="45.790108"
-       rx="102.27473"
+       ry="45.790619"
+       rx="101.61378"
        cy="249.62468"
-       cx="107.72301" />
+       cx="107.06155" />
     <ellipse
        style="fill:none;stroke:#000031;stroke-width:0.37356594;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
        id="C_3"
