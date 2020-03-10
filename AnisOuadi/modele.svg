@@ -50,7 +50,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.3762595"
-     inkscape:cx="429.40318"
+     inkscape:cx="289.5313"
      inkscape:cy="298.81892"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -352,15 +352,15 @@
          style="stroke-width:0.26458332"
          id="tspan5460">          grandes surfaces</tspan></text>
     <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#00dc58;stroke-width:0.52916667;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="P_1_3"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#00dc58;stroke-width:0.5291667;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="P_1_2"
        width="18.576792"
        height="14.489457"
        x="2.9427223"
        y="140.30098" />
     <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#00dc58;stroke-width:0.52916667;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="P_1_2"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#00dc58;stroke-width:0.5291667;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="P_1_1"
        width="18.576794"
        height="14.489457"
        x="2.9427223"
@@ -373,8 +373,8 @@
        x="22.651855"
        y="140.40594" />
     <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#00dc58;stroke-width:0.52916667;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect5792"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#00dc58;stroke-width:0.5291667;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="P_1_3"
        width="18.576794"
        height="14.489457"
        x="22.651855"
@@ -704,7 +704,9 @@
        style="font-style:normal;font-weight:normal;font-size:4.58611107px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="12.481694"
        y="253.35777"
-       id="text5305-1-9"><tspan
+       id="text5305-1-9"
+       onclick="window.open('https://lov.linkeddata.es/dataset/lov/terms?q=Storage','_blanck')"
+       class="doigt"><tspan
          sodipodi:role="line"
          id="tspan5303-3-3"
          x="12.481694"
@@ -898,7 +900,9 @@
        style="font-style:normal;font-weight:normal;font-size:4.58611107px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="55.270828"
        y="275.10779"
-       id="text5305-1-9-2"><tspan
+       id="text5305-1-9-2"
+       onclick="window.open('http://dbpedia.org/ontology/ShoppingMall','_blanck')"
+       class="doigt"><tspan
          sodipodi:role="line"
          id="tspan5303-3-3-5"
          x="55.270828"
