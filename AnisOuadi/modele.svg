@@ -43,7 +43,11 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.3762595"
-     inkscape:cx="341.08576"
+<<<<<<< HEAD
+     inkscape:cx="366.84501"
+=======
+     inkscape:cx="333.72597"
+>>>>>>> 72970ce36b9d5c5b2fdccc18cb5969720d66c54a
      inkscape:cy="298.81892"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -837,7 +841,7 @@
     <path
        style="fill:none;stroke:#3133bf;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 200.40663,183.71115 c -8.45906,6.64949 -8.89913,16.56742 -10.13803,24.5578"
-       id="R_P2_C2_A1-1"
+       id="R_P2_C2_A1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
