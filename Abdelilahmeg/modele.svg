@@ -876,7 +876,8 @@
        cy="-239.25925"
        rx="9.4281197"
        ry="4.3394246"
-       transform="scale(1,-1)" />
+       transform="scale(1,-1)"
+       oncklick="window.open('https://intlekt.io/?comments=s.x.-','_blank'); " />
     <ellipse
        transform="scale(1,-1)"
        ry="4.3441038"
@@ -990,7 +991,8 @@
        x="128.66728"
        y="246.28011"
        id="C1_3_1"
-       transform="scale(1.0151669,0.98505971)"><tspan
+       transform="scale(1.0151669,0.98505971)"
+       oncklick="window.open('https://www.youtube.com/watch?v=OF132jIS8XM','_blank');"><tspan
          sodipodi:role="line"
          id="tspan10850"
          x="128.66728"
@@ -1002,7 +1004,8 @@
        x="140.93573"
        y="236.29417"
        id="C1_3_3"
-       transform="scale(1.0151669,0.98505971)"><tspan
+       transform="scale(1.0151669,0.98505971)"
+       oncklick="window.open('https://www.youtube.com/watch?v=XiKq8Bn961Y','_blank');"><tspan
          sodipodi:role="line"
          id="tspan10854"
          x="140.93573"
@@ -1014,7 +1017,8 @@
        x="168.83243"
        y="235.47795"
        id="C1_3_2"
-       transform="scale(0.97039034,1.0305131)"><tspan
+       transform="scale(0.97039034,1.0305131)"
+       oncklick="window.open('https://www.apec.fr/tous-nos-metiers/informatique/administrateur-de-bases-de-donnees.html','_blank');"><tspan
          sodipodi:role="line"
          id="tspan10858"
          x="168.83243"
@@ -1040,7 +1044,7 @@
        y="244.21951"
        id="C1_1_2"
        transform="scale(1.0151669,0.98505971)"
-       oncklick="window.open(''https://intlekt.io/?comments=s.x.-'','_blank'); "><tspan
+       oncklick="window.open('https://intlekt.io/?comments=s.x.-','_blank');"><tspan
          sodipodi:role="line"
          id="tspan10866"
          x="57.339035"
@@ -1306,7 +1310,7 @@
          y="209.33768"
          style="font-size:4.26067257px;stroke-width:0.19971901">Clients</tspan></text>
     <g
-       onclick=""
+       onclick="window.open('https://intlekt.io/?comments=E%3A.n.-','_blank'); "
        transform="matrix(0.89916771,0,0,-0.82767214,53.198191,356.55278)"
        inkscape:label="Clip"
        id="A_3">
