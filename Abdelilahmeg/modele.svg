@@ -926,7 +926,8 @@
        cx="143.36295"
        id="C_3_2"
        style="fill:#ffffff;fill-opacity:0.14509804;stroke:#000031;stroke-width:0.32340795;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-       oncklick="window.open('https://www.youtube.com/watch?v=OF132jIS8XM','_blank');" />
+       oncklick="window.open('https://www.youtube.com/watch?v=OF132jIS8XM','_blank');"
+       onclick="window.open('https://www.youtube.com/watch?v=OF132jIS8XM','_blank');" />
     <ellipse
        style="fill:#ffffff;fill-opacity:0.14509804;stroke:#000031;stroke-width:0.26639706;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
        id="C_3_3"
