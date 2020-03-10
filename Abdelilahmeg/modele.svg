@@ -715,7 +715,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.8"
-     inkscape:cx="158.82814"
+     inkscape:cx="-2.42186"
      inkscape:cy="321.98466"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -877,7 +877,8 @@
        rx="9.4281197"
        ry="4.3394246"
        transform="scale(1,-1)"
-       oncklick="window.open('https://intlekt.io/?comments=s.x.-','_blank'); " />
+       oncklick="window.open('https://intlekt.io/?comments=s.x.-','_blank'); "
+       onclick="window.open('https://intlekt.io/?comments=s.x.-','_blank');" />
     <ellipse
        transform="scale(1,-1)"
        ry="4.3441038"
@@ -956,7 +957,8 @@
        x="107.26881"
        y="245.80457"
        id="C1_2_2"
-       transform="scale(1.0151669,0.98505971)"><tspan
+       transform="scale(1.0151669,0.98505971)"
+       onclick="window.open('https://parisladefense.com/fr/decouvrir/chiffres-cles','_blank'); "><tspan
          sodipodi:role="line"
          id="tspan7151"
          x="107.26881"
