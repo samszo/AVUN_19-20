@@ -693,6 +693,9 @@
     <polygon
        points="0.000985714286 0.059456 67.2501107 0.059456 67.2501107 61 0.000985714286 61"
        id="path-1" />
+    <polygon
+       points="0.000985714286 0.059456 67.2501107 0.059456 67.2501107 61 0.000985714286 61"
+       id="path-1-7" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -827,12 +830,12 @@
          y="181.49962"
          style="stroke-width:0.19971901">Drone</tspan></text>
     <ellipse
-       style="fill:none;stroke:#00b231;stroke-width:0.3065941;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#00b231;stroke-width:0.31617367;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="C_0"
-       cx="101.60452"
+       ry="45.790108"
+       rx="102.27473"
        cy="249.62468"
-       rx="96.161026"
-       ry="45.794899" />
+       cx="107.72301" />
     <ellipse
        style="fill:none;stroke:#000031;stroke-width:0.37356594;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
        id="C_3"
@@ -1454,25 +1457,58 @@
        height="9.9218731"
        width="9.326561"
        onclick="window.open('https://www.java.com/en/download/','_blank'); " />
-    <rect
-       style="fill:none;fill-opacity:1;stroke:#db993c;stroke-width:0.26755652;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="P_4"
-       width="38.0313"
-       height="17.19536"
-       x="171.31898"
-       y="143.54294" />
     <path
        style="fill:none;stroke:#b0a400;stroke-width:0.25555599;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1277)"
-       d="m 149.8244,158.7626 c 7.06209,-2.76106 14.12388,-5.522 21.18537,-8.28283"
-       id="R_P4"
+       d="m 149.8244,158.7626 c 13.78655,20.38999 27.57315,40.78007 41.35985,61.17029"
+       id="R_P1_A4"
        inkscape:connector-curvature="0"
        inkscape:path-effect="#path-effect1141"
-       inkscape:original-d="m 149.8244,158.7626 c 7.06204,-2.7612 14.12382,-5.52215 21.18537,-8.28283" />
+       inkscape:original-d="m 149.8244,158.7626 c 13.78685,20.38979 27.57345,40.77986 41.35985,61.17029"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#9f00ca;stroke-width:0.25902161;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2933)"
+       d="m 194.47487,217.96033 c -7.7208,-1.98132 -15.44178,-3.96269 -23.16294,-5.9441"
+       id="R_A3_A1"
+       inkscape:connector-curvature="0"
+       inkscape:path-effect="#path-effect2923"
+       inkscape:original-d="m 194.47487,217.96033 c -7.72072,-1.98163 -15.4417,-3.963 -23.16294,-5.9441"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:original-d="m 164.97541,203.25693 c 8.30271,6.09224 16.60552,12.18502 24.9084,18.27831"
+       inkscape:path-effect="#path-effect3201"
+       inkscape:connector-curvature="0"
+       id="R_A3_A4"
+       d="m 164.97541,203.25693 c 8.30249,6.09254 16.6053,12.18532 24.9084,18.27831"
+       style="fill:none;stroke:#9f00ca;stroke-width:0.26908696;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3205)"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="A_4"
+       inkscape:label="Clip"
+       transform="matrix(0.6804698,0,0,-0.75436289,118.79295,360.76388)"
+       onclick="">
+      <path
+         transform="matrix(1.355803,0,0,1,47.05279,-4.4533826)"
+         d="m 49.761952,193.50763 -12.328815,-6.79303 -0.281472,-14.07358 12.047344,-7.28055 12.328815,6.79303 0.281471,14.07358 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="2.0743978"
+         sodipodi:arg1="1.550799"
+         sodipodi:r2="12.190517"
+         sodipodi:r1="14.076396"
+         sodipodi:cy="179.43405"
+         sodipodi:cx="49.48048"
+         sodipodi:sides="6"
+         id="path261"
+         style="fill:#ffffff;stroke:#b5b400;stroke-width:0.95079046;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="star" />
+    </g>
     <g
        id="Page-1"
-       transform="matrix(0.10399761,0,0,0.25372926,172.17762,144.39427)"
+       transform="matrix(0.0485573,0,0,0.26458333,187.72195,221.12279)"
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
-       oncklick="window.open('https://www.purestorage.com/fr/','_blank'); ">
+       oncklick="window.open('https://www.purestorage.com/fr/','_blank');
+">
       <g
          id="Group-28">
         <g
@@ -1481,8 +1517,8 @@
              fill="white"
              id="mask-2">
             <use
-               id="use2857"
-               xlink:href="#path-1"
+               id="use890"
+               xlink:href="#path-1-7"
                x="0"
                y="0"
                width="100%"
@@ -1508,7 +1544,7 @@
            inkscape:connector-curvature="0"
            style="fill:#222222" />
         <polygon
-           points="175.71863,18 175.71863,24.091569 165.00429,24.091569 165.00429,28.18985 174.20971,28.18985 174.20971,34.281419 165.00429,34.281419 165.00429,38.910913 176,38.910913 176,45 158,45 158,18 "
+           points="165.00429,38.910913 176,38.910913 176,45 158,45 158,18 175.71863,18 175.71863,24.091569 165.00429,24.091569 165.00429,28.18985 174.20971,28.18985 174.20971,34.281419 165.00429,34.281419 "
            id="Fill-8"
            style="fill:#222222" />
         <path
@@ -1517,7 +1553,7 @@
            inkscape:connector-curvature="0"
            style="fill:#222222" />
         <polygon
-           points="209.85463,20.76032 202,20.76032 202,18 221,18 221,20.76032 212.98775,20.76032 212.98775,45 209.85463,45 "
+           points="221,18 221,20.76032 212.98775,20.76032 212.98775,45 209.85463,45 209.85463,20.76032 202,20.76032 202,18 "
            id="Fill-12"
            style="fill:#222222" />
         <path
@@ -1536,7 +1572,7 @@
            inkscape:connector-curvature="0"
            style="fill:#222222" />
         <polygon
-           points="336.72173,18 336.72173,20.76032 325.12631,20.76032 325.12631,29.857957 335.1005,29.857957 335.1005,32.615795 325.12631,32.615795 325.12631,42.23968 337,42.23968 337,45 322,45 322,18 "
+           points="325.12631,42.23968 337,42.23968 337,45 322,45 322,18 336.72173,18 336.72173,20.76032 325.12631,20.76032 325.12631,29.857957 335.1005,29.857957 335.1005,32.615795 325.12631,32.615795 "
            id="Fill-20"
            style="fill:#222222" />
         <path
@@ -1556,19 +1592,5 @@
            style="fill:#222222" />
       </g>
     </g>
-    <path
-       style="fill:none;stroke:#9f00ca;stroke-width:0.25902161;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2933)"
-       d="m 174.3004,161.07492 c -3.86239,13.78308 -7.72487,27.56647 -11.58743,41.35016"
-       id="R_P4_A1"
-       inkscape:connector-curvature="0"
-       inkscape:path-effect="#path-effect2923"
-       inkscape:original-d="m 174.3004,161.07492 c -3.8622,13.78313 -7.72469,27.56652 -11.58743,41.35016" />
-    <path
-       inkscape:original-d="m 164.97136,203.25383 c 3.89542,-14.08351 7.79112,-28.16728 11.68711,-42.25128"
-       inkscape:path-effect="#path-effect3201"
-       inkscape:connector-curvature="0"
-       id="R_A1_P4"
-       d="m 164.97136,203.25383 c 3.89562,-14.08345 7.79132,-28.16722 11.68711,-42.25128"
-       style="fill:none;stroke:#9f00ca;stroke-width:0.26507878;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3205)" />
   </g>
 </svg>
