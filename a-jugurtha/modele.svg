@@ -7,11 +7,35 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg497"
    version="1.1"
    viewBox="0 0 211.66666 158.75"
    height="600"
-   width="800">
+   width="800"
+   sodipodi:docname="modele.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview184"
+     showgrid="false"
+     inkscape:zoom="1.5733333"
+     inkscape:cx="400"
+     inkscape:cy="300"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
   <defs
      id="defs491">
     <marker
@@ -79,7 +103,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -306,7 +330,7 @@
          style="stroke-width:0.26458332"
          y="219.88522"
          x="171.40169"
-         id="tspan5303">Serveur </tspan></text>
+         id="tspan5303">Serveurs </tspan></text>
     <text
        id="text5305-1"
        y="216.93587"
