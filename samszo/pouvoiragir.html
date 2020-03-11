@@ -110,6 +110,7 @@
             <div class="row">
               <h3>Auteur de l'écosystème : </h3>
               <h3 id='auteurEco'></h3>
+              <h5 id='urlEco'></h5>
             </div>
             <!-- calcul du pouvoir d'agir -->
             <div class="row rowPA">
@@ -209,10 +210,10 @@
         
         //affiche l'auteur
         d3.select("#auteurEco").html(d['Votre prénom']+" "+d['Votre nom']+" ("+d['N° étudiant']+")");
+        //affiche l'url du svg
+        var urlSVG = "http://"+window.location.hostname+"/AVUN_19-20/"+d['Votre compte GitHub']+"/modele.svg";
+        d3.select("#urlEco").html("<a target='_blank' href='"+urlSVG+"' >"+urlSVG+"</a>");
         
-
-        
-        var urlSVG = "../"+d['Votre compte GitHub']+"/modele.svg";
 
         d3.xml(urlSVG)
         .then(data => {
@@ -295,8 +296,6 @@
         //console.log(obj);
       }
     }
-    314854
-    536843
 
     function setDim(obj){
       if (obj.id.slice(0,2)=='P_' || obj.id.slice(0,2)=='A_' || obj.id.slice(0,2)=='C_' || obj.id.slice(0,2)=='R_') { 
