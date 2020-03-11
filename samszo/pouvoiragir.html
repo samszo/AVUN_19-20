@@ -211,8 +211,9 @@
         //affiche l'auteur
         d3.select("#auteurEco").html(d['Votre prénom']+" "+d['Votre nom']+" ("+d['N° étudiant']+")");
         //affiche l'url du svg
-        var urlSVG = "http://"+window.location.hostname+"/AVUN_19-20/"+d['Votre compte GitHub']+"/modele.svg";
-        d3.select("#urlEco").html("<a target='_blank' href='"+urlSVG+"' >"+urlSVG+"</a>");
+        var urlSVGAbs = "http://"+window.location.hostname+"/AVUN_19-20/"+d['Votre compte GitHub']+"/modele.svg";
+        var urlSVG = "../"+d['Votre compte GitHub']+"/modele.svg";
+        d3.select("#urlEco").html("<a target='_blank' href='"+urlSVGAbs+"' >"+urlSVGAbs+"</a>");
         
 
         d3.xml(urlSVG)
